@@ -1,0 +1,19 @@
+<!--このレイアウトファイルには、ヘッダーを含めるためのコードと、
+ページごとに異なる内容（'{{ content }}'）を配置する場所を定義する-->
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/js/scripts.js"></script>
+</head>
+<body>
+    {% include header.html %}
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>

@@ -1,0 +1,124 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+/* Logo styling */
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Hamburger menu styling */
+.hamburger-menu {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    width: 30px;
+}
+
+.hamburger-menu .bar {
+    height: 3px;
+    background-color: white;
+}
+
+/* Sidebar menu styling */
+.side-menu {
+    position: fixed;
+    top: 0;
+    right: -250px;
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: white;
+    transition: right 0.3s ease-in-out;
+    padding: 20px;
+}
+
+.side-menu ul {
+    list-style: none;
+}
+
+.side-menu ul li {
+    margin: 15px 0;
+}
+
+.side-menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* When the menu is active (visible) */
+.side-menu.active {
+    right: 0;
+}
+
+/* ヘッダースタイル */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.menu-button {
+    font-size: 1.5em;
+    background: none;
+    border: none;
+    color: #fff;
+}
+
+/* メニューのスタイル（最初は非表示） */
+.nav-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    background-color: #333;
+    color: #fff;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu li {
+    padding: 10px;
+    text-align: right;
+}
+
+.nav-menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* メニューが表示された時 */
+.nav-menu.active {
+    display: block;
+}
