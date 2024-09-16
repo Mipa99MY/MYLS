@@ -1,32 +1,32 @@
-/* Reset some default styles */
+/* デフォルトのスタイルをリセット */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Basic body styling */
+/* 基本のボディスタイル */
 body {
     font-family: Arial, sans-serif;
 }
 
-/* Header styling */
+/* ヘッダーのスタイル */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #333;
     color: white;
-    padding: 15px;
+    padding: 10px;
 }
 
-/* Logo styling */
+/* ロゴのスタイル */
 .logo {
-    font-size: 20px;
+    font-size: 1.5em;
     font-weight: bold;
 }
 
-/* Hamburger menu styling */
+/* ハンバーガーメニューのスタイル */
 .hamburger-menu {
     cursor: pointer;
     display: flex;
@@ -41,7 +41,7 @@ header {
     background-color: white;
 }
 
-/* Sidebar menu styling */
+/* サイドメニューのスタイル */
 .side-menu {
     position: fixed;
     top: 0;
@@ -68,34 +68,12 @@ header {
     font-size: 18px;
 }
 
-/* When the menu is active (visible) */
+/* メニューがアクティブ（表示）になったとき */
 .side-menu.active {
     right: 0;
 }
 
-/* ヘッダースタイル */
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
-}
-
-.logo {
-    font-size: 1.5em;
-    font-weight: bold;
-}
-
-.menu-button {
-    font-size: 1.5em;
-    background: none;
-    border: none;
-    color: #fff;
-}
-
-/* メニューのスタイル（最初は非表示） */
+/* ナビゲーションメニューのスタイル（レスポンシブデザイン用） */
 .nav-menu {
     display: none;
     position: absolute;
@@ -118,7 +96,66 @@ header {
     text-decoration: none;
 }
 
-/* メニューが表示された時 */
+/* メニューが表示されたとき */
 .nav-menu.active {
     display: block;
+}
+
+/* 歌詞表示エリアのスタイル */
+#lyricsContainer {
+    height: 300px; /* 必要に応じて調整 */
+    overflow-y: auto; /* 縦方向のスクロールを有効にする */
+    border: 1px solid #ddd; /* オプションで境界線を追加 */
+}
+
+/* 歌詞のスタイル */
+#lyrics {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 10px;
+    background-color: #f5f5f5;
+    color: #333;
+    white-space: pre-wrap; /* ホワイトスペースのフォーマットを保持 */
+}
+
+/* 特定のタグ付き歌詞のスタイル */
+.aespa {
+    color: black;
+}
+
+.MY {
+    background: linear-gradient(to right, #f0f, #0ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.with {
+    color: black;
+    position: relative;
+}
+
+.with::after {
+    content: attr(data-shadow);
+    position: absolute;
+    top: 0;
+    left: 2px; /* テキストシャドウのオフセットを調整 */
+    background: linear-gradient(to right, #f0f, #0ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* 翻訳のスタイル */
+.translation.jp {
+    font-size: 12px;
+    color: gray;
+}
+
+.translation.en {
+    font-size: 12px;
+    color: gray;
+}
+
+/* iframe のスタイル設定 */
+iframe {
+    border: none; /* frameBorder を代替するために border を設定 */
 }

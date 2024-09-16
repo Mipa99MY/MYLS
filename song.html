@@ -2,9 +2,6 @@
 layout: default
 title: 曲ページ
 ---
-<h1 id="songTitle">曲のタイトル</h1>
-<div id="youtubeVideo"></div>
-<div id="lyrics">歌詞がここに表示されます</div>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,16 +12,21 @@ title: 曲ページ
     <style>
         /* スタイルをここに追加できます */
     </style>
+    <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
     <h1 id="songTitle">曲のタイトル</h1>
     <div id="youtubeVideo">
         <!-- YouTube 動画がここに埋め込まれます -->
     </div>
-    <div id="lyrics">
+    
+    <!-- 歌詞表示エリア -->
+    <div id="lyricsContainer">
+        <div id="lyrics">
         <!-- 歌詞がここに表示されます -->
+        </div>
     </div>
-
+    <script src="https://www.youtube.com/iframe_api"></script>
     <!-- JavaScript ファイルの読み込み -->
     <script src="songs.js"></script>
 </body>
