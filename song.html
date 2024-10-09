@@ -1,33 +1,37 @@
----
-layout: default
-title: 曲ページ
----
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Song Details</title>
-    <style>
-        /* スタイルをここに追加できます */
-    </style>
-    <script src="https://www.youtube.com/iframe_api"></script>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body>
-    <h1 id="songTitle">曲のタイトル</h1>
-    <div id="youtubeVideo">
-        <!-- YouTube 動画がここに埋め込まれます -->
-    </div>
-    
-    <!-- 歌詞表示エリア -->
-    <div id="lyricsContainer">
-        <div id="lyrics">
-        <!-- 歌詞がここに表示されます -->
+    <header>
+        <div class="logo">
+            <h1>{{ page.title }}</h1>  <!-- 曲名を表示 -->
         </div>
-    </div>
-    <script src="https://www.youtube.com/iframe_api"></script>
-    <!-- JavaScript ファイルの読み込み -->
-    <script src="songs.js"></script>
+        <!-- 他のヘッダー部分 -->
+    </header>
+
+    <main>
+        <div id="youtubeVideo">
+            <!-- YouTube動画の埋め込み -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoId }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <!-- 歌詞表示エリア -->
+        <div id="lyricsContainer">
+            <div id="lyrics">
+                <!-- JavaScriptでSRTファイルを読み込んで表示する -->
+            </div>
+        </div>
+    </main>
+
+    <script src="/assets/js/songs.js"></script>
+    <script>
+        // JavaScriptでYouTubeの動画再生時間に基づいて歌詞をスクロールさせる処理
+        loadLyrics('{{ page.lyricsFile }}');  // 歌詞ファイル（SRT）をロード
+    </script>
 </body>
 </html>
