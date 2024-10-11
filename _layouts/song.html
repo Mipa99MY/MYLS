@@ -6,6 +6,12 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
+
+<script>
+    const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
+    const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
+    loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
+</script>
 <body>
     <header>
         <div class="logo">
