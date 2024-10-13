@@ -5,13 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
 </head>
-
-<script>
-    const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
-    const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
-    loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
-</script>
 <body>
     <header>
         <div class="logo">
@@ -23,7 +18,7 @@
     <main>
         <div id="youtubeVideo">
             <!-- YouTube動画の埋め込み -->
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoId }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/{{ page.videoId }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <!-- 歌詞表示エリア -->
@@ -34,10 +29,12 @@
         </div>
     </main>
 
-    <script src="/assets/js/songs.js"></script>
+    <script src="/assets/js/songs.js"></script> <!-- この行を先に -->
     <script>
-        // JavaScriptでYouTubeの動画再生時間に基づいて歌詞をスクロールさせる処理
-        loadLyrics('{{ page.lyricsFile }}');  // 歌詞ファイル（SRT）をロード
+        const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
+        const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
+        console.log("Loading lyrics from:", lyricsFile); // デバッグ用
+        loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
     </script>
 </body>
 </html>
