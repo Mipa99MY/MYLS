@@ -29,7 +29,8 @@
         </div>
     </main>
 
-    <script src="/assets/js/songs.js"></script> <!-- この行を先に -->
+
+    <script src="{{ site.baseurl }}/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script>
         const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
         const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
