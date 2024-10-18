@@ -7,9 +7,12 @@ function loadLyrics(lyricsFile) {
             }
             return response.text();
         })
+        // SRTファイルを読み込んだ後にデータを確認するためにログを出力
+        // lyricsデータを確認したい場合は以下の箇所で
         .then(data => {
-            const lyrics = parseSRT(data);
-            syncLyricsWithVideo(lyrics);
+        const lyrics = parseSRT(data);
+        console.log(lyrics);  // ここで正しくパースされた歌詞を確認
+        syncLyricsWithVideo(lyrics);
         })
         .catch(error => {
             console.error('Error loading lyrics:', error);
@@ -101,6 +104,3 @@ function updateLyricsDisplay(currentTime, lyrics) {
         lyricsContainer.innerHTML = '<div>（lyrics not found!）</div>';
     }
 }
-
-// SRTファイルを読み込んだ後にデータを確認するためにログを出力
-console.log(lyrics);  // SRTのデータが正しくパースされているか確認
