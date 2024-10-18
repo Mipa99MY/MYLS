@@ -4,13 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    {% if page.css != false %}
     <link rel="stylesheet" href="/assets/css/styles.css">
+    {% endif %}
 </head>
 <body>
     {% include header.html %}
     <main>
         {{ content }}
     </main>
+    {% if page.js != false %}
     <script src="/assets/js/scripts.js"></script>
+    {% endif %}
 </body>
 </html>
