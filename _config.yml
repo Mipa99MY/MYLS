@@ -56,3 +56,7 @@ plugins:
 
 include:
   - srt
+
+collections:
+  songs:
+    output: true
