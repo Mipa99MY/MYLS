@@ -34,7 +34,9 @@
         document.addEventListener('DOMContentLoaded', () => {
             const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
             const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
-            console.log("Loading lyrics from:", lyricsFile); // デバッグ用
+            console.log("DOMContentLoaded event fired"); // デバッグ用
+            console.log("Video ID:", videoId); // videoId が正しく取得できているか確認
+            console.log("Loading lyrics from:", lyricsFile); // lyricsFile が正しく取得できているか確認
             loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
         });
     </script>

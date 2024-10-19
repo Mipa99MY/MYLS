@@ -1,5 +1,5 @@
 function loadLyrics(lyricsFile) {
-    console.log("Loading lyrics from:", lyricsFile);  // 追加
+    console.log("loadLyrics function called with file:", lyricsFile);  // 追加
     fetch(lyricsFile)
     .then(response => {
         console.log("Fetch response:", response);  // ファイル取得のレスポンスを確認
