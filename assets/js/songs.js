@@ -1,22 +1,23 @@
 function loadLyrics(lyricsFile) {
     console.log("Loading lyrics from:", lyricsFile);  // 追加
     fetch(lyricsFile)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`Network response was not ok: ${response.statusText}`);
-            }
-            return response.text();
-        })
+    .then(response => {
+        console.log("Fetch response:", response);  // ファイル取得のレスポンスを確認
+        if (!response.ok) {
+            throw new Error(`Network response was not ok: ${response.statusText}`);
+        }
+        return response.text();
+    })
         // SRTファイルを読み込んだ後にデータを確認するためにログを出力
         // lyricsデータを確認したい場合は以下の箇所で
-        .then(data => {
+    .then(data => {
         const lyrics = parseSRT(data);
         console.log(lyrics);  // ここで正しくパースされた歌詞を確認
         syncLyricsWithVideo(lyrics);
-        })
-        .catch(error => {
-            console.error('Error loading lyrics:', error);
-        });
+    })
+    .catch(error => {
+        console.error('Error loading lyrics:', error);
+    });
 }
 
 function parseSRT(data) {
