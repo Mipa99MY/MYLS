@@ -12,7 +12,7 @@ function loadLyrics(lyricsFile) {
         // lyricsデータを確認したい場合は以下の箇所で
     .then(data => {
         const lyrics = parseSRT(data);
-        console.log(lyrics);  // ここで正しくパースされた歌詞を確認
+        console.log("Lyrics loaded:", lyrics);  // ここで正しくパースされた歌詞を確認
         syncLyricsWithVideo(lyrics);
     })
     .catch(error => {

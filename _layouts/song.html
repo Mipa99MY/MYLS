@@ -29,13 +29,14 @@
         </div>
     </main>
 
-
     <script src="{{ site.baseurl }}/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script>
-        const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
-        const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
-        console.log("Loading lyrics from:", lyricsFile); // デバッグ用
-        loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
+        document.addEventListener('DOMContentLoaded', () => {
+            const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
+            const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
+            console.log("Loading lyrics from:", lyricsFile); // デバッグ用
+            loadLyrics(lyricsFile); // lyricsFileをloadLyricsに渡す
+        });
     </script>
 </body>
 </html>
