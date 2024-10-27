@@ -4,3 +4,9 @@ title: Armageddon
 videoId: nFYwcndNuOY # YouTube動画のIDを入力
 lyricsFile: /MYLS/srt/armageddon.srt # 歌詞のSRTファイル名を入力
 ---
+<!-- videoId と lyricsFile を JavaScript に渡す -->
+<script>
+    const videoId = "{{ page.videoId }}";
+    const lyricsFile = "{{ page.lyricsFile }}";
+</script>
+<script src="{{ site.baseurl }}/assets/js/songs.js"></script>
