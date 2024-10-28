@@ -9,6 +9,8 @@ lyricsFile: /MYLS/srt/hot_mess.srt # 歌詞のSRTファイル名を入力
     document.addEventListener("DOMContentLoaded", function() {
         const videoId = "{{ page.videoId }}";
         const lyricsFile = "{{ page.lyricsFile }}";
+        console.log("videoId:", videoId);  // これで変数の中身を確認
+        console.log("lyricsFile:", lyricsFile);  // 同じく確認
         loadLyrics(lyricsFile, videoId); // loadLyricsにvideoIdを渡す
     });
 </script>
