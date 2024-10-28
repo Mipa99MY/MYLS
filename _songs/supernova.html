@@ -6,7 +6,10 @@ lyricsFile: /MYLS/srt/supernova.srt # 歌詞のSRTファイル名を入力
 ---
 <!-- videoId と lyricsFile を JavaScript に渡す -->
 <script>
-    const videoId = "{{ page.videoId }}";
-    const lyricsFile = "{{ page.lyricsFile }}";
+    document.addEventListener("DOMContentLoaded", function() {
+        const videoId = "{{ page.videoId }}";
+        const lyricsFile = "{{ page.lyricsFile }}";
+        loadLyrics(lyricsFile, videoId); // loadLyricsにvideoIdを渡す
+    });
 </script>
 <script src="{{ site.baseurl }}/assets/js/songs.js"></script>

@@ -13,7 +13,7 @@ function loadLyrics(lyricsFile) {
     .then(data => {
         const lyrics = parseSRT(data);
         console.log("Lyrics loaded:", lyrics);  // ここで正しくパースされた歌詞を確認
-        syncLyricsWithVideo(lyrics);
+        syncLyricsWithVideo(lyrics, videoId); // videoIdをsyncLyricsWithVideoに渡す
     })
     .catch(error => {
         console.error('Error loading lyrics:', error);
@@ -56,7 +56,7 @@ function parseSRT(data) {
 
 let player; // プレイヤーオブジェクトをグローバルスコープで定義
 
-function syncLyricsWithVideo(lyrics) {
+function syncLyricsWithVideo(lyrics, videoId) { // videoIdを受け取るように変更
     player = new YT.Player('youtubeVideo', {
         videoId: videoId, // Jekyllの変数から渡されたYouTube動画ID
         events: {
