@@ -2,8 +2,18 @@
     "version": 2,
     "builds": [
         {
-        "src": "Gemfile",
-        "use": "@vercel/ruby"
+            "src": "Gemfile",
+            "use": "@vercel/ruby"
+        },
+        {
+            "src": "index.html",  // ルートディレクトリに存在する場合の例
+            "use": "@vercel/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
         }
     ]
 }
