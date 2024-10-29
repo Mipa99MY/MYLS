@@ -6,7 +6,7 @@
             "use": "@vercel/ruby"
         },
         {
-            "src": "index.html",  // ルートディレクトリに存在する場合の例
+            "src": "index.html",
             "use": "@vercel/static"
         }
     ],
