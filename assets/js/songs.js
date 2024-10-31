@@ -1,3 +1,6 @@
+// JekyllからvideoIdを取得
+const videoId = "{{ page.videoId }}"; // フロントマターから取得するYouTubeの動画ID
+
 function loadLyrics(lyricsFile) {
     console.log("loadLyrics function called with file:", lyricsFile);  // 追加
     fetch(lyricsFile)
@@ -8,8 +11,6 @@ function loadLyrics(lyricsFile) {
         }
         return response.text();
     })
-        // SRTファイルを読み込んだ後にデータを確認するためにログを出力
-        // lyricsデータを確認したい場合は以下の箇所で
     .then(data => {
         const lyrics = parseSRT(data);
         console.log("Lyrics loaded:", lyrics);  // ここで正しくパースされた歌詞を確認
@@ -21,33 +22,29 @@ function loadLyrics(lyricsFile) {
 }
 
 function parseSRT(data) {
-    // SRTファイルの内容を解析して、時間と歌詞を取得する処理
     const lines = data.split('\n');
     const regex = /(\d{2}):(\d{2}):(\d{2}),(\d{3}) --> (\d{2}):(\d{2}):(\d{2}),(\d{3})/;
     const lyrics = [];
     
     let currentLine = 0;
     while (currentLine < lines.length) {
-        // 空行をスキップ
         if (lines[currentLine].trim() === '') {
             currentLine++;
             continue;
         }
 
-        // 時間の行を解析
         if (regex.test(lines[currentLine + 1])) {
             const timeMatch = regex.exec(lines[currentLine + 1]);
             const startTime = parseFloat(timeMatch[1]) * 3600 + parseFloat(timeMatch[2]) * 60 + parseFloat(timeMatch[3]) + parseFloat(timeMatch[4]) / 1000;
             const endTime = parseFloat(timeMatch[5]) * 3600 + parseFloat(timeMatch[6]) * 60 + parseFloat(timeMatch[7]) + parseFloat(timeMatch[8]) / 1000; // 終了時間も取得
             
-            // 歌詞を結合して取得
             let text = '';
             currentLine += 2;
             while (lines[currentLine] && lines[currentLine].trim() !== '') {
                 text += lines[currentLine] + ' ';
                 currentLine++;
             }
-            lyrics.push({ startTime, endTime, text: text.trim() }); // 歌詞オブジェクトに開始時間、終了時間を追加
+            lyrics.push({ startTime, endTime, text: text.trim() });
         }
         currentLine++;
     }
@@ -90,15 +87,12 @@ function updateLyricsDisplay(currentTime, lyrics) {
     lyricsContainer.innerHTML = '';
 
     if (currentLyrics.length > 0) {
-        // 各歌詞行を処理
         currentLyrics.forEach(lyric => {
-            // カスタムタグを処理
             let formattedLyric = lyric.text
                 .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>') // aespa タグをクラスに変換
                 .replace(/<MY>(.*?)<\/MY>/g, '<span class="my">$1</span>') // MY タグをクラスに変換
                 .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>'); // with タグをクラスに変換
 
-            // 歌詞をコンテナに追加
             lyricsContainer.innerHTML += `<div>${formattedLyric}</div>`;
         });
     } else {
