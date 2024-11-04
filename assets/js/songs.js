@@ -2,10 +2,10 @@
 const videoId = "{{ page.videoId }}"; // フロントマターから取得するYouTubeの動画ID
 
 function loadLyrics(lyricsFile) {
-    console.log("loadLyrics function called with file:", lyricsFile);  // 追加
+    console.log("loadLyrics function called with file:", lyricsFile);
     fetch(lyricsFile)
     .then(response => {
-        console.log("Fetch response:", response);  // ファイル取得のレスポンスを確認
+        console.log("Fetch response:", response); // ファイル取得のレスポンスを確認
         if (!response.ok) {
             throw new Error(`Network response was not ok: ${response.statusText}`);
         }
@@ -13,7 +13,8 @@ function loadLyrics(lyricsFile) {
     })
     .then(data => {
         const lyrics = parseSRT(data);
-        console.log("Lyrics loaded:", lyrics);  // ここで正しくパースされた歌詞を確認
+        console.log("Lyrics loaded:", lyrics); // ここで正しくパースされた歌詞を確認
+        displayAllLyrics(lyrics); // 初期表示で全歌詞を表示
         syncLyricsWithVideo(lyrics, videoId); // videoIdをsyncLyricsWithVideoに渡す
     })
     .catch(error => {
@@ -21,6 +22,7 @@ function loadLyrics(lyricsFile) {
     });
 }
 
+// SRTファイルのデータを解析し、歌詞のタイムスタンプを取得する関数
 function parseSRT(data) {
     const lines = data.split('\n');
     const regex = /(\d{2}):(\d{2}):(\d{2}),(\d{3}) --> (\d{2}):(\d{2}):(\d{2}),(\d{3})/;
@@ -36,7 +38,7 @@ function parseSRT(data) {
         if (regex.test(lines[currentLine + 1])) {
             const timeMatch = regex.exec(lines[currentLine + 1]);
             const startTime = parseFloat(timeMatch[1]) * 3600 + parseFloat(timeMatch[2]) * 60 + parseFloat(timeMatch[3]) + parseFloat(timeMatch[4]) / 1000;
-            const endTime = parseFloat(timeMatch[5]) * 3600 + parseFloat(timeMatch[6]) * 60 + parseFloat(timeMatch[7]) + parseFloat(timeMatch[8]) / 1000; // 終了時間も取得
+            const endTime = parseFloat(timeMatch[5]) * 3600 + parseFloat(timeMatch[6]) * 60 + parseFloat(timeMatch[7]) + parseFloat(timeMatch[8]) / 1000;
             
             let text = '';
             currentLine += 2;
@@ -53,49 +55,71 @@ function parseSRT(data) {
 
 let player; // プレイヤーオブジェクトをグローバルスコープで定義
 
-function syncLyricsWithVideo(lyrics, videoId) { // videoIdを受け取るように変更
+// 初期表示で全歌詞を画面に表示する関数
+function displayAllLyrics(lyrics) {
+    const lyricsContainer = document.getElementById('lyrics');
+    lyricsContainer.innerHTML = ''; // 一旦クリア
+
+    lyrics.forEach(lyric => {
+        let formattedLyric = lyric.text
+            .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>')
+            .replace(/<MY>(.*?)<\/MY>/g, '<span class="my">$1</span>')
+            .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>');
+        lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
+    });
+}
+
+// 動画再生に合わせて歌詞を自動スクロールする関数
+function syncLyricsWithVideo(lyrics, videoId) {
     player = new YT.Player('youtubeVideo', {
-        videoId: videoId, // Jekyllの変数から渡されたYouTube動画ID
+        videoId: videoId,
+        width: '300',
+        height: '170',
         events: {
             'onStateChange': function (event) {
-                if (event.data == YT.PlayerState.PLAYING) {
-                    setInterval(() => {
-                        const currentTime = getCurrentTime(); // 現在の再生時間を取得
+                if (event.data === YT.PlayerState.PLAYING) {
+                    // 再生中インターバルの重複を避けるため、intervalIdが設定されていればクリアする
+                    if (window.lyricsInterval) clearInterval(window.lyricsInterval);
+
+                    // 1秒ごとに歌詞を更新してハイライトとスクロールを適用
+                    window.lyricsInterval = setInterval(() => {
+                        const currentTime = getCurrentTime();
                         updateLyricsDisplay(currentTime, lyrics);
                     }, 1000);
+                } else {
+                    // 再生が停止または一時停止された場合、インターバルをクリア
+                    clearInterval(window.lyricsInterval);
                 }
             }
         }
     });
 }
 
-function getCurrentTime() {
-    if (player) {
-        return player.getCurrentTime(); // 現在の再生時間を取得
+// 現在の再生位置に合わせて歌詞のハイライトとスクロールを行う関数
+function updateLyricsDisplay(currentTime, lyrics) {
+    console.log("Current time:", currentTime);
+
+    const lyricsContainer = document.getElementById('lyrics');
+    const lyricLines = lyricsContainer.getElementsByClassName('lyric-line');
+
+    // 歌詞行のハイライトとスクロールの設定
+    for (let i = 0; i < lyricLines.length; i++) {
+        const start = parseFloat(lyricLines[i].getAttribute('data-start'));
+        const nextLineStart = lyricLines[i + 1] ? parseFloat(lyricLines[i + 1].getAttribute('data-start')) : Infinity;
+
+        if (currentTime >= start && currentTime < nextLineStart) {
+            lyricLines[i].classList.add('highlight');
+            lyricLines[i].scrollIntoView({ behavior: 'smooth', block: 'center' }); // 自動スクロール
+        } else {
+            lyricLines[i].classList.remove('highlight');
+        }
     }
-    return 0; // プレイヤーがまだ初期化されていない場合
 }
 
-// 歌詞の表示関数
-function updateLyricsDisplay(currentTime, lyrics) {
-    const lyricsContainer = document.getElementById('lyrics'); // 歌詞を表示するコンテナを取得
-
-    // 現在の時間に対応する歌詞を取得
-    const currentLyrics = lyrics.filter(lyric => currentTime >= lyric.startTime && currentTime <= lyric.endTime);
-
-    // コンテナをクリア
-    lyricsContainer.innerHTML = '';
-
-    if (currentLyrics.length > 0) {
-        currentLyrics.forEach(lyric => {
-            let formattedLyric = lyric.text
-                .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>') // aespa タグをクラスに変換
-                .replace(/<MY>(.*?)<\/MY>/g, '<span class="my">$1</span>') // MY タグをクラスに変換
-                .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>'); // with タグをクラスに変換
-
-            lyricsContainer.innerHTML += `<div>${formattedLyric}</div>`;
-        });
-    } else {
-        lyricsContainer.innerHTML = '<div>（lyrics not found!）</div>';
+// プレイヤーから現在の再生時間を取得する関数
+function getCurrentTime() {
+    if (player) {
+        return player.getCurrentTime(); // プレイヤーの現在の再生時間を取得
     }
+    return 0; // プレイヤーがまだ初期化されていない場合
 }

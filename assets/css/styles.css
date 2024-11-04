@@ -159,3 +159,17 @@ header {
 iframe {
     border: none; /* frameBorder を代替するために border を設定 */
 }
+
+#lyrics {
+    overflow-y: auto; /* スクロール可能にする */
+    max-height: 300px; /* 適切な高さに調整 */
+}
+
+.lyric-line {
+    padding: 5px 0;
+}
+
+.highlight {
+    background-color: rgba(255, 255, 0, 0.2); /* ハイライト色を調整 */
+    font-weight: bold;
+}
