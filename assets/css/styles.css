@@ -1,175 +1,84 @@
-/* デフォルトのスタイルをリセット */
+/* ページ全体の基本のスタイルを */
+/* このファイルに記述します。 */
+/* bodyや.container、歌詞テキストに関するスタイル、 */
+/* その他の要素に関するスタイルを含みます。 */
+
+/* 基本のリセットスタイル */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-/* 基本のボディスタイル */
-body {
     font-family: Arial, sans-serif;
 }
 
-/* ヘッダーのスタイル */
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    color: white;
-    padding: 10px;
+/* 全体のボディスタイル */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 60px; /* 固定ヘッダーの高さ分のスペース */
 }
 
-/* ロゴのスタイル */
-.logo {
-    font-size: 1.5em;
-    font-weight: bold;
+/* コンテナの基本スタイル */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
 }
 
-/* ハンバーガーメニューのスタイル */
-.hamburger-menu {
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 24px;
-    width: 30px;
-}
-
-.hamburger-menu .bar {
-    height: 3px;
-    background-color: white;
-}
-
-/* サイドメニューのスタイル */
-.side-menu {
-    position: fixed;
-    top: 0;
-    right: -250px;
-    width: 250px;
-    height: 100%;
-    background-color: #333;
-    color: white;
-    transition: right 0.3s ease-in-out;
-    padding: 20px;
-}
-
-.side-menu ul {
-    list-style: none;
-}
-
-.side-menu ul li {
-    margin: 15px 0;
-}
-
-.side-menu ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-/* メニューがアクティブ（表示）になったとき */
-.side-menu.active {
-    right: 0;
-}
-
-/* ナビゲーションメニューのスタイル（レスポンシブデザイン用） */
-.nav-menu {
-    display: none;
-    position: absolute;
-    top: 50px;
-    right: 10px;
-    background-color: #333;
-    color: #fff;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.nav-menu li {
-    padding: 10px;
-    text-align: right;
-}
-
-.nav-menu li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-/* メニューが表示されたとき */
-.nav-menu.active {
-    display: block;
-}
-
-/* 歌詞表示エリアのスタイル */
+/* 歌詞エリア */
 #lyricsContainer {
-    height: 300px; /* 必要に応じて調整 */
-    overflow-y: auto; /* 縦方向のスクロールを有効にする */
-    border: 1px solid #ddd; /* オプションで境界線を追加 */
+    max-height: 400px;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* 歌詞のスタイル */
 #lyrics {
-    font-size: 16px;
-    line-height: 1.5;
-    padding: 10px;
-    background-color: #f5f5f5;
-    color: #333;
-    white-space: pre-wrap; /* ホワイトスペースのフォーマットを保持 */
+    font-size: 1.1em;
+    line-height: 1.6;
 }
 
-/* 特定のタグ付き歌詞のスタイル */
+/* 歌詞のタグ別スタイル */
 .aespa {
     color: black;
 }
 
 .MY {
-    background: linear-gradient(to right, #f0f, #0ff);
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
     -webkit-background-clip: text;
     color: transparent;
 }
 
 .with {
     color: black;
-    position: relative;
+    text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.5);
 }
 
-.with::after {
-    content: attr(data-shadow);
-    position: absolute;
-    top: 0;
-    left: 2px; /* テキストシャドウのオフセットを調整 */
-    background: linear-gradient(to right, #f0f, #0ff);
-    -webkit-background-clip: text;
-    color: transparent;
-}
-
-/* 翻訳のスタイル */
-.translation.jp {
-    font-size: 12px;
-    color: gray;
-}
-
+/* 翻訳エリアのスタイル */
+.translation.jp,
 .translation.en {
-    font-size: 12px;
     color: gray;
+    font-size: 0.9em;
+    padding-top: 10px;
 }
 
-/* iframe のスタイル設定 */
+/* iframe スタイル */
 iframe {
-    border: none; /* frameBorder を代替するために border を設定 */
+    border: none;
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
 }
 
-#lyrics {
-    overflow-y: auto; /* スクロール可能にする */
-    max-height: 300px; /* 適切な高さに調整 */
-}
-
-.lyric-line {
-    padding: 5px 0;
-}
-
+/* 強調表示用 */
 .highlight {
-    background-color: rgba(255, 255, 0, 0.2); /* ハイライト色を調整 */
-    font-weight: bold;
+    background-color: #ffff99;
+    padding: 2px 4px;
+    border-radius: 3px;
 }

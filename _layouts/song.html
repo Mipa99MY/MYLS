@@ -5,18 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/header.css">
     <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
-    <h2>Test Message: This is a test!</h2>
-    <header>
+    <!-- 共通ヘッダーの読み込み -->
+    {% include header.html %}
+
+    <main>
+        <!-- 曲名の表示部分 -->
         <div class="logo">
             <h1>{{ page.title }}</h1>  <!-- 曲名を表示 -->
         </div>
-        <!-- 他のヘッダー部分 -->
-    </header>
 
-    <main>
         <div id="youtubeVideo">
             <!-- YouTube動画の埋め込み -->
             <iframe width="280" height="158" src="https://www.youtube.com/embed/{{ page.videoId }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
