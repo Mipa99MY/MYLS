@@ -90,7 +90,7 @@ iframe {
 /* 翻訳テキストのスタイル */
 jp {
     font-size: 0.8em;
-    color: gray; /* 日本語翻訳の文字色 */
+    color: darkgray; /* 日本語翻訳の文字色 */
     padding-top: 4px;
     display: block;
 }
