@@ -25,62 +25,62 @@
 7
 00:00:20,507 --> 00:00:21,438
 <aespa>짙은 어둠이</aespa>
-深い暗闇が
-When the thick darkness
+<jp>深い暗闇が
+<en>When the thick darkness</en>
 
 8
 00:00:21,438 --> 00:00:22,778
 <aespa>막아설 땐</aespa> <with>Uh</with>
-立ちはだかる時には Uh
-Stops ya, Uh
+<jp>立ちはだかる時には Uh</jp>
+<en>Stops ya, Uh</en>
 
 9
 00:00:22,981 --> 00:00:23,899
 <aespa>한 걸음 앞으로</aespa>
-一歩前へ
-One step forward
+<jp>一歩前へ</jp>
+<en>One step forward</en>
 
 10
 00:00:23,899 --> 00:00:25,025
 <aespa>날아든</aespa> <with>It’s bad</with>
-舞い込んだ It’s bad
-Swoop, It's bad
+<jp>舞い込んだ It’s bad</jp>
+<en>Swoop, It's bad</en>
 
 11
 00:00:25,025 --> 00:00:26,318
 <aespa>사라진</aespa> <with>Feedback</with>
-消えた Feedback
-Gone, Feedback
+<jp>消えた Feedback</jp>
+<en>Gone, Feedback</en>
 
 12
 00:00:26,318 --> 00:00:27,986
 <aespa>시작된 Code black</aespa> <with>Uh</with>
-始まった Code black Uh
-Hit it, Code black Uh
+<jp>始まった Code black Uh</jp>
+<en>Hit it, Code black Uh</en>
 
 13
 00:00:27,986 --> 00:00:28,616
 <aespa>깊어가</aespa>
-更けていく
-Getting deeper
+<jp>更けていく</jp>
+<en>Getting deeper</en>
 
 14
 00:00:28,918 --> 00:00:29,959
 <aespa>혼란스러운 밤</aespa>
-入り乱れる夜
-This chaotic night
+<jp>入り乱れる夜</jp>
+<en>This chaotic night</en>
 
 15
 00:00:30,257 --> 00:00:32,573
 <aespa>악몽은 또 짙게 번져가</aespa>
-悪夢はまた色濃く滲んでいく
-And sticky thick nightmare creeps
+<jp>悪夢はまた色濃く滲んでいく</jp>
+<en>And sticky thick nightmare creeps</en>
 
 16
 00:00:32,573 --> 00:00:33,875
 <aespa>뭔갈 숨기려고 해</aespa>
-何かを隠そうとしている
-Tryna hide something
+<jp>何かを隠そうとしている</jp>
+<en>Tryna hide something</en>
 
 17
 00:00:34,489 --> 00:00:35,994
@@ -89,14 +89,14 @@ Tryna hide something
 18
 00:00:36,053 --> 00:00:37,371
 <aespa>혼돈을 타고</aespa>
-カオスに紛れて
-Riding in on the chaos, then
+<jp>カオスに紛れて</jp>
+<en>Riding in on the chaos, then</en>
 
 19
 00:00:37,371 --> 00:00:38,690
 <aespa>덮쳐, killing like</aespa>
-襲いかかる Killing like
-Strike, Killing like
+<jp>襲いかかる Killing like</jp>
+<en>Strike, Killing like</en>
 
 20
 00:00:38,747 --> 00:00:39,665
@@ -125,8 +125,8 @@ Strike, Killing like
 26
 00:00:46,296 --> 00:00:47,525
 <aespa>나에게 더 가까이 와라<aespa>
-私に近づいてきて 近づいてきて
-Come to me, closer, closer
+<jp>私に近づいてきて 近づいてきて</jp>
+<en>Come to me, closer, closer</en>
 
 27
 00:00:47,569 --> 00:00:48,984
@@ -136,337 +136,337 @@ Come to me, closer, closer
 00:00:49,175 --> 00:00:51,704
 <aespa>Done</aespa> <with>(Aw wayo wayo)</with>
 
-30
+29
 00:00:52,010 --> 00:00:54,967
 <aespa>널 향해 겨눠 Get it, gone</aespa>
-君に向かって狙いを定める Get it, gone
-Aimed at ya, Get it, gone
+<jp>君に向かって狙いを定める Get it, gone</jp>
+<en>Aimed at ya, Get it, gone</en>
 
-31
+30
 00:00:55,333 --> 00:00:56,974
 <with>(Aw wayo wayo)</with>
 
-32
+31
 00:00:57,266 --> 00:00:59,673
 <aespa>이젠 널 끝내 Better run</aespa>
-もう君を仕留める Better run
-Now I finish ya, Better run
+<jp>もう君を仕留める Better run</jp>
+<en>Now I finish ya, Better run</en>
 
-33
+32
 00:00:59,673 --> 00:01:02,271
 <aespa>끝을 모르는 너와 나, you gonna, gonna</aespa>
-(終わりを知らない君と私 You gonna, gonna)
-(You and I we know no end, You gonna, gonna)
+<jp>(終わりを知らない君と私 You gonna, gonna)</jp>
+<en>(You and I we know no end, You gonna, gonna)</en>
 
-34
+33
 00:01:02,577 --> 00:01:05,388
 <aespa>깨트려 거침없이 Done</aespa>
-ぶち壊す 躊躇せずに Done
-Smash it no doubt, Done
+<jp>ぶち壊す 躊躇せずに Done</jp>
+<en>Smash it no doubt, Done</en>
 
-35
+34
 00:01:05,774 --> 00:01:07,431
 <with>(Go way up, way up)</with>
 
-36
+35
 00:01:07,694 --> 00:01:10,339
 <aespa>Full shot pull it up</aespa> <with>Armageddon</with>
 
-37
+36
 00:01:11,989 --> 00:01:12,739
 <aespa>Imma get ’em</aespa>
 
-38
+37
 00:01:14,783 --> 00:01:15,314
 <aespa>Shoot</aespa>
 
-39
+38
 00:01:17,188 --> 00:01:18,001
 <aespa>Imma get ’em</aespa>
 
-40
+39
 00:01:20,452 --> 00:01:21,665
 <aespa>Hey Ya</aespa> <MY>Uh~</MY>
 
-41
+40
 00:01:22,366 --> 00:01:23,800
 <aespa>또 다른 나</aespa> <MY>Uh uh</MY>
-もう一人の私
-My alter ego
+<jp>もう一人の私</jp>
+<en>My alter ego</en>
 
-42
+41
 00:01:25,004 --> 00:01:26,476
 <aespa>>릴 막지 마</aespa> <MY>Uh~</MY>
-私たちを止めないで
-Don't block our flow
+<jp>私たちを止めないで</jp>
+<en>Don't block our flow</en>
 
-43
+42
 00:01:27,565 --> 00:01:29,631
 <aespa>We never play nice</aespa>
 
-44
+43
 00:01:30,218 --> 00:01:30,679
 <aespa>Shoot</aespa>
 
-45
+44
 00:01:30,907 --> 00:01:31,883
 <aespa>완벽한 Pair</aespa>
-完璧な Pair
-A perfect Pair
+<jp>完璧な Pair</jp>
+<en>A perfect Pair</en>
 
-46
+45
 00:01:31,883 --> 00:01:33,318
 <aespa>넌 똑같은 soul</aespa>
-君はそっくりな Soul
-You're my identical Soul
+<jp>君はそっくりな Soul</jp>
+<en>You're my identical Soul</en>
 
-47
+46
 00:01:33,516 --> 00:01:34,553
 <aespa>Three to get ready</aespa>
 
-48
+47
 00:01:34,553 --> 00:01:35,610
 <aespa>우린 shoot and go</aespa>
-私たちは Shoot and go
-We're Shoot and go
+<jp>私たちは Shoot and go</jp>
+<en>We're Shoot and go</en>
 
-49
+48
 00:01:35,610 --> 00:01:37,567
 <aespa>겁 없이 누벼</aespa>
-何も恐れず駆け巡る
-Roam unafraid
+<jp>何も恐れず駆け巡る</jp>
+<en>Roam unafraid</en>
 
-50
+49
 00:01:37,764 --> 00:01:39,537
 <aespa>날 이끄는 Way</aespa>
-私を導く Way
-Leading me is the Way
+<jp>私を導く Way</jp>
+<en>Leading me is the Way</en>
 
-51
+50
 00:01:41,310 --> 00:01:42,227
 <with>Bang chitty bang</with>
 
-52
+51
 00:01:42,227 --> 00:01:43,567
 <with>Bang chitty bang bang</with>
 
-53
+52
 00:01:43,567 --> 00:01:44,813
 <aespa>Yes I’m gonna see</aespa>
 
-54
+53
 00:01:44,813 --> 00:01:46,598
 <aespa>I’m gonna see, want it</aespa>
 
-55
+54
 00:01:46,598 --> 00:01:47,524
 <with>Bang chitty bang</with>
 
-56
+55
 00:01:47,524 --> 00:01:48,775
 <with>Bang chitty bang bang</with>
 
-57
+56
 00:01:48,775 --> 00:01:50,070
 <aespa>답이 들려와, 들려와</aespa>
-答えが聞こえてくる 聞こえてくる
-The answer, I hear it, I hear it
+<jp>答えが聞こえてくる 聞こえてくる</jp>
+<en>The answer, I hear it, I hear it</en>
 
-58
+57
 00:01:50,166 --> 00:01:51,503
 <aespa>Imma get it</aespa>
 
-59
+58
 00:01:51,778 --> 00:01:52,597
 <aespa>Done</aespa>
 
-60
+59
 00:01:52,745 --> 00:01:54,364
 <with>(Aw wayo wayo)</with>
 
-61
+60
 00:01:54,728 --> 00:01:57,576
 <aespa>널 향해 겨눠, get it, gone</aespa>
-君に向かって狙いを定める Get it, gone
-Aimed at ya, Get it, gone
+<jp>君に向かって狙いを定める Get it, gone</jp>
+<en>Aimed at ya, Get it, gone</en>
 
-62
+61
 00:01:58,007 --> 00:01:59,661
 <with>(Aw wayo wayo)</with>
 
-63
+62
 00:01:59,911 --> 00:02:02,205
 <aespa>이젠 널 끝내, better run</aespa>
-もう君を仕留める Better run
-Now I finish ya, Better run
+<jp>もう君を仕留める Better run</jp>
+<en>Now I finish ya, Better run</en>
 
-64
+63
 00:02:02,205 --> 00:02:04,881
 <aespa>끝을 모르는 너와 나, you gonna, gonna</aespa>
-(終わりを知らない君と私 You gonna, gonna)
-(You and I we know no end, You gonna, gonna)
+<jp>(終わりを知らない君と私 You gonna, gonna)</jp>
+<en>(You and I we know no end, You gonna, gonna)</en>
 
-65
+64
 00:02:05,127 --> 00:02:07,968
 <aespa>깨트려 거침없이 Done</aespa>
-ぶち壊す 躊躇せずに Done
-Smash it no douobt, Done
+<jp>ぶち壊す 躊躇せずに Done</jp>
+<en>Smash it no douobt, Done</en>
 
-66
+65
 00:02:08,422 --> 00:02:09,898
 <with>(Go way up, way up)</with>
 
-67
+66
 00:02:10,297 --> 00:02:13,065
 <aespa>Full shot pull it up</aespa> <with>Armageddon</with>
 
-68
+67
 00:02:14,598 --> 00:02:15,260
 <aespa>Imma get ’em</aespa>
 
-69
+68
 00:02:15,260 --> 00:02:18,472
 <aespa>또 어둠을 몰아내고</aespa>
-また暗闇を追い払って
-Drive off the darkness once more
+<jp>また暗闇を追い払って</jp>
+<en>Drive off the darkness once more</en>
 
-70
+69
 00:02:19,097 --> 00:02:22,517
 <aespa>시작을 꽃피운 너와 나의 story</aespa>
-始まりを咲かせた君と私の Story
-And so it flowers this Story of us
+<jp>始まりを咲かせた君と私の Story</jp>
+<en>And so it flowers this Story of us</en>
 
-71
+70
 00:02:22,731 --> 00:02:24,895
 <aespa>더 완벽해진 우리</aespa>
-もっと完璧になった私たち
-You and me, even more flawless
+<jp>もっと完璧になった私たち</jp>
+<en>You and me, even more flawless</en>
 
-72
+71
 00:02:24,895 --> 00:02:27,356
 <aespa>정의해 이젠</aespa>
-定義する これからは
-Now define it
+<jp>定義する これからは</jp>
+<en>Now define it</en>
 
-75
+72
 00:02:27,589 --> 00:02:30,113
 <aespa>나만의 Complete</aespa>
-私だけの Complete
-My personal definition of Complete
+<jp>私だけの Complete</jp>
+<en>My personal definition of Complete</en>
 
-76
+73
 00:02:30,465 --> 00:02:32,235
 <aespa>내 모든 걸 이끌어</aespa>
-私のすべてを導いていく
-I shall lead every part of me
+<jp>私のすべてを導いていく</jp>
+<en>I shall lead every part of me</en>
 
-77
+74
 00:02:32,235 --> 00:02:33,528
 <aespa>Do it all myself</aespa>
 
-78
+75
 00:02:33,779 --> 00:02:36,635
 <aespa>완전한 나를 이뤄내</aespa>
-完全な私を作り出す
-At last complete myself
+<jp>完全な私を作り出す</jp>
+<en>At last complete myself</en>
 
-79
+76
 00:02:38,384 --> 00:02:38,831
 <aespa>(Drop)</aespa>
 
-80
+77
 00:02:39,368 --> 00:02:41,319
 <with>Throw it back, throw it back, throw it back</with>
 
-83
+78
 00:02:41,669 --> 00:02:42,704
 <aespa>Born like a queen</aespa>
 
-84
+79
 00:02:42,704 --> 00:02:43,926
 <aespa>Born like a king Ya</aespa>
 
-85
+80
 00:02:44,558 --> 00:02:46,609
 <with>Throw it back, throw it back, throw it back</with>
 
-88
+81
 00:02:46,875 --> 00:02:47,356
 <aespa>불러</aespa>
-呼んで
-Sing it
+<jp>呼んで</jp>
+<en>Sing it</en>
 
-89
+82
 00:02:47,501 --> 00:02:49,002
 <aespa>Imma get ’em</aespa>
 
-90
+83
 00:02:49,169 --> 00:02:49,974
 <aespa>Done</aespa> <MY>aespa!</MY>
 
-91
+84
 00:02:50,142 --> 00:02:51,786
 <aespa>(Aw wayo wayo)</aespa>
 
-92
+85
 00:02:51,963 --> 00:02:55,041
 <aespa>널 향해 겨눠 Get it, gone</aespa> <MY>aespa!</MY>
-君に向かって狙いを定める Get it, gone
-Aimed at ya, Get it, gone
+<jp>君に向かって狙いを定める Get it, gone</jp>
+<en>Aimed at ya, Get it, gone</en>
 
-93
+86
 00:02:55,384 --> 00:02:57,067
 <aespa>(Aw wayo wayo)</aespa>
 
-94
+87
 00:02:57,344 --> 00:02:59,660
 <aespa>이젠 널 끝내, better run</aespa>
-もう君を仕留める Better run
-Now I finish ya, Better run
+<jp>もう君を仕留める Better run</jp>
+<en>Now I finish ya, Better run</en>
 
-95
+88
 00:02:59,660 --> 00:03:02,327
 <aespa>끝을 모르는 너와 나 You gonna, gonna</aespa>
-(終わりを知らない君と私 You gonna, gonna)
-(You and I we know no end, You gonna, gonna)
+<jp>(終わりを知らない君と私 You gonna, gonna)</jp>
+<en>(You and I we know no end, You gonna, gonna)</en>
 
-96
+89
 00:03:02,599 --> 00:03:05,432
 <aespa>깨트려 거침없이 Done</aespa> <MY>aespa!</MY>
-ぶち壊す 躊躇せずに Done
-Smash it no doubt, Done
+<jp>ぶち壊す 躊躇せずに Done</jp>
+<en>Smash it no doubt, Done</en>
 
-97
+89
 00:03:05,811 --> 00:03:07,360
 <aespa>(Go way up, way up)</aespa>
 
-98
+90
 00:03:07,732 --> 00:03:09,773
 <aespa>Full shot pull it up</aespa> <with>Armageddon</with>
 
-99
+91
 00:03:09,773 --> 00:03:10,805
 <aespa>Armageddon</aespa>
 
-100
+92
 00:03:10,941 --> 00:03:14,986
 <aespa>(Aw wayo wayo wayo Warning all night long)</aespa>
 
-101
+93
 00:03:14,986 --> 00:03:16,101
 <with>Armageddon</with>
 
-102
+94
 00:03:16,187 --> 00:03:17,816
 <aespa>(Aw wayo wayo)</aespa>
 
-103
+95
 00:03:18,073 --> 00:03:19,491
 <aespa>끝과 시작의</aespa>
-終わりと始まりの
-For both the end and the beginning
+<jp>終わりと始まりの</jp>
+<en>For both the end and the beginning</en>
 
-104
+96
 00:03:19,491 --> 00:03:20,936
 <aespa>Armageddon</aespa>
 

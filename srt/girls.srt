@@ -1,582 +1,576 @@
 1
 00:00:19,457 --> 00:00:21,480
-너는 일어서야 해
-さあ 立ち上がって
-Wake up!
+<aespa>일어나라 그대여</aespa> <MY>aespa!</MY>
+<jp>さあ 立ち上がって</jp>
+<en>Wake up!</en>
 
 2
 00:00:22,100 --> 00:00:24,483
-더 치명적인 전쟁에서
-破滅的な戦いの中
-In a deadlier war
+<aespa>더 치명적인 전쟁 속에</aespa>
+<jp>破滅的な戦いの中</jp>
+<en>In a deadlier war</en>
 
 3
 00:00:24,841 --> 00:00:26,443
-두 발로 굳건히 서서 적의 Hook에 저항하세요!
-踏ん張って耐えて 敵のHook!
-Hold on with your feet Hook!
+<aespa>두발로 버텨 적의 hook!</aespa>
+<jp>踏ん張って耐えて 敵のHook!</jp>
+<en>Hold on with your feet Hook!</en>
 
 4
 00:00:26,443 --> 00:00:27,748
-Black Mamba
+<aespa>Black Mamba</aespa>
 
 5
 00:00:27,748 --> 00:00:29,235
-당신을 두려워하지 않습니다 훗!
-怖くない 君がHoot!
-I am not afraid of you Hoot!
+<aespa>두렵지 않아 네가 hoot!</aespa>
+<jp>怖くない 君がHoot!</jp>
+<en>I am not afraid of you Hoot!</en>
 
 6
 00:00:29,279 --> 00:00:30,635
-당신을 부수다
-ぶち壊してあげる
-I’ll break you
+<aespa>부셔줄게</aespa>
+<jp>ぶち壊してあげる</jp>
+<en>I’ll break you</en>
 
 7
 00:00:30,697 --> 00:00:32,824
-우리는 변했다
-変わったのよ 私たちが
-It has changed
+<aespa>달라졌어 우리가</aespa> <MY>aespa!</MY>
+<jp>変わったのよ 私たちが</jp>
+<en>It has changed</en>
 
 8
 00:00:33,279 --> 00:00:35,893
-광야를 건너 돌아올 때
-KWANGYAを超えて帰ってくる時
-when we entered KWANGYA
+<aespa>>광야를 넘어 돌아올 때</aespa>
+<jp>KWANGYAを超えて帰ってくる時</jp>
+<en>when we entered KWANGYA</en>
 
 9
 00:00:36,087 --> 00:00:37,579
-한 번 뒤틀리고 변형된
-歪んでしまった æ
-Distorted æ
+<aespa>>일그러져 버렸던 æ</aespa>
+<jp>歪んでしまった æ</jp>
+<en>Distorted æ</en>
 
 10
 00:00:37,604 --> 00:00:40,431
-좀 더 나답게, 하나가 되듯이
-さらに私らしく まるでシンクロして見える
-more like me, like one
+<aespa>>더 나답게 마치 하나처럼 보일</aespa>
+<jp>さらに私らしく まるでシンクロして見える</jp>
+<en>more like me, like one</en>
 
 11
 00:00:40,456 --> 00:00:42,536
-미친 존재의 구체화
-ハンパない存在感の現身
-A crazy presence that shows
+<aespa>>미친 존재감의 현신</aespa>
+<jp>ハンパない存在感の現身</jp>
+<en>A crazy presence that shows</en>
 
 12
 00:00:42,553 --> 00:00:43,935
-또 남은 불
-取り残された火種が
-The ember that was left behind
+<aespa>>다시 남겨진 불씨가</aespa>
+<jp>取り残された火種が</jp>
+<en>The ember that was left behind</en>
 
 13
 00:00:43,935 --> 00:00:45,688
-큰 악으로 확장
-巨大な悪に成長して
-grew into a great evil
+<aespa>>거대한 악으로 자라나서</aespa>
+<jp>巨大な悪に成長して</jp>
+<en>grew into a great evil</en>
 
 14
 00:00:45,688 --> 00:00:48,257
-무력하고 고립되었을 때
-君から気力を奪い孤立させた時
-When I helplessly isolate you
+<aespa>>무기력하게 널 고립시켜 둘 때</aespa>
+<jp>君から気力を奪い孤立させた時</jp>
+<en>When I helplessly isolate you</en>
 
 15
 00:00:48,395 --> 00:00:50,202
-재회하자 다시 함께하자
-Reunite もう一度 一緒に
-Reunite we’re together again
+<aespa>>Reunite 우린 다시 함께</aespa>
+<jp>Reunite もう一度 一緒に</jp>
+<en>Reunite we’re together again</en>
 
 16
 00:00:50,202 --> 00:00:51,202
-Whoo Whoo
+<with>Whoo Whoo</with>
 
 17
 00:00:51,293 --> 00:00:52,655
-레이드 비트 잇 야
-襲い掛かれ Beat it Yah
-Attack Beat it Yah
+<aespa>덮쳐 Beat it Yah</aespa>
+<jp>襲い掛かれ Beat it Yah</jp>
+<en>Attack Beat it Yah</en>
 
 18
 00:00:52,655 --> 00:00:54,028
-당신은 혼자가 아닙니다
-君は一人じゃない
-You’re not alone
+<aespa>넌 혼자가 아니야</aespa>
+<jp>君は一人じゃない</jp>
+<en>You’re not alone</en>
 
 19
 00:00:54,053 --> 00:00:56,854
-한때 눈부셨던 희생
-輝いていた Sacrifice
-Shined sacrifice
+<aespa>빛났던 sacrifice</aespa>
+<jp>輝いていた Sacrifice</jp>
+<en>Shined sacrifice</en>
 
 20
 00:00:56,879 --> 00:00:59,893
-기억이 회복되면
-記憶を取り戻したなら
-If you found the memory
+<aespa>기억 찾았다면</aespa>
+<jp>記憶を取り戻したなら</jp>
+<en>If you found the memory</en>
 
 21
 00:00:59,893 --> 00:01:02,425
-좀 보게 해줄 수 있나요? 나타날 수 있나요?
-姿を見せて　出てきて
-Can you show us? Can you show up?
+<aespa>보여줄래? 나타나줄래?</aespa>
+<jp>姿を見せて　出てきて</jp>
+<en>Can you show us? Can you show up?</en>
 
 22
 00:01:02,450 --> 00:01:04,483
-바로 지금
-今すぐ ここに
-Right now, right here
+<aespa>지금 여기</aespa>
+<jp>今すぐ ここに</jp>
+<en>Right now, right here</en>
 
 23
 00:01:05,519 --> 00:01:06,947
-나랑 같이 가요 (엎드려)
-ついて来て(Bow down)
-Follow me (Bow down)
+<aespa>따라와</aespa> <with>(Bow down)</with>
+<jp>ついて来て(Bow down)</jp>
+<en>Follow me (Bow down)</en>
 
 24
 00:01:06,972 --> 00:01:08,300
-기다려 봐 (나의 스킬)
-見守ってて(My skill)
-Watch me (My skill)
+<aespa>지켜봐</aespa> <with>(My skill)</with>
+<jp>見守ってて(My skill)</jp>
+<en>Watch me (My skill)</en>
 
 25
 00:01:08,325 --> 00:01:09,696
-와우라고 말해봐
-驚くはず(Say wow)
-You will get surprised (Say wow)
+<aespa>놀랄걸</aespa> <with>(Say wow)</with>
+<jp>驚くはず(Say wow)</jp>
+<en>You will get surprised (Say wow)</en>
 
 26
 00:01:09,721 --> 00:01:10,858
-We coming
+<aespa>We coming</aespa>
 
 27
 00:01:11,032 --> 00:01:12,523
-큰 소리로
-叫んで(Get loud)
-Scream (Get loud)
+<aespa>소리쳐</aespa> <with>(Get loud)</with>
+<jp>叫んで(Get loud)</jp>
+<en>Scream (Get loud)</en>
 
 28
 00:01:12,523 --> 00:01:13,907
-내 소리
-聞いてみて(My sound)
-Listen (My sound)
+<aespa>들어봐</aespa> <with>(My sound)</with>
+<jp>聞いてみて(My sound)</jp>
+<en>Listen (My sound)</en>
 
 29
 00:01:13,907 --> 00:01:15,367
-전화(업그레이드)
-呼んでみて(Upgrade)
-Call it (Upgrade)
+<aespa>불러봐</aespa> <with>(Upgrade)</with>
+<jp>呼んでみて(Upgrade)</jp>
+<en>Call it (Upgrade)</en>
 
 30
 00:01:15,367 --> 00:01:16,556
-We coming
+<aespa>We coming</aespa>
 
 31
 00:01:17,063 --> 00:01:18,790
-혼돈 속에 피어나는
-混沌の中で蘇る
-Blooming in chaos
-
-32
-00:01:18,790 --> 00:01:19,828
-(We Them Girls)
+<aespa>혼돈 속에서 피어나</aespa> <MY>aespa!</MY>
+<jp>混沌の中で蘇る</jp>
+<en>Blooming in chaos</en>
 
 33
 00:01:19,828 --> 00:01:21,588
-두려움에 맞서는 용기
-恐怖に立ち向かう勇気
-And confronting fear, That courage
+<aespa>두려움에 맞설 그런 용기</aespa>
+<jp>恐怖に立ち向かう勇気</jp>
+<en>And confronting fear, That courage</en>
 
 34
 00:01:21,588 --> 00:01:22,641
-(Ah Yeah)
+<aespa>(Ah Yeah)</aespa>
 
 35
 00:01:22,641 --> 00:01:25,085
-우리가 언제 함께 있어도 상관없어
-いつだって私たちは Together
-Whenever we are together
+<aespa>언제라도 우린 Together</aespa> <MY>Together!<>/MY
+<jp>いつだって私たちは Together</jp>
+<en>Whenever we are together</en>
 
 36
 00:01:25,085 --> 00:01:26,494
-We Them Girls We Them Girls
+<aespa>We Them Girls We Them Girls</aespa>
 
 37
 00:01:26,519 --> 00:01:27,668
-We Them Girls
+<aespa>We Them Girls</aespa>
 
 38
 00:01:32,398 --> 00:01:34,219
-메타 유니버스는 공존하고 싶다
-Meta Universe 共存する
-Meta universe exists
+<aespa>Meta Universe 공존해</aespa>
+<jp>Meta Universe 共存する</jp>
+<en>Meta universe exists</en>
 
 39
 00:01:34,219 --> 00:01:35,512
-지금 평행세계
-今 Parallel World
-now Parallel world
+<aespa>지금 parallel world</aespa>
+<jp>今 Parallel World</jp>
+<en>now Parallel world</en>
 
 40
 00:01:35,512 --> 00:01:37,367
-모든 존재에는 의미가 있다
-すべての存在が意味をもつ
-All beings have meaning
+<aespa>모든 존재가 의미를 가져</aespa>
+<jp>すべての存在が意味をもつ</jp>
+<en>All beings have meaning</en>
 
 41
 00:01:37,367 --> 00:01:38,432
-Part of my heart
+<aespa>Part of my heart</aespa>
 
 42
 00:01:38,432 --> 00:01:40,074
-우리는 공감할 수 있는 언어를 사용합니다.
-私たちは共感の言語を使う
-We use sympathetic words
+<aespa>우린 공감의 언어를 써</aespa>
+<jp>私たちは共感の言語を使う</jp>
+<en>We use sympathetic words</en>
 
 43
 00:01:40,074 --> 00:01:41,101
-서로 따뜻하게
-体温を分かち合い
-and share the body temperatures
+<aespa>체온을 나눠 줘</aespa>
+<jp>体温を分かち合い</jp>
+<en>and share the body temperatures</en>
 
 44
 00:01:41,101 --> 00:01:42,508
-결국 추구하는 것만
-結局善良な意志に基づく価値を
-In the end, we only pursue
+<aespa>결국 선한 의지만의 가치를</aespa>
+<jp>結局善良な意志に基づく価値を</jp>
+<en>In the end, we only pursue</en>
 
 45
 00:01:42,508 --> 00:01:43,235
-선의의 가치
-ひたすら追い求める
-the value of goodwill
+<aespa>추구해</aespa>
+<jp>ひたすら追い求める</jp>
+<en>the value of goodwill</en>
 
 46
 00:01:43,235 --> 00:01:45,314
-드디어 강해졌어
-私はついに強くなれた
-I finally became stronger
+<aespa>강해졌어 드디어 난</aespa> <MY>aespa!</MY>
+<jp>私はついに強くなれた</jp>
+<en>I finally became stronger</en>
 
 47
 00:01:45,802 --> 00:01:48,228
-조작되거나 프레임화되지 않습니다.
-振り回されたり やられたりしない
-I don’t get swindled or hurt
+<aespa>휘둘리거나 당하지 않아</aespa> <MY>aespa!</MY>
+<jp>振り回されたり やられたりしない</jp>
+<en>I don’t get swindled or hurt</en>
 
 48
 00:01:48,655 --> 00:01:50,223
-그리고 모든 것이 잘못 전달되었습니다.
-また何もかもが捻じ曲げられてしまう
-It’s distorted
+<aespa>왜곡이 돼버려 또 다</aespa>
+<jp>また何もかもが捻じ曲げられてしまう</jp>
+<en>It’s distorted</en>
 
 49
 00:01:50,223 --> 00:01:52,243
-세력분열이 시작됐다
-始まった 仲を引き裂いて
-It has started again Make sides
+<aespa>시작됐어 편을 갈라</aespa>
+<jp>始まった 仲を引き裂いて</jp>
+<en>It has started again Make sides</en>
 
 50
 00:01:52,243 --> 00:01:55,087
-너와 나를 고립시켜 앞을 막고
-君と私を断絶させる 何も見えないように
-Isolate you and me so that we can’t see ahead
+<aespa>너와 날 고립시켜 앞 못 보게</aespa>
+<jp>君と私を断絶させる 何も見えないように</jp>
+<en>Isolate you and me so that we can’t see ahead</en>
 
 51
 00:01:55,112 --> 00:01:56,494
-사악한 욕망에 뒤틀려
-醜い欲望に歪んでしまった
-The algorithms that have been
+<aespa>못된 욕망에 일그러져 </aespa>
+<jp>醜い欲望に歪んでしまった</jp>
+<en>The algorithms that have been</en>
 
 52
 00:01:56,494 --> 00:01:58,247
-폐기된 알고리즘
-捨てたAlgorithmたちが
-distorted by bad desires
+<aespa>버리던 algorithm들이</aespa>
+<jp>捨てたAlgorithmたちが</jp>
+<en>distorted by bad desires</en>
 
 53
 00:01:58,272 --> 00:01:59,813
-존재를 무기로 삼아 파멸로 이끄는
-存在を武器に破壊へと
-Use existence as the weapon
+<aespa>존재를 무기로 파괴로</aespa>
+<jp>存在を武器に破壊へと</jp>
+<en>Use existence as the weapon</en>
 
 54
 00:01:59,837 --> 00:02:00,841
-삼켜 아아
-飲み込んでしまう Ah
-and swallow with destruction Ah
+<aespa>집어삼켜 Ah</aespa>
+<jp>飲み込んでしまう Ah</jp>
+<en>and swallow with destruction Ah</en>
 
 55
 00:02:00,954 --> 00:02:02,761
-그 순간 악이 시작됐다.
-その瞬間 悪は始まった
-Evil was started at that moment
+<aespa>그 순간 악은 시작됐어</aespa>
+<jp>その瞬間 悪は始まった</jp>
+<en>Evil was started at that moment</en>
 
 56
 00:02:02,761 --> 00:02:03,761
-Whoo Whoo
+<with>Whoo Whoo</with>
 
 57
 00:02:03,852 --> 00:02:05,214
-비켜가세요 플립얍
-どいて Flip Yah
-Move out flip Yah
+<aespa>비켜 Flip Yah</aespa>
+<jp>どいて Flip Yah</jp>
+<en>Move out flip Yah</en>
 
 58
 00:02:05,214 --> 00:02:06,587
-난 혼자가 아니야
-私は一人じゃない
-I’m not alone
+<aespa>난 혼자가 아니야</aespa>
+<jp>私は一人じゃない</jp>
+<en>I’m not alone</en>
 
 59
 00:02:06,612 --> 00:02:09,413
-보호하고 싶다
-守ってあげたい
-I want to protect
+<aespa>지켜주고 싶어</aespa>
+<jp>守ってあげたい</jp>
+<en>I want to protect</en>
 
 60
 00:02:09,437 --> 00:02:12,452
-REKALL을 처음 만났을 때
-初めて逢う 君のREKALL
-first encountering REKALL
+<aespa>처음 만난 네 REKALL</aespa>
+<jp>初めて逢う 君のREKALL</jp>
+<en>first encountering REKALL</en>
 
 61
 00:02:12,452 --> 00:02:14,984
-안아주고 느끼게 해주세요
-ハグしてあげる気持ちが伝わるように
-I will hug you so that you can feel
+<aespa>안아줄게 느낄 수 있게</aespa>
+<jp>ハグしてあげる気持ちが伝わるように</jp>
+<en>I will hug you so that you can feel</en>
 
 62
 00:02:15,009 --> 00:02:17,332
-Without SYNK DIVE
+<aespa>Without SYNK DIVE</aespa>
 
 63
 00:02:18,079 --> 00:02:19,506
-나랑 같이 가요 (엎드려)
-ついて来て(Bow down)
-Follow me (Bow down)
+<aespa>따라와</aespa> <with>(Bow down)</with>
+<jp>ついて来て(Bow down)</jp>
+<en>Follow me (Bow down)</en>
 
 64
 00:02:19,531 --> 00:02:20,859
-기다려 봐 (나의 스킬)
-見守ってて(My skill)
-Watch me (My skill)
+<aespa>지켜봐</aespa> <with>(My skill)</with>
+<jp>見守ってて(My skill)</jp>
+<en>Watch me (My skill)</en>
 
 65
 00:02:20,884 --> 00:02:22,255
-와우라고 말해봐
-驚くはず(Say wow)
-You will get surprised (Say wow)
+<aespa>놀랄걸</aespa> <with>(Say wow)</with>
+<jp>驚くはず(Say wow)</jp>
+<en>You will get surprised (Say wow)</en>
 
 66
 00:02:22,280 --> 00:02:23,417
-We coming
+<aespa>We coming</aespa>
 
 67
 00:02:23,591 --> 00:02:25,082
-큰 소리로
-叫んで(Get loud)
-Scream (Get loud)
+<aespa>소리쳐</aespa> <with>(Get loud)</with>
+<jp>叫んで(Get loud)</jp>
+<en>Scream (Get loud)</en>
 
 68
 00:02:25,082 --> 00:02:26,466
-내 소리
-聞いてみて(My sound)
-Listen (My sound)
+<aespa>들어봐</aespa> <with>(My sound)</with>
+<jp>聞いてみて(My sound)</jp>
+<en>Listen (My sound)</en>
 
 69
 00:02:26,466 --> 00:02:27,926
-전화(업그레이드)
-呼んでみて(Upgrade)
-Call it (Upgrade)
+<aespa>불러봐</aespa> <with>(Upgrade)</with>
+<jp>呼んでみて(Upgrade)</jp>
+<en>Call it (Upgrade)</en>
 
 70
 00:02:27,926 --> 00:02:29,115
-We coming
+<aespa>We coming</aespa>
 
 71
 00:02:29,622 --> 00:02:31,349
-혼돈 속에 피어나는
-混沌の中で蘇る
-Blooming in chaos
-
-72
-00:02:31,349 --> 00:02:32,387
-(We Them Girls)
+<aespa>혼돈 속에서 피어나</aespa> <MY>aespa!</MY>
+<jp>混沌の中で蘇る</jp>
+<en>Blooming in chaos</en>
 
 73
 00:02:32,387 --> 00:02:34,147
-두려움에 맞서는 용기
-恐怖に立ち向かう勇気
-And confronting fear, That courage
+<aespa>두려움에 맞설 그런 용기</aespa>
+<jp>恐怖に立ち向かう勇気</jp>
+<en>And confronting fear, That courage</en>
 
 74
 00:02:34,147 --> 00:02:35,200
-(Ah Yeah)
+<aespa>(Ah Yeah)</aespa>
 
 75
 00:02:35,200 --> 00:02:37,644
-우리가 언제 함께 있어도 상관없어
-いつだって私たちは Together
-Whenever we are Together
+<aespa>언제라도 우린 Together</aespa> <MY>Together!</MY>
+<jp>いつだって私たちは Together</jp>
+<en>Whenever we are Together</en>
 
 76
 00:02:37,644 --> 00:02:39,053
-We Them Girls We Them Girls
+<aespa>We Them Girls We Them Girls</aespa>
 
 77
 00:02:39,078 --> 00:02:41,703
-평화로운 날들에 오신 것을 환영합니다
-平和な日を迎える
-To face a peaceful day
+<aespa>평화로운 날을 맞이해</aespa>
+<jp>平和な日を迎える</jp>
+<en>To face a peaceful day</en>
 
 78
 00:02:41,802 --> 00:02:44,373
-우리는 FLAT에 있습니다
-私たちは FLAT その中で
-Inside the FLAT
+<aespa>우린 FLAT 그 안에서</aespa>
+<jp>私たちは FLAT その中で</jp>
+<en>Inside the FLAT</en>
 
 79
 00:02:44,547 --> 00:02:47,167
-함께 웃고 사랑하며
-一緒に笑って恋をする
-We laugh and love together
+<aespa>함께 웃고 사랑해</aespa>
+<jp>一緒に笑って恋をする</jp>
+<en>We laugh and love together</en>
 
 80
 00:02:47,426 --> 00:02:50,545
-With my friends
+<aespa>With my friends</aespa> <MY>aespa!</MY>
 
 81
 00:02:50,545 --> 00:02:53,340
-이제 nævis와 함께 더 많은 정보를 얻으세요
-これからnævisと共に
-Now I’m more curious about
+<aespa>이제 더 nævis와 함께</aespa>
+<jp>これからnævisと共に</jp>
+<en>Now I’m more curious about</en>
 
 82
 00:02:53,340 --> 00:02:56,176
-앞으로 펼쳐질 미래가 궁금해
-切り拓いていく未来が気になる
-the future together with nævis
+<aespa>열어 갈 미래가 궁금해</aespa>
+<jp>切り拓いていく未来が気になる</jp>
+<en>the future together with nævis</en>
 
 83
 00:02:56,369 --> 00:02:59,346
-우리는 결국 만날 것이다
-いずれ逢えるよ
-Eventually we will probably meet
+<aespa>결국 만나게 될 걸</aespa>
+<jp>いずれ逢えるよ</jp>
+<en>Eventually we will probably meet</en>
 
 84
 00:02:59,552 --> 00:03:04,777
-nævis on the REAL MY WORLD
+<aespa>nævis on the REAL MY WORLD</aespa>
+
+<MY>KARINA! GISELLE! WINTER! NINGNING!</MY>
+
+<MY>MY! aespa!</MY>
 
 85
 00:03:14,986 --> 00:03:16,363
-Hold up!
+<aespa>Hold up!</aespa>
+
+<MY>KARINA! GISELLE! WINTER! NINGNING!</MY>
 
 86
 00:03:21,082 --> 00:03:23,608
-REAL MY WORLD
+<aespa>REAL MY WORLD</aespa>
 
 87
 00:03:27,483 --> 00:03:30,544
-너는 거울에 비친 나야
-君は鏡に映った私
-Your existence is brighter
+<aespa>넌 거울에 비친 나</aespa>
+<jp>君は鏡に映った私</jp>
+<en>Your existence is brighter</en>
 
 88
 00:03:30,544 --> 00:03:33,505
-그보다 더 눈부신 존재
-それよりも光る存在
-than my reflection in the mirror
+<aespa>그보다 빛날 존재</aespa>
+<jp>それよりも光る存在</jp>
+<en>than my reflection in the mirror</en>
 
 89
 00:03:33,505 --> 00:03:34,673
-나에게 말해 줄 수 있나요?
-言ってくれる？
-Can you tell me?
+<aespa>말해 줄래?</aespa>
+<jp>言ってくれる？</jp>
+<en>Can you tell me?</en>
 
 90
 00:03:34,673 --> 00:03:38,220
-영원히 함께 할거야
-いつまでも一緒だよと
-Until when, will we be together?
+<aespa>언제까지나 함께란 걸</aespa>
+<jp>いつまでも一緒だよと</jp>
+<en>Until when, will we be together?</en>
 
 91
 00:03:38,996 --> 00:03:40,423
-나랑 같이 가요 (엎드려)
-ついて来て(Bow down)
-Follow me (Bow down)
+<aespa>따라와</aespa> <with>(Bow down)</with>
+<jp>ついて来て(Bow down)</jp>
+<en>Follow me (Bow down)</en>
 
 92
 00:03:40,448 --> 00:03:41,776
-기다려 봐 (나의 스킬)
-見守ってて(My skill)
-Watch me (My skill)
+<aespa>지켜봐</aespa> <with>(My skill)</with>
+<jp>見守ってて(My skill)</jp>
+<en>Watch me (My skill)</en>
 
 93
 00:03:41,801 --> 00:03:43,172
-와우라고 말해봐
-驚くはず(Say wow)
-You will get surprised (Say wow)
+<aespa>놀랄걸</aespa> <with>(Say wow)</with>
+<jp>驚くはず(Say wow)</jp>
+<en>You will get surprised (Say wow)</en>
 
 94
 00:03:43,197 --> 00:03:44,334
-We coming
+<aespa>We coming</aespa>
 
 95
 00:03:44,508 --> 00:03:45,999
-큰 소리로
-叫んで(Get loud)
-Scream (Get loud)
+<aespa>소리쳐</aespa> <with>(Get loud)</with>
+<jp>叫んで(Get loud)</jp>
+<en>Scream (Get loud)</en>
 
 96
 00:03:45,999 --> 00:03:47,383
-내 소리
-聞いてみて(My sound)
-Listen (My sound)
+<aespa>들어봐</aespa> <with>(My sound)</with>
+<jp>聞いてみて(My sound)</jp>
+<en>Listen (My sound)</en>
 
 97
 00:03:47,383 --> 00:03:48,843
-전화(업그레이드)
-呼んでみて(Upgrade)
-Call it (Upgrade)
+<aespa>불러봐</aespa> <with>(Upgrade)</with>
+<jp>呼んでみて(Upgrade)</jp>
+<en>Call it (Upgrade)</en>
 
 98
 00:03:48,843 --> 00:03:50,032
-We coming
+<aespa>We coming</aespa>
 
 99
 00:03:50,539 --> 00:03:52,266
-혼돈 속에 피어나는
-混沌の中で蘇る
-Blooming in chaos
-
-100
-00:03:52,266 --> 00:03:53,304
-(We Them Girls)
+<aespa>혼돈 속에서 피어나</aespa> <MY>aespa!</MY>
+<jp>混沌の中で蘇る</jp>
+<en>Blooming in chaos</en>
 
 101
 00:03:53,304 --> 00:03:55,064
-두려움에 맞서는 용기
-恐怖に立ち向かう勇気
-And confronting fear, That courage
+<aespa>두려움에 맞설 그런 용기</aespa>
+<jp>恐怖に立ち向かう勇気</jp>
+<en>And confronting fear, That courage</en>
 
 102
 00:03:55,064 --> 00:03:56,117
-(Ah Yeah)
+<aespa>(Ah Yeah)</aespa>
 
 103
 00:03:56,117 --> 00:03:58,561
-우리가 언제 함께 있어도 상관없어
-いつだって私たちは Together
-Whenever we are together
+<aespa>언제라도 우린 Together</aespa> <MY>Together!</MY>
+<jp>いつだって私たちは Together</jp>
+<en>Whenever we are together</en>
 
 104
 00:03:58,561 --> 00:03:59,970
-We Them Girls We Them Girls
+<aespa>We Them Girls We Them Girls</aespa>
 
 105
 00:03:59,995 --> 00:04:01,513
-We Them Girls
+<aespa>We Them Girls</aespa>
 
 106
 00:04:05,834 --> 00:04:06,570
-Girls!
+<with>Girls!</with>
 

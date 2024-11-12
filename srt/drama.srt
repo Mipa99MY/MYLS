@@ -1,510 +1,506 @@
 1
 00:00:08,703 --> 00:00:13,138
-Ya Ya I’m the Drama
+<aespa>Ya Ya I’m the Drama</aespa> <MY>aespa</MY>
 
 2
 00:00:13,680 --> 00:00:15,140
-Ziggy ziggy zag I’m new
+<aespa>Ziggy ziggy zag I’m new</aespa>
 
 3
 00:00:15,140 --> 00:00:16,975
-Cause I go biggie biggie bad It’s true
+<aespa>Cause I go biggie biggie bad It’s true</aespa>
 
 4
 00:00:16,975 --> 00:00:19,144
-날카로운 눈빛에 유독
-鋭い目の中に映った Toxic
-Sharp eye, inside it's Toxic
+<aespa>날카로운 눈 안에 비친</aespa> <with>Toxic</with>
+<jp>鋭い目の中に映った Toxic</jp>
+<en>Sharp eye, inside it's Toxic</en>
 
 5
 00:00:19,144 --> 00:00:20,604
-본능을 깨워라 Zoom
-私の本能を引き寄せる Zoom
-Zoom in, pull on my instincts
+<aespa>내 본능을 당겨</aespa> <with>Zoom</with>
+<jp>私の本能を引き寄せる Zoom</jp>
+<en>Zoom in, pull on my instincts</en>
 
 6
 00:00:20,604 --> 00:00:22,439
-Hold up, What? Oh my god
+<aespa>Hold up, What?</aespa> <with>Oh my god</with>
 
 7
 00:00:22,439 --> 00:00:24,316
-당신은 상처받을 것이라고 말합니다.
-You say, What? 怪我するよ 君は
-You say, What? You gon' get hurt
+<aespa>You say, what?</aespa> <with>다쳐 넌</with>
+<jp>You say, What? 怪我するよ 君は</jp>
+<en>You say, What? You gon' get hurt</en>
 
 8
 00:00:24,316 --> 00:00:25,234
-You better watch out
+<aespa>You better watch out</aespa>
 
 9
 00:00:25,234 --> 00:00:26,566
-우리는 멈출 수 없는 Boom
-私たちはもう激しい Boom
-We already that big, tough Boom
+<aespa>우린 이미 거센</aespa> <with>Boom</with>
+<jp>私たちはもう激しい Boom</jp>
+<en>We already that big, tough Boom</en>
 
 10
 00:00:26,566 --> 00:00:27,694
-과속하는 브룸
-駆けつけている Vroom
-Racing with that big, bad Vroom
+<aespa>달려가고 있어</aespa> <with>Vroom</with>
+<jp>駆けつけている Vroom</jp>
+<en>Racing with that big, bad Vroom</en>
 
 11
 00:00:27,694 --> 00:00:29,780
-I li-li like me when I roll
+<aespa>I li-li like me when I roll</aespa>
 
 12
 00:00:29,780 --> 00:00:31,615
-Li-li-like me when I’m savage
+<aespa>Li-li-like me when I’m</aespa> <with>savage</with>
 
 13
 00:00:31,615 --> 00:00:33,408
-Li-li-like me when I go
+<aespa>Li-li-like me when I go</aespa>
 
 14
 00:00:33,408 --> 00:00:35,494
-Li-li-likie when I baddest
+<aespa>Li-li-likie when I</aespa> <with>baddest</with>
 
 15
 00:00:35,494 --> 00:00:37,496
-잠깐만 빛을 따라가
-Hold up 光を追いかけて
-Hold up, chasing lights
+<aespa>Hold up 빛을 따라서</aespa>
+<jp>Hold up 光を追いかけて</jp>
+<en>Hold up, chasing lights</en>
 
 16
 00:00:37,496 --> 00:00:39,174
-달리고, 달리고, 달리고
-月よ　走っていけ Run
-Racing lights, run, run on, Run
+<aespa>달아 다 다 달려나가 Run</aespa>
+<jp>月よ　走っていけ Run</jp>
+<en>Racing lights, run, run on, Run</en>
 
 17
 00:00:39,174 --> 00:00:40,760
-Go Finally Ra ta ta ta
+<aespa>Go Finally Ra ta ta ta</aespa>
 
 18
 00:00:40,760 --> 00:00:42,584
-다음 세상을 열어본다
-次の世界を切り開く 私は
-Open up a new world, boom-ta-da
+<aespa>다음 세계를 열어 난</aespa>
+<jp>次の世界を切り開く 私は</jp>
+<en>Open up a new world, boom-ta-da</en>
 
 19
 00:00:42,584 --> 00:00:45,423
-1, 2 It’s time to go
+<aespa>1, 2 It’s time to go</aespa>
 
 20
 00:00:45,837 --> 00:00:47,172
-나는 후회하지 않는다
-後悔はしない 私は
-Regrets, ain't got 'em
+<aespa>후회 없어 난</aespa>
+<jp>後悔はしない 私は</jp>
+<en>Regrets, ain't got 'em</en>
 
 21
 00:00:47,172 --> 00:00:49,067
-용감하게 맞서다가 완전히 무너졌어
-立ち向かって私はぶち破ったわ
-Square up, I break 'em
+<aespa>맞서 난 깨버렸지</aespa>
+<jp>立ち向かって私はぶち破ったわ</jp>
+<en>Square up, I break 'em</en>
 
 22
 00:00:49,216 --> 00:00:51,055
-나를 따르는 규칙
-私に従って動く Rules
-Rules, they gon' follow me
+<aespa>날 따라서 움직일 Rules</aespa>
+<jp>私に従って動く Rules</jp>
+<en>Rules, they gon' follow me</en>
 
 23
 00:00:51,055 --> 00:00:55,389
-손끝으로 탭하여 세상을 바꾸세요
-指先で世界を叩いて動かす
-Tap my finger and watch the world move
+<aespa>손끝으로세상을 두드려 움직여</aespa>
+<jp>指先で世界を叩いて動かす</jp>
+<en>Tap my finger and watch the world move</en>
 
 24
 00:00:55,389 --> 00:00:57,724
-Yeah I’m coming
+<aespa>Yeah I’m coming</aespa>
 
 25
 00:00:58,215 --> 00:00:59,099
-I bring I bring
+<aespa>I bring I bring</aespa>
 
 26
 00:00:59,099 --> 00:01:00,894
-all the Drama-ma-ma-ma
+<aespa>all the Drama-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 27
 00:01:00,894 --> 00:01:02,729
-I bring Drama-ma-ma-ma
+<aespa>I bring Drama-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 28
 00:01:02,729 --> 00:01:04,605
-With my girls in the back
+<aespa>With my girls in the back</aespa>
 
 29
 00:01:04,605 --> 00:01:05,983
-Girls in the back
+<with>Girls in the back</with>
 
 30
 00:01:05,983 --> 00:01:06,858
-Drama
+<aespa>Drama</aespa>
 
 31
 00:01:06,858 --> 00:01:08,193
-Trauma-ma-ma-ma
+<aespa>Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 32
 00:01:08,193 --> 00:01:10,071
-I break Trauma-ma-ma-ma
+<aespa>I break Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 33
 00:01:10,071 --> 00:01:11,863
-With MY WORLD in the back
+<aespa>With MY WORLD in the back</aespa>
 
 34
 00:01:11,863 --> 00:01:13,731
-내 드라마부터 시작해
-私で始まる Drama
-It starts with me, Drama
+<with>나로 시작되는 Drama</with>
+<jp>私で始まる Drama</jp>
+<en>It starts with me, Drama</en>
 
 35
 00:01:13,731 --> 00:01:14,241
-(All that)
+<aespa>(All that)</aespa>
 
 36
 00:01:14,241 --> 00:01:15,492
-Drama-ma-ma-ma
+<aespa>Drama-ma-ma-ma</aespa> 
 
 37
 00:01:15,492 --> 00:01:16,076
-(Bring it that)
+<aespa>(Bring it that)</aespa>
 
 38
 00:01:16,076 --> 00:01:17,369
-Drama-ma-ma-ma
+<with>Drama-ma-ma-ma</with>
 
 39
 00:01:17,369 --> 00:01:19,204
-With my girls in the back
+<aespa>With my girls in the back</aespa>
 
 40
 00:01:19,204 --> 00:01:21,081
-Girls in the back Yeah
+<with>Girls in the back</with> <aespa>Yeah</aespa>
 
 41
 00:01:21,081 --> 00:01:21,571
-I break
+<aespa>I break</aespa>
 
 42
 00:01:21,571 --> 00:01:22,916
-Trauma-ma-ma-ma
+<aespa>Trauma-ma-ma-ma</aespa>
 
 43
 00:01:22,916 --> 00:01:23,417
-(We them)
+<aespa>(We them)</aespa>
 
 44
 00:01:23,417 --> 00:01:24,710
-Trauma-ma-ma-ma
+<with>Trauma-ma-ma-ma</with>
 
 45
 00:01:24,710 --> 00:01:26,587
-With MY WORLD in the back
+<aespa>With MY WORLD in the back</aespa>
 
 46
 00:01:26,587 --> 00:01:28,681
-내 드라마부터 시작해
-私で始まる Drama
-It starts with me, Drama
+<with>나로 시작되는 Drama</with>
+<jp>私で始まる Drama</jp>
+<en>It starts with me, Drama</en>
 
 47
 00:01:29,743 --> 00:01:31,174
-Drama-ma-ma-ma
+<aespa>Drama-ma-ma-ma</aespa>
 
 48
 00:01:31,633 --> 00:01:33,385
-Drama-ma-ma-ma (3, 2, 1)
+<aespa>Drama-ma-ma-ma (3, 2, 1)</aespa>
 
 49
 00:01:33,385 --> 00:01:34,572
-Drama-ma-ma
+<aespa>Drama-ma-ma</aespa>
 
 50
 00:01:35,114 --> 00:01:36,221
-You know I’ve been kind of like
+<aespa>You know I’ve been kind of like</aespa>
 
 51
 00:01:36,221 --> 00:01:39,459
-1, 2, 3 다음 장면은 놀라움으로 가득하다
-1, 2, 3 びっくりするような次の Scene
-1, 2, 3, cue that jump-scare Scene
+<with>1, 2, 3</with> <aespa>깜짝 놀랄 다음 Scenе</aespa>
+<jp>1, 2, 3 びっくりするような次の Scene</jp>
+<en>1, 2, 3, cue that jump-scare Scene</en>
 
 52
 00:01:39,837 --> 00:01:41,393
-열쇠를 들고
-キーを握りしめる
-Who's got the key?
+<aespa>키를 거머쥔</aespa>
+<jp>キーを握りしめる</jp>
+<en>Who's got the key?</en>
 
 53
 00:01:41,676 --> 00:01:43,437
-주인공은 나야
-主人公は私
-Main character, that's me
+<aespa>주인공은 나</aespa>
+<jp>主人公は私</jp>
+<en>Main character, that's me</en>
 
 54
 00:01:43,437 --> 00:01:45,814
-4, 3, 2 Going down
+<with>4, 3, 2</with> <aespa>Going down</aespa>
 
 55
 00:01:45,814 --> 00:01:46,864
-쉽게 통해
-簡単に Through
-Breezin' Through
+<aespa>쉽게 Through</aespa>
+<jp>簡単に Through</jp>
+<en>Breezin' Through</en>
 
 56
 00:01:47,170 --> 00:01:48,650
-데자뷰처럼
-Deja Vu みたいに
-Just like Deja Vu
+<aespa>Déjà vu 같이</aespa>
+<jp>Deja Vu みたいに</jp>
+<en>Just like Deja Vu</en>
 
 57
 00:01:48,923 --> 00:01:50,667
-완성된 그림
-描かれていくイメージ
-They picture my image
+<aespa>그려지는 이미지</aespa>
+<jp>描かれていくイメージ</jp>
+<en>They picture my image</en>
 
 58
 00:01:50,667 --> 00:01:52,300
-일부러 막지 마세요
-私を止めようとしないで
-Don't try to stop me
+<aespa>날 굳이 막지 말아</aespa>
+<jp>私を止めようとしないで</jp>
+<en>Don't try to stop me</en>
 
 59
 00:01:52,446 --> 00:01:53,655
-이게 내 드라마야
-これは私の Drama
-This is my Drama
+<aespa>이건 내 Drama<aespa> <MY>Drama</MY>
+<jp>これは私の Drama</jp>
+<en>This is my Drama</en>
 
 60
 00:01:53,887 --> 00:01:55,907
-고의로 멈추거나 자극하지 않을 것입니다.
-挑発は敢えて止めないわ
-Pull up if you wanna
+<aespa>도발은 굳이 안 막아</aespa>
+<jp>挑発は敢えて止めないわ</jp>
+<en>Pull up if you wanna</en>
 
 61
 00:01:55,907 --> 00:01:57,480
-Uh I’m a stunner
+<aespa>Uh, I’m a stunner</aespa>
 
 62
 00:01:57,671 --> 00:02:00,370
-1, 2 It’s time to go
+<aespa>1, 2 It’s time to go</aespa>
 
 63
 00:02:00,865 --> 00:02:02,331
-불안한 나를 (불타오르게 하는 나를)
-燃え上がる私を (燃える私を)
-I ignite (I shine bright)
+<aespa>타오르는 날 (타는 날)</aespa>
+<jp>燃え上がる私を (燃える私を)</jp>
+<en>I ignite (I shine bright)</en>
 
 64
 00:02:02,331 --> 00:02:04,333
-나는 그것을 느낄 수 있고 나는 그것을 좋아합니다
-感じる 私は And I love it
-Feelin' it, And I love it
+<aespa>느껴 난 And I love it</aespa>
+<jp>感じる 私は And I love it</jp>
+<en>Feelin' it, And I love it</en>
 
 65
 00:02:04,333 --> 00:02:06,168
-규칙의 새로운 모습
-新しくなる Rules
-New game, new Rules
+<aespa>새로워지는 Rules</aespa>
+<jp>新しくなる Rules</jp>
+<en>New game, new Rules</en>
 
 66
 00:02:06,168 --> 00:02:08,273
-눈을 떠요 (눈을 떠요)
-私は目を開ける (両目を開ける)
-I open my eyes (open my eyes)
+<aespa>난 눈을 떠 (두 눈을 떠)</aespa>
+<jp>私は目を開ける (両目を開ける)</jp>
+<en>I open my eyes (open my eyes)</en>
 
 67
 00:02:08,273 --> 00:02:10,881
-(너는) 시작된 걸 알잖아 (이제)
-始まったことに (君は) 気付く (Now)
-Game on, (you) know it (Now)
+<aespa시작된 걸</aespa> <with>(넌)</with> <aespa>알아</aespa> <with>(Now)</with>
+<jp>始まったことに (君は) 気付く (Now)</jp>
+<en>Game on, (you) know it (Now)</en>
 
 68
 00:02:10,881 --> 00:02:12,841
-It’s coming
+<aespa>It’s coming</aespa>
 
 69
 00:02:13,300 --> 00:02:14,259
-I bring I bring
+<aespa>I bring I bring all the</aespa>
 
 70
 00:02:14,259 --> 00:02:15,969
-all the Drama-ma-ma-ma
+<aespa>Drama-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 71
 00:02:15,969 --> 00:02:17,804
-I bring Drama-ma-ma-ma
+<aespa>I bring Drama-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 72
 00:02:17,804 --> 00:02:19,723
-With my girls in the back
+<aespa>With my girls in the back</aespa>
 
 73
 00:02:19,723 --> 00:02:21,058
-Girls in the back
+<with>Girls in the back</with>
 
 74
 00:02:21,058 --> 00:02:21,933
-Drama
+<aespa>Drama</aespa>
 
 75
 00:02:21,933 --> 00:02:23,296
-Trauma-ma-ma-ma
+<aespa>Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 76
 00:02:23,296 --> 00:02:25,187
-I break Trauma-ma-ma-ma
+<aespa>I break Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 77
 00:02:25,187 --> 00:02:26,980
-With MY WORLD in the back
+<aespa>With MY WORLD in the back</aespa>
 
 78
 00:02:26,980 --> 00:02:29,149
-내 드라마부터 시작해
-私で始まる Drama
-It starts with me, Drama
+<with>나로 시작되는 Drama</with>
+<jp>私で始まる Drama</jp>
+<en>It starts with me, Drama</en>
 
 79
 00:02:31,069 --> 00:02:32,991
-Into the REAL WORLD
+<aespa>Into the REAL WORLD</aespa>
 
 80
 00:02:32,991 --> 00:02:34,852
-클라이맥스의 도착
-迫ってきた Climax
-Climax on deck
+<aespa>다가온 Climax</aespa>
+<jp>迫ってきた Climax</jp>
+<en>Climax on deck</en>
 
 81
 00:02:34,852 --> 00:02:37,241
-두려워하지 마세요
-恐れないで
-Don't be afraid
+<aespa>두려워하지 마</aespa>
+<jp>恐れないで</jp>
+<en>Don't be afraid</en>
 
 82
 00:02:37,616 --> 00:02:39,576
-You and I
+<aespa>You and I</aespa>
 
 83
 00:02:41,203 --> 00:02:44,164
-함께 계속되는 이야기
-一緒に書いていく Story
-Together we write this Story
+<aespa>함께 써 내려가는 Story</aespa>
+<jp>一緒に書いていく Story</jp>
+<en>Together we write this Story</en>
 
 84
 00:02:44,603 --> 00:02:47,876
-한때 나를 가로막았던 No를 넘어
-私の前に立ちはだかっていた No
-Past hurdles, No more
+<aespa>날 가로막았던 No</aespa>
+<jp>私の前に立ちはだかっていた No</jp>
+<en>Past hurdles, No more</en>
 
 85
 00:02:48,543 --> 00:02:52,214
-극한의 매일
-限界を飛び越える Every day
-Push boundaries Every day
+<aespa>한계를 뛰어 넘어 Every day</aespa>
+<jp>限界を飛び越える Every day</jp>
+<en>Push boundaries Every day</en>
 
 86
 00:02:52,214 --> 00:02:55,697
-Oh Imma make it my way
+<aespa>Oh Imma make it my way</aespa>
 
 87
 00:02:56,134 --> 00:03:00,055
-Out of the way Yeah
+<aespa>Out of the way Yeah</aespa>
 
 88
 00:03:00,931 --> 00:03:01,890
-I bring I bring
+<aespa>I bring I bring all the</aespa>
 
 89
 00:03:01,890 --> 00:03:03,668
-all the Drama-ma-ma-ma
+<aespa>Drama-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 90
 00:03:03,668 --> 00:03:05,477
-I bring Drama-ma-ma-ma
+<aespa>I bring Drama-ma-ma-ma</aespa><MY>Hey Hey</MY>
 
 91
 00:03:05,477 --> 00:03:07,344
-With my girls in the back
+<aespa>With my girls in the back</aespa>
 
 92
 00:03:07,344 --> 00:03:08,647
-Girls in the back
+<with>Girls in the back</with>
 
 93
 00:03:08,647 --> 00:03:09,580
-Drama
+<aespa>Drama</aespa>
 
 94
 00:03:09,580 --> 00:03:10,982
-Trauma-ma-ma-ma
+<aespa>Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 95
 00:03:10,982 --> 00:03:12,776
-I break Trauma-ma-ma-ma
+<aespa>I break Trauma-ma-ma-ma</aespa> <MY>Hey Hey</MY>
 
 96
 00:03:12,776 --> 00:03:14,653
-With MY WORLD in the back
+<aespa>With MY WORLD in the back</aespa>
 
 97
 00:03:14,653 --> 00:03:16,571
-나랑 드라마
-私と一緒に作っていく Drama
-It stays with me, Drama
+<with>나와 함께하는 Drama</with>
+<jp>私と一緒に作っていく Drama</jp>
+<en>It stays with me, Drama</en>
 
 98
-00:03:16,571 --> 00:03:17,155
-(All that)
+00:03:17,332 --> 00:03:19,282
+<aespa>You know, I’m savage</aespa>
 
 99
-00:03:17,332 --> 00:03:19,282
-You know, I’m savage
+00:03:19,282 --> 00:03:21,076
+<aespa>거침없는 baddest</aespa>
+<jp>よどみないBaddest</jp>
+<en>Unstoppable, Baddest</en>
 
 100
-00:03:19,282 --> 00:03:21,076
-양심의 가책 없이 Baddest
-よどみないBaddest
-Unstoppable, Baddest
+00:03:21,076 --> 00:03:22,994
+<aespa>나를 둘러싼 thrill</aespa>
+<jp>私を取り巻く Thrill</jp>
+<en>All wrapped in Thrill</en>
 
 101
-00:03:21,076 --> 00:03:22,994
-나를 둘러싼 스릴
-私を取り巻く Thrill
-All wrapped in Thrill
-
-102
 00:03:22,994 --> 00:03:25,247
-힘든 여정을 그린 드라마
-荒い旅路の中にある Drama
-Bumpy off-road Drama
+<aespa>거친 여정 속의 Drama</aespa>
+<jp>荒い旅路の中にある Drama</jp>
+<en>Bumpy off-road Drama</en>
 
 103
 00:03:25,247 --> 00:03:26,206
-(Drama-ma-ma)
+<with>(Drama-ma-ma)</with>
 
 104
 00:03:26,206 --> 00:03:28,875
-내가 깨뜨리는 모든 것 트라우마
-私がぶち破るすべての Trauma
-I'll break this cycle of Trauma
+<aespa>내가 깨트릴 모든 Trauma</aespa>
+<jp>私がぶち破るすべての Trauma</jp>
+<en>I'll break this cycle of Trauma</en>
 
 105
 00:03:28,875 --> 00:03:29,298
-(Drama-ma-ma)
+<with>(Drama-ma-ma)</with>
 
 106
 00:03:29,298 --> 00:03:31,503
-지금부터 시작하는 드라마
-今始まる Drama
-It starts now, Drama
+<aespa>지금 시작되는 Drama</aespa>
+<jp>今始まる Drama</jp>
+<en>It starts now, Drama</en>
 
 107
 00:03:32,992 --> 00:03:39,009
-Ya Ya는 MY Drama로 시작됩니다
-Ya Ya 君から始まる MY Drama
-Ya Ya, It starts with you, MY Drama
+<aespa>Ya</aespa> <MY>aespa</MY> <aespa>Ya</aespa> <MY>Drama</MY> <aespa>너로 시작될 MY Drama</aespa>
+<jp>Ya Ya 君から始まる MY Drama</jp>
+<en>Ya Ya, It starts with you, MY Drama</en>
 

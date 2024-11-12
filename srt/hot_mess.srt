@@ -9,10 +9,14 @@
 3
 00:00:21,000 --> 00:00:22,900
 <aespa>息吹きかけて</aespa> <with>Listen up</with>
+<kr>숨을 내쉬고 잘 들어 봐</kr>
+<en>Blow it up Listen up</en>
 
 4
 00:00:22,900 --> 00:00:24,900
 <aespa>とびきり“らしさ”で</aespa> <with>Fill it up</with>
+<kr>특출나게 “나다움”으로 채우겠어</kr>
+<en>With my own style Fill it up</en>
 
 5
 00:00:26,000 --> 00:00:28,700
@@ -27,476 +31,323 @@
 <aespa>I got</aespa> <MY>Ahh</MY> <aespa>your attention</aespa>
 
 8
-00:00:32,200 --> 00:00:34,700
-Sing loud, loud
-
-9
 00:00:33,200 --> 00:00:34,700
 <aespa>Sing loud,</aespa> <MY>loud</MY> <aespa>loud</aespa> <MY>loud</MY>
 
-10
+9
 00:00:36,133 --> 00:00:37,533
 <aespa>あっという間に Time’s up</aespa>
+<kr>눈 깜짝할 새에 시간 다 됐어</kr>
+<en>In a blink of an eye Time’s up</en>
 
-11
+10
 00:00:37,633 --> 00:00:40,566
 <aespa>Open your blind</aespa> <MY>blind</MY> <aespa>mind</aespa> <MY>mind</MY>
 
-12
+11
 00:00:41,400 --> 00:00:42,900
 <aespa>Everybody waits for me</aespa>
 
-13
+12
 00:00:42,933 --> 00:00:44,266
 <aespa>Make the sensation</aespa>
 
-14
+13
 00:00:45,933 --> 00:00:48,333
 <aespa>どんな形でも Okay<aespa> <MY>Okay</MY>
+<kr>어떤 형태라도 Okay</kr>
+<en>In any shape or form is okay</en>
 
-15
+14
 00:00:48,700 --> 00:00:50,300
 <aespa>ひたすら On my way</aespa>
+<kr>한결같이 내 길을 걸어</kr>
+<en>Single mindedly on my way</en>
 
-16
+15
 00:00:50,400 --> 00:00:51,866
 <aespa>Take it slowly</aespa>
 
-17
+16
 00:00:51,900 --> 00:00:53,400
 <aespa>Ainʼt no worry</aespa>
 
-18
+17
 00:00:53,400 --> 00:00:55,400
 <aespa>Dancing with the flames</aespa>
 
-19
+18
 00:00:56,033 --> 00:00:58,533
 <aespa>I'm a</aespa> <with>hot mess, hot mess</with>
 
-20
+19
 00:01:00,000 --> 00:01:01,900
 <aespa>描いてきた Story Never hesitate</aespa>
+<kr>그려 왔던 스토리 망설이지 않아</kr>
+<en>Story I’ve been drawing Never hesitate</en>
 
-21
+20
 00:01:02,000 --> 00:01:04,500
 <aespa>I'm a</aespa> <with>hot mess, hot mess</with>
 
-22
+21
 00:01:04,800 --> 00:01:06,100
 <aespa>So if U LIKE it,</aespa>
 
-23
+22
 00:01:06,133 --> 00:01:07,833
 <aespa>I can take you to MY WORLD</aespa> <MY>Hwi Hwi</MY>
 
-24
+23
 00:01:08,400 --> 00:01:09,866
 <aespa>I am the one</aespa> <with>(Hot)</with>
 
-25
+24
 00:01:09,900 --> 00:01:11,400
 <aespa>I am the one</aespa> <with>(Hot)</with>
 
-26
+25
 00:01:11,400 --> 00:01:13,466
 <aespa>I am the best</aespa> <with>(Hot)</with>
 
-27
+26
 00:01:13,500 --> 00:01:14,300
 <aespa>止まらない もう</aespa>
+<kr>멈추지 않아 이제</kr>
+<en>I won’t stop anymore</en>
 
-28
+27
 00:01:14,400 --> 00:01:15,866
 <aespa>I am the one</aespa> <with>(Hot)</with>
 
-29
+28
 00:01:15,900 --> 00:01:17,400
 <aespa>I am the one</aespa> <with>(Hot)</with>
 
-30
+29
 00:01:17,400 --> 00:01:19,033
 <aespa>And now my turn</aespa> <with>(Hot)</with>
 
-31
+30
 00:01:19,033 --> 00:01:20,700
 <aespa>Yeah, Iʼm a</aespa> <with>hot mess</with>
 
-32
+31
 00:01:25,033 --> 00:01:26,666
 <aespa>Yeah, Iʼm a</aespa> <with>hot mess</with>
 
-33
+32
 00:01:27,500 --> 00:01:29,633
 <aespa>画期的登場シーン</aespa>
+<kr>획기적인 등장 신</kr>
+<en>Groundbreaking appearance</en>
 
-34
+33
 00:01:29,733 --> 00:01:32,700
 <aespa>Shake it Mix it 目を惹く My style</aespa>
+<kr>흔들고 섞으며 눈길을 끄는 내 스타일</kr>
+<en>Shake it Mix it My eye-catching style</en>
 
-35
+34
 00:01:33,333 --> 00:01:35,366
 <aespa>目が眩むほど光る Dimension</aespa>
+<kr>아찔할 정도로 눈부신 디멘션</kr>
+<en>Dazzling dimension</en>
 
-36
+35
 00:01:35,400 --> 00:01:36,533
 <aespa>Feel it coming now,</aespa>
 
-37
+36
 00:01:36,533 --> 00:01:37,866
 <aespa>feel it taking over</aespa>
 
-38
+37
 00:01:37,900 --> 00:01:40,500
 <aespa>I’ll blow ur mind</aespa> <MY>mind</MY> <aespa>like all the time</aespa> <MY>time</MY>
 
-39
+38
 00:01:41,400 --> 00:01:44,400
 <aespa>潜めた ænergy 夢のDesigner</aespa>
+<kr>숨은 ænergy 꿈의 Designer</kr>
+<en>Hidden ænergy Dream Designer</en>
 
-40
+39
 00:01:44,433 --> 00:01:46,533
 <aespa>Now,</aespa> <MY>Now</MY> <aespa>oh yeah, that’s right</aespa> <MY>right</MY>
 
-41
+40
 00:01:46,800 --> 00:01:47,766
 <aespa>So come on</aespa>
 
-42
+41
 00:01:47,933 --> 00:01:51,700
 <aespa>いつも攻めてる Show you ma attitude</aespa>
+<kr>항상 과감하게</kr>
+<en>Always daring Show you ma attitude</en>
 
-109
-00:01:51,700 --> 00:01:51,719
+42
+00:01:52,200 --> 00:01:53,566
+<aespa>どんな形でも Okay</aespa> <MY>Okay</aespa>
+<kr>어떤 형태라도 Okay</kr>
+<en>In any shape or form is okay</en>
 
-110
-00:01:52,200 --> 00:01:53,360
-どんな形でも Okay
-
-111
-00:01:53,360 --> 00:01:53,566
-どんな形でも Okay
-
-112
-00:01:53,566 --> 00:01:54,933
-
-113
+43
 00:01:54,933 --> 00:01:56,266
-ひたすら On my way
+<aespa>ひたすら On my way</aespa>
+<kr>한결같이 내 길을 걸어</kr>
+<en>Single mindedly on my way</en>
 
-114
-00:01:56,266 --> 00:01:56,433
-
-115
+44
 00:01:56,433 --> 00:01:57,866
-Take it slowly
+<aespa>Take it slowly</aespa>
 
-116
-00:01:57,866 --> 00:01:57,900
+45
+00:01:57,900 --> 00:01:59,333
+<aespa>Ainʼt no worry</aespa>
 
-117
-00:01:57,900 --> 00:01:58,159
-Ainʼt no worry
+46
+00:01:59,400 --> 00:02:01,466
+<aespa>Dancing with the flames</aespa>
 
-118
-00:01:58,159 --> 00:01:59,333
-Ainʼt no worry
-
-119
-00:01:59,333 --> 00:01:59,400
-
-120
-00:01:59,400 --> 00:02:01,240
-Dancing with the flames
-
-121
-00:02:01,240 --> 00:02:01,466
-Dancing with the flames
-
-122
-00:02:01,466 --> 00:02:02,000
-
-123
+47
 00:02:02,000 --> 00:02:04,700
-I'm a hot mess, hot mess
+<aespa>I'm a</aespa> <with>hot mess, hot mess</with>
 
-124
-00:02:04,700 --> 00:02:05,400
+48
+00:02:05,400 --> 00:02:07,866
+<aespa>描いてきた Story Never hesitate</aespa>
+<kr>그려 왔던 스토리 망설이지 않아</kr>
+<en>Story I’ve been drawing Never hesitate</en>
 
-125
-00:02:05,400 --> 00:02:06,719
-描いてきた Story Never hesitate
-
-126
-00:02:06,719 --> 00:02:07,866
-描いてきた Story Never hesitate
-
-127
-00:02:07,866 --> 00:02:08,000
-
-128
+49
 00:02:08,000 --> 00:02:10,700
-I'm a hot mess, hot mess
+<aespa>I'm a</aespa> <with>hot mess, hot mess</with>
 
-129
-00:02:10,700 --> 00:02:10,800
+50
+00:02:10,800 --> 00:02:12,100
+<aespa>So if U LIKE it,</aespa>
 
-130
-00:02:10,800 --> 00:02:10,959
-So if U LIKE it,
-
-131
-00:02:10,959 --> 00:02:12,100
-So if U LIKE it,
-
-132
-00:02:12,100 --> 00:02:12,133
-
-133
+51
 00:02:12,133 --> 00:02:13,866
-I can take you to MY WORLD
+<aespa>I can take you to MY WORLD</aespa> <MY>Hwi Hwi</MY>
 
-134
-00:02:13,866 --> 00:02:15,160
-
-135
-00:02:15,160 --> 00:02:15,900
-
-136
+52
 00:02:15,900 --> 00:02:18,533
-I never lay low, never lay low
+<aespa>I never lay low, never lay low</aespa>
 
-137
-00:02:18,533 --> 00:02:19,120
-U watch me glow glow,
+53
+00:02:18,533 --> 00:02:20,366
+<aespa>U watch me glow glow,</aespa>
 
-138
-00:02:19,120 --> 00:02:20,366
-U watch me glow glow,
-
-139
-00:02:20,366 --> 00:02:20,400
-
-140
+54
 00:02:20,400 --> 00:02:21,900
-watch me glow glow
+<aespa>watch me glow glow</aespa>
 
-141
-00:02:21,900 --> 00:02:22,040
-Drama has begun This is not fiction
+55
+00:02:21,900 --> 00:02:24,833
+<aespa>Drama has begun This is not fiction</aespa>
 
-142
-00:02:22,040 --> 00:02:24,833
-Drama has begun This is not fiction
+56
+00:02:24,933 --> 00:02:26,966
+<aespa>Ready or Not</aespa>
 
-143
-00:02:24,833 --> 00:02:24,933
+57
+00:02:29,833 --> 00:02:32,266
+<aespa>Make it</aespa> <with>hot hot,</with> <aespa>make it</aespa> <with>hot hot</with>
 
-144
-00:02:24,933 --> 00:02:25,840
-Ready or Not
+58
+00:02:32,733 --> 00:02:35,266
+<aespa>Make it</aespa> <with>hot hot,</with> <aespa>make it</aespa> <with>hot hot</with>
 
-145
-00:02:25,840 --> 00:02:26,966
-Ready or Not
-
-146
-00:02:26,966 --> 00:02:29,599
-
-147
-00:02:29,833 --> 00:02:30,120
-Make it hot hot, make it hot hot
-
-148
-00:02:30,120 --> 00:02:32,266
-Make it hot hot, make it hot hot
-
-149
-00:02:32,266 --> 00:02:32,360
-
-150
-00:02:32,360 --> 00:02:32,733
-
-151
-00:02:32,733 --> 00:02:35,120
-Make it hot hot, make it hot hot
-
-152
-00:02:35,120 --> 00:02:35,266
-Make it hot hot, make it hot hot
-
-153
-00:02:35,266 --> 00:02:35,733
-
-154
+59
 00:02:35,733 --> 00:02:38,266
-Make it hot hot, make it hot hot
+<aespa>Make it</aespa> <with>hot hot,</with> <aespa>make it</aespa> <with>hot hot</with>
 
-155
-00:02:38,266 --> 00:02:38,400
-
-156
+60
 00:02:38,400 --> 00:02:40,300
-Baby Iʼm on fire, Iʼm on fire
+<aespa>Baby Iʼm on fire, Iʼm on fire</aespa>
 
-157
+61
 00:02:40,300 --> 00:02:41,100
-Fire Ah Ooh
+<aespa>Fire Ah Ooh</aespa>
 
-158
-00:02:41,100 --> 00:02:42,440
-I'm a hot mess, hot mess
+62
+00:02:41,100 --> 00:02:43,533
+<aespa>I'm a</aespa> <with>hot mess, hot mess<with>
 
-159
-00:02:42,440 --> 00:02:43,533
-I'm a hot mess, hot mess
-
-160
-00:02:44,720 --> 00:02:44,800
-
-161
+63
 00:02:44,800 --> 00:02:46,900
-描いてきた Story Never hesitate
+<aespa>描いてきた Story Never hesitate</aespa>
+<kr>그려 왔던 스토리 망설이지 않아</kr>
+<en>Story I’ve been drawing Never hesitate</en>
 
-162
-00:02:46,900 --> 00:02:47,000
-
-163
+64
 00:02:47,000 --> 00:02:47,800
-I'm a hot mess, hot mess
+<aespa>I'm a</aespa> <with>hot mess, hot mess<with>
 
-164
-00:02:47,800 --> 00:02:49,666
-I'm a hot mess, hot mess
-
-165
-00:02:49,666 --> 00:02:49,800
-
-166
+65
 00:02:49,800 --> 00:02:51,100
-So if U LIKE it,
+<aespa>So if U LIKE it,</aespa>
 
-167
-00:02:51,100 --> 00:02:51,133
+66
+00:02:51,133 --> 00:02:52,866
+<aespa>I can take you to MY WORLD</aespa> <MY>Hwi Hwi</MY>
 
-168
-00:02:51,133 --> 00:02:52,000
-I can take you to MY WORLD
+67
+00:02:53,110 --> 00:02:54,160
+<aespa>I am the one</aespa> <with>(Hot)</with>
 
-169
-00:02:52,000 --> 00:02:52,866
-I can take you to MY WORLD
-
-170
-00:02:52,866 --> 00:02:53,110
-
-171
-00:02:53,110 --> 00:02:53,200
-I am the one (Hot)
-
-172
-00:02:53,200 --> 00:02:54,160
-I am the one (Hot)
-
-173
-00:02:54,160 --> 00:02:54,180
-
-174
+68
 00:02:54,180 --> 00:02:56,010
-I am the one (Hot)
+<aespa>I am the one</aespa> <with>(Hot)</with>
 
-175
-00:02:56,010 --> 00:02:56,030
-
-176
+69
 00:02:56,030 --> 00:02:57,080
-I am the best (Hot)
+<aespa>I am the best</aespa> <with>(Hot)</with>
 
-177
-00:02:57,080 --> 00:02:57,800
+70
+00:02:57,800 --> 00:02:59,233
+<aespa>止まらない もう (I am the one)</aespa>
+<kr>멈추지 않아 이제</kr>
+<en>I won’t stop anymore (I am the one)</en>
 
-178
-00:02:57,800 --> 00:02:58,400
-止まらない もう (I am the one)
-
-179
-00:02:58,400 --> 00:02:59,233
-止まらない もう (I am the one)
-
-180
-00:02:59,233 --> 00:02:59,400
-
-181
+71
 00:02:59,400 --> 00:03:00,866
-I am the one (Hot)
+<aespa>I am the one</aespa> <with>(Hot)</with>
 
-182
-00:03:00,866 --> 00:03:00,900
-
-183
+72
 00:03:00,900 --> 00:03:02,400
-I am the one (Hot)
+<aespa>I am the one</aespa> <with>(Hot)</with>
 
-184
-00:03:02,400 --> 00:03:02,920
-And now my turn (Hot)
+73
+00:03:02,400 --> 00:03:04,000
+<aespa>And now my turn</aespa> <with>(Hot)</with>
 
-185
-00:03:02,920 --> 00:03:04,000
-And now my turn (Hot)
-
-186
-00:03:04,000 --> 00:03:04,033
-
-187
+74
 00:03:04,033 --> 00:03:05,366
-Yeah, Iʼm a hot mess
+<aespa>Yeah, Iʼm a</aespa> <with>hot mess</with>
 
-188
-00:03:05,366 --> 00:03:05,400
+75
+00:03:05,400 --> 00:03:06,733
+<aespa>Know you want it some more</aespa>
 
-189
-00:03:05,400 --> 00:03:05,879
-Know you want it some more
-
-190
-00:03:05,879 --> 00:03:06,733
-Know you want it some more
-
-191
-00:03:06,733 --> 00:03:08,480
-
-192
+76
 00:03:08,800 --> 00:03:11,000
-時空を飛び越え Believe in yourself
+<aespa>時空を飛び越え Believe in yourself</aespa>
+<kr>시공을 뛰어넘어 네 자신을 믿어 봐</kr>
+<en>Beyond time and space Believe in yourself</en>
 
-193
+77
 00:03:11,400 --> 00:03:12,560
-Know you want it some more
+<aespa>Know you want it some more</aespa>
 
-194
-00:03:12,560 --> 00:03:12,733
-Know you want it some more
-
-195
-00:03:12,733 --> 00:03:14,800
-
-196
+78
 00:03:14,800 --> 00:03:15,733
-開かれた世界
+<aespa>開かれた世界</aespa>
+<kr>열린 세계</kr>
+<en>Open world</en>
 
-197
-00:03:15,733 --> 00:03:15,900
-
-198
-00:03:15,900 --> 00:03:16,560
-Hot mess, hot mess
-
-199
-00:03:16,560 --> 00:03:17,460
-Hot mess, hot mess
-
-200
-00:03:17,460 --> 00:03:17,700
-Hot mess, hot mess
-
+79
+00:03:15,900 --> 00:03:17,700
+<with>Hot mess, hot mess</with>

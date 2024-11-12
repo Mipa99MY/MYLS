@@ -13,14 +13,14 @@
 4
 00:00:12,264 --> 00:00:13,189
 <aespa>재미 좀 볼</aespa> <MY>재미 좀 볼</MY>
-ちょっと面白くなる
-Gon' have a ball
+<jp>ちょっと面白くなる</jp>
+<en>Gon' have a ball</en>
 
 5
 00:00:14,276 --> 00:00:15,112
 <aespa>빛의 Core</aespa>
-光の Core
-Light at the Core
+<jp>光の Core</jp>
+<en>Light at the Core</en>
 
 6
 00:00:15,363 --> 00:00:18,271
@@ -29,26 +29,26 @@ Light at the Core
 7
 00:00:18,271 --> 00:00:19,354
 <aespa>문이 열려</aespa>
-扉が開く
-Open the door
+<jp>扉が開く</jp>
+<en>Open the door</en>
 
 8
 00:00:20,263 --> 00:00:22,319
 <aespa>서로의 존재를 느껴</aespa>
-お互いの存在を感じる
-Feelin' each other's presence
+<jp>お互いの存在を感じる</jp>
+<en>Feelin' each other's presence</en>
 
 9
 00:00:22,319 --> 00:00:23,195
 <aespa>마치 Discord</aespa>
-まるで Discord
-Like a Discord
+<jp>まるで Discord</jp>
+<en>Like a Discord</en>
 
 10
 00:00:23,448 --> 00:00:26,341
 <aespa>날 닮은 너</aespa> <with>너 누구야</with>
-私に似た君 君は誰？
-My lookalike, who are you?
+<jp>私に似た君 君は誰？</jp>
+<en>My lookalike, who are you?</en>
 
 11
 00:00:26,341 --> 00:00:26,757
@@ -57,14 +57,14 @@ My lookalike, who are you?
 12
 00:00:26,997 --> 00:00:29,008
 <aespa>사건은 다가와 Ah</aespa> <with>Oh Ay</with>
-事件は近づいて来る Ah Oh Ay
-Event's imminent Ah Oh Ay
+<jp>事件は近づいて来る Ah Oh Ay</jp>
+<en>Event's imminent Ah Oh Ay</en>
 
 13
 00:00:29,008 --> 00:00:30,960
 <aespa>거세게 커져가 Ah</aespa> <with>Oh Ay</with>
-激しく大きくなっていく Ah Oh Ay
-Blowin' up crazy Ah Oh Ay
+<jp>激しく大きくなっていく Ah Oh Ay</jp>
+<en>Blowin' up crazy Ah Oh Ay</en>
 
 14
 00:00:30,960 --> 00:00:33,099
@@ -77,20 +77,20 @@ Blowin' up crazy Ah Oh Ay
 16
 00:00:35,265 --> 00:00:37,749
 <aespa>감히 건드리지 못할 걸</aespa>
-恐れ多くて手も触れられないはず
-Won't dare touch it
+<jp>恐れ多くて手も触れられないはず</jp>
+<en>Won't dare touch it</en>
 
 17
 00:00:37,749 --> 00:00:38,724
 <aespa>(누구도 말이야)</aespa>
-(誰もね)
-(No one ever will)
+<jp>(誰もね)</jp>
+<en>(No one ever will)</en>
 
 18
 00:00:39,451 --> 00:00:40,495
 <aespa>지금 내 안에선</aespa>
-いま私の中では
-Right now it's inside me
+<jp>いま私の中では</jp>
+<en>Right now it's inside me</en>
 
 19
 00:00:40,827 --> 00:00:42,679
@@ -107,8 +107,8 @@ Right now it's inside me
 22
 00:00:48,618 --> 00:00:51,189
 <aespa>원초 그걸 찾아</aespa>
-原初 それを探して
-Seek its origin
+<jp>原初 それを探して</jp>
+<en>Seek its origin</en>
 
 23
 00:00:51,189 --> 00:00:53,024
@@ -117,8 +117,8 @@ Seek its origin
 24
 00:00:53,024 --> 00:00:55,484
 <aespa>불러낸 내 우주를 봐 봐</aespa>
-呼び出した私の宇宙を見てみて
-Watch this universe I've brought out
+<jp>呼び出した私の宇宙を見てみて</jp>
+<en>Watch this universe I've brought out</en>
 
 25
 00:00:56,581 --> 00:00:58,581
@@ -135,26 +135,26 @@ Watch this universe I've brought out
 28
 00:01:07,302 --> 00:01:10,928
 <aespa>휩쓸린 에너지 It’s so special</aespa>
-押し流されたエネルギー It’s so special
-Swept-up energy, It's so special
+<jp>押し流されたエネルギー It’s so special</jp>
+<en>Swept-up energy, It's so special</en>
 
 29
 00:01:10,928 --> 00:01:14,761
 <aespa>잔인한 Queen 이며 Scene 이자 종결</aespa>
-残忍な Queenであり Sceneであり終結
-Cruel Queen and the Scene, its finale
+<jp>残忍な Queenであり Sceneであり終結</jp>
+<en>Cruel Queen and the Scene, its finale</en>
 
 30
 00:01:14,761 --> 00:01:18,942
 <aespa>이토록 거대한 내 안의 Explosion</aespa>
-こんなにも巨大な私の中の Explosion
-It's massive, this Explosion within me
+<jp>こんなにも巨大な私の中の Explosion</jp>
+<en>It's massive, this Explosion within me</en>
 
 31
 00:01:18,942 --> 00:01:20,999
 <aespa>내 모든 세포 별로부터 만들어져</aespa>
-私の全細胞 星から作られる
-Every one of my cells are created from stars
+<jp>私の全細胞 星から作られる</jp>
+<en>Every one of my cells are created from stars</en>
 
 32
 00:01:20,999 --> 00:01:23,016
@@ -163,20 +163,20 @@ Every one of my cells are created from stars
 33
 00:01:23,016 --> 00:01:24,966
 <aespa>질문은 계속돼 Ah</aespa> <with>Oh Ay</with>
-質問は続く Ah Oh Ay
-Questions keep comin' Ah Oh Ay
+<jp>質問は続く Ah Oh Ay</jp>
+<en>Questions keep comin' Ah Oh Ay</en>
 
 34
 00:01:24,966 --> 00:01:27,000
 <aespa>우린 어디서 왔나</aespa> <with>Oh Ay</with>
-我々はどこから来たのか Oh Ay
-Where did we come from Oh Ay
+<jp>我々はどこから来たのか Oh Ay</jp>
+<en>Where did we come from Oh Ay</en>
 
 35
 00:01:27,000 --> 00:01:28,235
 <aespa>>느껴 내 안에선</aespa>
-感じる 私の中では
-Feel it in me
+<jp>感じる 私の中では</jp>
+<en>Feel it in me</en>
 
 36
 00:01:28,925 --> 00:01:30,693
@@ -193,8 +193,8 @@ Feel it in me
 39
 00:01:36,611 --> 00:01:39,291
 <aespa>원초 그걸 찾아</aespa>
-原初 それを探して
-Seek its origin
+<jp>原初 それを探して</jp>
+<en>Seek its origin</en>
 
 40
 00:01:39,291 --> 00:01:40,994
@@ -203,8 +203,8 @@ Seek its origin
 41
 00:01:40,994 --> 00:01:43,428
 <aespa>불러낸 내 우주를 봐 봐</aespa>
-呼び出した私の宇宙を見てみて
-Watch this universe I've brought out
+<jp>呼び出した私の宇宙を見てみて</jp>
+<en>Watch this universe I've brought out</en>
 
 42
 00:01:44,629 --> 00:01:46,481
@@ -213,26 +213,26 @@ Watch this universe I've brought out
 43
 00:01:46,746 --> 00:01:50,776
 <aespa>보이지 않는 힘으로</aespa>
-見えない力で
-With my invisible force
+<jp>見えない力で</jp>
+<en>With my invisible force</en>
 
 44
 00:01:50,777 --> 00:01:54,785
 <aespa>네게 손 내밀어 볼까</aespa>
-君に手を差し伸べてみようかな
-Should I reach out my hand to you
+<jp>君に手を差し伸べてみようかな</jp>
+<en>Should I reach out my hand to you</en>
 
 45
 00:01:54,785 --> 00:01:56,771
 <aespa>가능한 모든 가능성</aespa>
-可能なすべての可能性
-All the possible possibilities
+<jp>可能なすべての可能性</jp>
+<en>All the possible possibilities</en>
 
 46
 00:01:56,771 --> 00:01:58,802
 <aespa>무한 속의</aespa> <MY>너를 만나</MY>
-無限の中の君に出逢う
-Meeting you inside infinity
+<jp>無限の中の君に出逢う</jp>
+<en>Meeting you inside infinity</en>
 
 47
 00:01:58,802 --> 00:02:00,651
@@ -249,38 +249,38 @@ Meeting you inside infinity
 50
 00:02:06,982 --> 00:02:09,002
 <with>사건은 다가와 Ah Oh Ay</with>
-事件は近づいて来る Ah Oh Ay
-Event's imminent Ah Oh Ay
+<jp>事件は近づいて来る Ah Oh Ay</jp>
+<en>Event's imminent Ah Oh Ay</en>
 
 51
 00:02:09,002 --> 00:02:10,943
 <with>거세게 커져가 Ah Oh Ay</with>
-激しく大きくなっていく Ah Oh Ay
-Blowin' up crazy Ah Oh Ay
+<jp>激しく大きくなっていく Ah Oh Ay</jp>
+<en>Blowin' up crazy Ah Oh Ay</en>
 
 52
 00:02:10,943 --> 00:02:13,002
 <with>질문은 계속돼 Ah Oh Ay</with>
-質問は続く Ah Oh Ay
-Questions keep comin' Ah Oh Ay
+<jp>質問は続く Ah Oh Ay</jp>
+<en>Questions keep comin' Ah Oh Ay</en>
 
 53
 00:02:13,002 --> 00:02:14,900
 <with>우린 어디서 왔나 Oh Ay</with>
-我々はどこから来たのか Oh Ay
-Where did we come from Oh Ay
+<jp>我々はどこから来たのか Oh Ay</jp>
+<en>Where did we come from Oh Ay</en>
 
 54
 00:02:14,900 --> 00:02:17,061
 <with>사건은 다가와 Ah Oh Ay</with>
-事件は近づいて来る Ah Oh Ay
-Event's imminent Ah Oh Ay
+<jp>事件は近づいて来る Ah Oh Ay</jp>
+<en>Event's imminent Ah Oh Ay</en>
 
 55
 00:02:17,061 --> 00:02:18,953
 <with>거세게 커져가 Ah Oh Ay</with>
-激しく大きくなっていく Ah Oh Ay
-Blowin' up crazy Ah Oh Ay
+<jp>激しく大きくなっていく Ah Oh Ay</jp>
+<en>Blowin' up crazy Ah Oh Ay</en>
 
 56
 00:02:18,953 --> 00:02:21,052
@@ -289,14 +289,14 @@ Blowin' up crazy Ah Oh Ay
 57
 00:02:21,052 --> 00:02:23,042
 <with>우린 어디서 왔나 Oh Ay</with>
-我々はどこから来たのか Oh Ay
-Where did we come from Oh Ay
+<jp>我々はどこから来たのか Oh Ay</jp>
+<en>Where did we come from Oh Ay</en>
 
 58
 00:02:23,042 --> 00:02:24,801
 <with>우린 어디서 왔나 Oh Ay</with>
-我々はどこから来たのか Oh Ay
-Where did we come from Oh Ay
+<jp>我々はどこから来たのか Oh Ay</jp>
+<en>Where did we come from Oh Ay</en>
 
 59
 00:02:26,819 --> 00:02:27,566
@@ -309,8 +309,8 @@ Where did we come from Oh Ay
 61
 00:02:32,753 --> 00:02:35,404
 <aespa>원초 그걸 찾아</aespa>
-原初 それを探して
-Seek its origin
+<jp>原初 それを探して</jp>
+<en>Seek its origin</en>
 
 62
 00:02:35,404 --> 00:02:37,084
@@ -319,8 +319,8 @@ Seek its origin
 63
 00:02:37,084 --> 00:02:39,557
 <aespa>불러낸 내 우주를 봐 봐</aespa>
-呼び出した私の宇宙を見てみて
-Watch this universe I've brought out
+<jp>呼び出した私の宇宙を見てみて</jp>
+<en>Watch this universe I've brought out</en>
 
 64
 00:02:40,743 --> 00:02:42,378
@@ -329,44 +329,44 @@ Watch this universe I've brought out
 65
 00:02:43,087 --> 00:02:45,047
 <with>사건은 다가와 Ah Oh Ay</with>
-事件は近づいて来る Ah Oh Ay
-Event's imminent Ah Oh Ay
+<jp>事件は近づいて来る Ah Oh Ay</jp>
+<en>Event's imminent Ah Oh Ay</en>
 
 66
 00:02:45,047 --> 00:02:47,024
 <with>거세게 커져가 Ah Oh Ay</with>
-激しく大きくなっていく Ah Oh Ay
-Blowin' up crazy Ah Oh Ay
+<jp>激しく大きくなっていく Ah Oh Ay</jp>
+<en>Blowin' up crazy Ah Oh Ay</en>
 
 67
 00:02:47,024 --> 00:02:49,103
 <with>질문은 계속돼 Ah Oh Ay</with>
-質問は続く Ah Oh Ay
-Questions keep comin' Ah Oh Ay
+<jp>質問は続く Ah Oh Ay</jp>
+<en>Questions keep comin' Ah Oh Ay</en>
 
 68
 00:02:49,103 --> 00:02:51,094
 <with>우린 어디서 왔나 Oh Ay</with>
-我々はどこから来たのか Oh Ay
-Where did we come from Oh Ay
+<jp>我々はどこから来たのか Oh Ay</jp>
+<en>Where did we come from Oh Ay</en>
 
 69
 00:02:51,094 --> 00:02:53,182
 <with>사건은 다가와 Ah Oh Ay</with>
-事件は近づいて来る Ah Oh Ay
-Event's imminent Ah Oh Ay
+<jp>事件は近づいて来る Ah Oh Ay</jp>
+<en>Event's imminent Ah Oh Ay</en>
 
 70
 00:02:53,182 --> 00:02:55,066
 <with>거세게 커져가 Ah Oh Ay</with>
-激しく大きくなっていく Ah Oh Ay
-Blowin' up crazy Ah Oh Ay
+<jp>激しく大きくなっていく Ah Oh Ay</jp>
+<en>Blowin' up crazy Ah Oh Ay</en>
 
 71
 00:02:55,066 --> 00:02:55,930
 <with>질문은 계속돼 Ah Oh Ay</with>
-質問は続く Ah Oh Ay
-Questions keep comin' Ah Oh Ay
+<jp>質問は続く Ah Oh Ay</jp>
+<en>Questions keep comin' Ah Oh Ay</en>
 
 72
 00:02:55,930 --> 00:02:57,322

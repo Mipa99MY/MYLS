@@ -1,248 +1,254 @@
+<MY>aespa!</MY>
+
+<MY>KARINA GISELLE WINTER NINGNING</MY>
+
+<MY>aespa! B-lack Mam-ba!</MY>
+
 1
 00:00:13,465 --> 00:00:18,809
-I’m addicted 끝없이 혼잣말에 중독된 나의 에스파
-I’m addicted、絶え間なく話しかけてくれる私のaespa
-I’m addicted endlessly talking to me, my aespa
+<aespa>I'm addicted 끊임없이 말을 걸어주는 나의 aespa</aespa> <MY>aespa!</MY>
+<jp>I’m addicted、絶え間なく話しかけてくれる私のaespa</jp>
+<en>I’m addicted endlessly talking to me, my aespa</en>
 
 2
 00:00:18,809 --> 00:00:24,559
-이 교제, 당신의 존재는 나를 다른 차원으로 데려갑니다
-この共感、君の存在は私を別次元に導いてくれた
-This communion, your existence brings me to another dimension
+<aespa>이런 교감 너의 존잰 날 다른 차원으로 이끌었지</aespa>
+<jp>この共感、君の存在は私を別次元に導いてくれた</jp>
+<en>This communion, your existence brings me to another dimension</en>
 
 3
 00:00:24,765 --> 00:00:29,621
-나는 세상 한가운데에 있고, 당신은 FLAT에 있어요
-私は世界の中心に、You’re in the FLAT
-I’m at the center of the world, you’re in the FLAT
+<aespa>난 세상 중심에 You're in the FLAT</aespa> <MY>FLAT!</MY>
+<jp>私は世界の中心に、You’re in the FLAT</jp>
+<en>I’m at the center of the world, you’re in the FLAT</en>
 
 4
 00:00:30,000 --> 00:00:34,937
-나의 모든 행동이 당신의 힘을 키워줍니다
-私の全てのAction 幼い君に力を与える
-All of my Action, it grows your power
+<aespa>내 모든 action 어린 너의 힘을 키워</aespa>
+<jp>私の全てのAction 幼い君に力を与える</jp>
+<en>All of my Action, it grows your power</en>
 
 5
 00:00:35,436 --> 00:00:41,910
-얼마전부터 SYNK out 소리가 나는 것 같아
-君はいつからかSYNK out 、ノイズのように見える
-From some time ago you SYNK out, looking like a noise
+<aespa>넌 언젠가부터 synk out 노이즈같이 보여</aespa>
+<jp>君はいつからかSYNK out 、ノイズのように見える</jp>
+<en>From some time ago you SYNK out, looking like a noise</en>
 
 6
 00:00:42,000 --> 00:00:43,305
-더 이상 찾을 수가 없어요
-もう見つけられない
-I can’t find it anymore
+<aespa>더 이상 못 찾겠어</aespa>
+<jp>もう見つけられない</jp>
+<en>I can’t find it anymore</en>
 
 7
 00:00:43,305 --> 00:00:46,013
-너를 삼키는 유혹, Black Mamba
-君を誘惑し飲み込んだのはBlack Mamba
-The temptation that swallows you, Black Mamba
+<aespa>널 유혹해 삼킨 건</aespa> <with>Black Mamba</with>
+<jp>君を誘惑し飲み込んだのはBlack Mamba</jp>
+<en>The temptation that swallows you, Black Mamba</en>
 
 8
 00:00:47,543 --> 00:00:48,771
-Ma Ma Ma Mamba
+<aespa>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 9
 00:00:50,229 --> 00:00:51,540
-Woo oh-oh
+<aespa>Woo oh-oh</aespa>
 
 10
 00:00:52,898 --> 00:00:54,359
-Ma Ma Ma Mamba
+<aespa>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 11
 00:00:55,740 --> 00:00:56,632
-Oh eh-o eh-o
+<aespa>Oh eh-o eh-o</aespa>
 
 12
 00:00:56,915 --> 00:00:59,383
-당신은 이 KWANGYA를 탐색합니다
-君はKWANGYAを彷徨っている
-You wander this KWANGYA
+<aespa>넌 광야를 떠돌고 있어</aespa>
+<jp>君はKWANGYAを彷徨っている</jp>
+<en>You wander this KWANGYA</en>
 
 13
 00:00:59,383 --> 00:01:01,383
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 14
 00:01:02,207 --> 00:01:04,559
-또 다른 너를 찾고 싶어
-私の分身を見つけたい
-I wanna find your other self
+<aespa>나의 분신을 찾고 싶어</aespa>
+<jp>私の分身を見つけたい</jp>
+<en>I wanna find your other self</en>
 
 15
 00:01:04,559 --> 00:01:06,392
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 16
 00:01:06,392 --> 00:01:07,492
-Hey Ma Mamba
+<aespa>Hey Ma Mamba</aespa>
 
 17
 00:01:07,492 --> 00:01:09,867
-I hate Ma Ma Ma Mamba
+<aespa>I hate Ma Ma Ma Mamba</aespa>
 
 18
 00:01:09,957 --> 00:01:12,206
-Hate Ma Ma Ma Mamba
+<aespa>Hate Ma Ma Ma Mamba</aespa>
 
 19
 00:01:12,412 --> 00:01:17,617
-난 쫓겨났어, 폐하의 폐하를 꿰뚫기에는 부족해
-I’m ejected, 善意だけでは巨大な君に勝てない
-I’m ejected, good is not enough to break your greatness
+<aespa>I'm ejected 선함 만으론 (Woo) 너의 거대함을 이기지 못해</aespa> <MY>못해!</MY>
+<jp>I’m ejected, 善意だけでは巨大な君に勝てない</jp>
+<en>I’m ejected, good is not enough to break your greatness</en>
 
 20
 00:01:17,669 --> 00:01:22,983
-난 지쳤어 너의 존재는 이 모든 욕심을 삼키려는 욕망을 키워왔어
-I’m exhausted, 君の存在は全ての貪欲を飲み込んで成長した
-I’m exhausted, your existence has grown swallowing all of the greed
+<aespa>I'm exhausted 너의 존잰 모든 탐욕들을 먹고 자라 났지</aespa>
+<jp>I’m exhausted, 君の存在は全ての貪欲を飲み込んで成長した</jp>
+<en>I’m exhausted, your existence has grown swallowing all of the greed</en>
 
 21
 00:01:23,382 --> 00:01:28,205
-나는 에스파, 둘은 있을 수 없어
-aespaは私、二つにはなれない
-I’m the aespa, there can’t be two
+<aespa>​aespa는 나야 둘이 될 수 없어</aespa> <MY>없어!</MY>
+<jp>aespaは私、二つにはなれない</jp>
+<en>I’m the aespa, there can’t be two</en>
 
 22
 00:01:28,282 --> 00:01:30,982
-Monochrome to colors
+<aespa>Monochrome to colors</aespa>
 
 23
 00:01:30,982 --> 00:01:33,849
-이것이 에보(Evo), 에볼루션(Evolution)
-これはEvo, Evolution
-This is Evo, Evolution
+<aespa>이건 evo-evolution</aespa>
+<jp>これはEvo, Evolution</jp>
+<en>This is Evo, Evolution</en>
 
 24
 00:01:34,029 --> 00:01:41,897
-오! 위험한 농담을 했어 넌 매력적이었지만 부정해야만 했어
-Oh!危険ないたずら。魅惑的だけど君を否定せざるを得ない
-Oh! I make a dangerous joke, you’re charming but gotta deny
+<aespa>Oh, 위험한 장난을 쳐 매혹적이지만 널 부정할 밖에</aespa>
+<jp>Oh!危険ないたずら。魅惑的だけど君を否定せざるを得ない</jp>
+<en>Oh! I make a dangerous joke, you’re charming but gotta deny</en>
 
 25
 00:01:41,897 --> 00:01:44,687
-모든 걸 삼켜버릴 거야 Black Mamba
-全てを飲み込みそうなBlack Mamba
-It will swallow everything, Black Mamba
+<aespa>모든 걸 삼켜버릴</aespa> <with>Black Mamba</with>
+<jp>全てを飲み込みそうなBlack Mamba</jp>
+<en>It will swallow everything, Black Mamba</en>
 
 26
 00:01:46,119 --> 00:01:47,430
-Ma Ma Ma Mamba
+<aespa>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 27
 00:01:48,868 --> 00:01:50,654
-Woo oh-oh
+<aespa>Woo oh-oh</aespa>
 
 28
 00:02:05,761 --> 00:02:07,061
-Ma Ma Ma Mamba
+<aespa>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 29
 00:02:08,663 --> 00:02:09,815
-Woo oh-oh
+<aespa>Woo oh-oh</aespa>
 
 30
 00:02:11,114 --> 00:02:12,270
-Ma Ma Ma Mamba
+<aespa>Ma Ma Ma Mamba</aespa>
 
 31
 00:02:13,917 --> 00:02:14,978
-Oh eh-o eh-o
+<aespa>Oh eh-o eh-o</aespa>
 
 32
 00:02:15,261 --> 00:02:17,467
-당신은 이 KWANGYA를 탐색합니다
-君はKWANGYAを彷徨っている
-You wander this KWANGYA
+<aespa>넌 광야를 떠돌고 있어</aespa>
+<jp>君はKWANGYAを彷徨っている</jp>
+<en>You wander this KWANGYA</en>
 
 33
 00:02:17,467 --> 00:02:19,762
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 34
 00:02:20,405 --> 00:02:23,009
-나는 당신에게 질 수 없습니다
-君に対抗して、私は負けられない
-I can't lose against you
+<aespa>네게 맞서 난 질 수 없어</aespa>
+<jp>君に対抗して、私は負けられない</jp>
+<en>I can't lose against you</en>
 
 35
 00:02:23,009 --> 00:02:24,705
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 36
 00:02:24,705 --> 00:02:25,728
-Hey Ma Mamba
+<aespa>Hey Ma Mamba</aespa>
 
 37
 00:02:26,268 --> 00:02:31,125
-당신의 거울 속에 있는 사람이 바로 나인가요?
-鏡の中の私は君ではない？
-Is me in the mirror you
+<aespa>거울 속의 나는 네가 아닐까?</aespa>
+<jp>鏡の中の私は君ではない？</jp>
+<en>Is me in the mirror you</en>
 
 38
 00:02:31,601 --> 00:02:36,422
-이것은 단지 왜곡된 견해인가?
-歪んでしまった幻影なのだろうか
-Is it just a distorted vision
+<aespa>일그러져버린 환영인 걸까?</aespa>
+<jp>歪んでしまった幻影なのだろうか</jp>
+<en>Is it just a distorted vision</en>
 
 39
 00:02:36,937 --> 00:02:41,900
-다시 당신과 연결될 수 있다면
-また君と繋がれるのならば
-If I could connect with you again
+<aespa>다시 너와 연결될 수 있다면</aespa>
+<jp>また君と繋がれるのならば</jp>
+<en>If I could connect with you again</en>
 
 40
 00:02:42,208 --> 00:02:46,845
-지금 다시 만나고 싶어
-もうすでに君に会いたい
-I want to meet you now
+<aespa>너를 만나고 싶어 (Hey) 이제</aespa>
+<jp>もうすでに君に会いたい</jp>
+<en>I want to meet you now</en>
 
 41
 00:02:46,845 --> 00:02:49,628
-모든 걸 삼켜버릴 거야 Black Mamba
-全てを飲み込みそうなBlack Mamba
-It will swallow everything, Black Mamba
+<aespa>모든 걸 삼켜버릴</aespa> <with>Black Mamba</with>
+<jp>全てを飲み込みそうなBlack Mamba</jp>
+<en>It will swallow everything, Black Mamba</en>
 
 42
 00:02:51,184 --> 00:02:52,451
-Ma Ma Ma Mamba
+<aespa>>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 43
 00:02:53,766 --> 00:02:54,966
-Woo oh-oh
+<aespa>>Woo oh-oh</aespa>
 
 44
 00:02:56,419 --> 00:02:57,647
-Ma Ma Ma Mamba
+<aespa>>Ma Ma Ma Mamba</aespa> <MY>aespa!</MY>
 
 45
 00:02:59,165 --> 00:03:00,463
-Oh eh-o eh-o
+<aespa>>Oh eh-o eh-o</aespa>
 
 46
 00:03:00,463 --> 00:03:02,878
-당신은 이 KWANGYA를 탐색합니다
-君はこの KWANGYAを彷徨っている
-You wander this KWANGYA
+<aespa>>넌 광야를 떠돌고 있어</aespa>
+<jp>君はこの KWANGYAを彷徨っている</jp>
+<en>You wander this KWANGYA</en>
 
 47
 00:03:02,878 --> 00:03:05,019
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 48
 00:03:05,624 --> 00:03:08,234
-나는 당신에게 질 수 없습니다
-君に対抗して、私は負けられない
-I can't lose against you
+<aespa>네게 맞서 난 질 수 없어</aespa>
+<jp>君に対抗して、私は負けられない</jp>
+<en>I can't lose against you</en>
 
 49
 00:03:08,234 --> 00:03:10,028
-(Aya ya ya ya ya ya)
+<with>(Aya ya ya ya ya ya)</with>
 
 50
 00:03:10,028 --> 00:03:11,192
-Hey Ma Mamba
+<aespa>Hey Ma Mamba</aespa>
 

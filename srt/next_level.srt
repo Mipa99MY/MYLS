@@ -1,354 +1,366 @@
+<MY>KARINA WINTER GISELLE NINGNING</MY>
+
+<MY>Next Level!</MY>
+
 1
 00:00:16,430 --> 00:00:19,676
-I’m on the Next Level Yeah
+<aespa>I’m on the Next Level Yeah</aespa>
 
 2
 00:00:19,676 --> 00:00:21,962
-절대적인 규칙을 따르세요
-絶対的なルールを守れ
-I follow the absolute rules
+<aespa>절대적 룰을 지켜</aespa>
+<jp>絶対的なルールを守れ</jp>
+<en>I follow the absolute rules</en>
 
 3
 00:00:21,962 --> 00:00:25,961
-내 손을 놓지 말아요 단결이 나의 무기예요
-私の手を離さないで　結束は私の武器
-Don't let go of my hand, unity is my weapon
+<aespa>내 손을 놓지 말아 결속은 나의 무기내 손을 놓지 말아 결속은 나의 무기</aespa>
+<jp>私の手を離さないで　結束は私の武器</jp>
+<en>Don't let go of my hand, unity is my weapon</en>
 
 4
 00:00:25,961 --> 00:00:28,601
-광야방향
-KWANGYAへ歩いていく
-I walk to KWANGYA
+<aespa>광야로 걸어가</aespa>
+<jp>KWANGYAへ歩いていく</jp>
+<en>I walk to KWANGYA</en>
 
 5
 00:00:28,601 --> 00:00:30,748
-나는 너의 홈그라운드를 알고 있다
-知っている　君のHome ground
-I know your Home ground
+<aespa>알아 네 home ground</aespa>
+<jp>知っている　君のHome ground</jp>
+<en>I know your Home ground</en>
 
 6
 00:00:30,748 --> 00:00:34,643
-위협에 직면하세요. 그것을 패배시키세요.
-威嚇に立ち向かって　追い抜け　追い抜け　追い抜け
-Confront the threat, beat it, beat it, beat it
+<aespa>위협에 맞서서</aespa> <with>제껴라 제껴라 제껴라</with>
+<jp>威嚇に立ち向かって　追い抜け　追い抜け　追い抜け</jp>
+<en>Confront the threat, beat it, beat it, beat it</en>
+
+<aespa>>woo-wee-woo wee</aespa> <MY>aespa!</MY>
 
 7
 00:00:37,847 --> 00:00:42,341
-상상할 수 없는 Black out 유혹은 심연과 같아
-想像もできなかったBlack out　誘惑は深くて濃い
-An unexpected Black out, the temptation is deep and strong
+<aespa>상상도 못한</aespa> <with>Black out</with> <aespa>유혹은 깊고 진해</aespa>
+<jp>想像もできなかったBlack out　誘惑は深くて濃い</jp>
+<en>An unexpected Black out, the temptation is deep and strong</en>
 
 8
 00:00:46,621 --> 00:00:51,562
-꼭 잡은 손이 그리워 절대 포기하지 않아
-取り合った手を離してしまう　私は絶対諦められない
-Letting go of the hands held together, but I'll never give up
+<aespa>맞잡은 손을</aespa> <with>놓쳐</with> <aespa>난 절대 포기 못해</aespa>
+<jp>取り合った手を離してしまう　私は絶対諦められない</jp>
+<en>Letting go of the hands held together, but I'll never give up</en>
 
 9
 00:00:51,562 --> 00:00:54,348
-I’m on the Next Level
+<aespa>I’m on the Next Level</aespa>
 
 10
 00:00:54,348 --> 00:00:57,000
-멀리 있는 문을 열어라
-あの向こうのドアを開ける
-I open the door over there
+<aespa>저 너머의 문을 열어</aespa>
+<jp>あの向こうのドアを開ける</jp>
+<en>I open the door over there</en>
 
 11
 00:00:57,000 --> 00:00:59,477
-다음 레벨 당신
-Next Level 君を
-Next Level, I'll
+<with>Next level</with> <aespa>널</aespa>
+<jp>Next Level 君を</jp>
+<en>Next Level, I'll</en>
 
 12
 00:00:59,477 --> 00:01:01,442
-나에 의해 파괴될 것이다
-ついには私が壊す
-Destroy you in the end
+<aespa>결국엔 내가 부셔</aespa>
+<jp>ついには私が壊す</jp>
+<en>Destroy you in the end</en>
 
 13
 00:01:01,442 --> 00:01:05,769
-다음 단계에 도달할 때까지 KOSMO
-Next Level KOSMOに届くまで
-Until I reach the Next Level KOSMO
+<with>Next Level</with> <aespa>KOSMO에 닿을 때까지</aespa>
+<jp>Next Level KOSMOに届くまで</jp>
+<en>Until I reach the Next Level KOSMO</en>
 
 14
 00:01:05,769 --> 00:01:09,937
-다음 레벨 이겨내자.
-Next Level 追い抜け　追い抜け　追い抜け
-Next Level, beat it, beat it, beat it
+<aespa>>Next Level</aespa> <with>제껴라 제껴라 제껴라</with>
+<jp>Next Level 追い抜け　追い抜け　追い抜け</jp>
+<en>Next Level, beat it, beat it, beat it</en>
 
 15
 00:01:09,937 --> 00:01:12,113
-La la la la la la
+<aespa>La la la la la la</aespa>
 
 16
 00:01:12,113 --> 00:01:14,297
-La la la la la la
+<aespa>La la la la la la</aespa>
 
 17
 00:01:14,297 --> 00:01:16,499
-La la la la la la
+<aespa>La la la la la la</aespa>
 
 18
 00:01:16,499 --> 00:01:18,232
-La la la la la
+<aespa>La la la la la</aespa>
 
 19
 00:01:18,232 --> 00:01:20,729
-I see the NU EVO.
+<aespa>I see the</aespa> <with>NU EVO</with>
 
 20
 00:01:20,729 --> 00:01:24,362
-적대감 고통과 고통
-敵対的な苦難と悲しみは
-The hostile suffering and sorrow
+<aespa>적대적인 고난과 슬픔은</with>
+<jp>敵対的な苦難と悲しみは</jp>
+<en>The hostile suffering and sorrow</en>
 
 21
 00:01:24,362 --> 00:01:27,251
-당신을 더욱 톡톡 튀게 만들어줄
-君をさらにPopping　進化させる
-Make you Popping and evolve further
+<aespa>널 더 popping 진화시켜</with>
+<jp>君をさらにPopping　進化させる</jp>
+<en>Make you Popping and evolve further</en>
 
 22
 00:01:27,251 --> 00:01:29,578
-That’s my nævis It’s my nævis
+<aespa>That’s my</aespa> <with>nævis</with> <aespa>It’s my</aespa> <with>nævis</with>
 
 23
 00:01:29,578 --> 00:01:34,256
-네가 이끄는 우리는 따라가는 마음을 배운 뒤
-You lead, we follow　感情を学んだ後
-You lead, we follow, after learning the feelings
+<aespa>You lead, we follow 감정들을 배운 다음</aespa>
+<jp>You lead, we follow　感情を学んだ後</jp>
+<en>You lead, we follow, after learning the feelings</en>
 
 24
 00:01:34,256 --> 00:01:36,438
-Watch me while I make it out
+<aespa>Watch me while I make it out</aespa>
 
 25
 00:01:36,438 --> 00:01:38,904
-Watch me while I work it out
+<aespa>Watch me while I work it out</aespa>
 
 26
 00:01:38,904 --> 00:01:41,085
-Watch me while I make it out
+<aespa>Watch me while I make it out</aespa>
 
 27
 00:01:41,085 --> 00:01:43,122
-Watch me while I work it out
+<aespa>Watch me while I work it out</aespa>
 
 28
 00:01:43,122 --> 00:01:45,337
-Work it work it work it out
+<with>Work it work it work it out</with>
 
 29
 00:01:45,337 --> 00:01:49,316
-참을 수 없는 절망
-耐えきれない絶望も
-Even the unbearable despair
+<aespa>감당할 수 없는 절망도</aespa>
+<jp>耐えきれない絶望も</jp>
+<en>Even the unbearable despair</en>
 
 30
 00:01:49,316 --> 00:01:53,209
-내 믿음을 깰 수 없어
-私の信頼を破ることはできない
-Can't break my faith
+<aespa>내 믿음을 깨지 못해</aespa>
+<jp>私の信頼を破ることはできない</jp>
+<en>Can't break my faith</en>
 
 31
 00:01:53,209 --> 00:01:57,981
-더 고통스러운 시험을 만나도
-さらに苦しい試練に遭っても
-Even if a more painful trial comes
+<aespa>더 아픈 시련을 맞아도 난</aespa>
+<jp>さらに苦しい試練に遭っても</jp>
+<en>Even if a more painful trial comes</en>
 
 32
 00:01:57,981 --> 00:02:03,000
-나도 꼭 잡은 손을 놓지 않을 거야 Oh
-私は取った手を離さないから Oh
-I won't let go of your hand Oh
+<aespa>잡은 손을 놓지 않을게 Oh</aespa>
+<jp>私は取った手を離さないから Oh</jp>
+<en>I won't let go of your hand Oh</en>
+
+<aespa>Beat drop Naevis calling,</aespa> <with>ae!</with>
 
 33
 00:02:08,344 --> 00:02:10,955
-절대 뒤돌아보지 마세요
-絶対に後ろを振り向かないで
-Never look back
+<aespa>절대로 뒤를 돌아보지 말아</aespa> <with>(ae)</with>
+<jp>絶対に後ろを振り向かないで</jp>
+<en>Never look back</en>
 
 34
 00:02:10,955 --> 00:02:13,546
-KWANGYA의 모든 것을 탐내지 마세요
-KWANGYAのもの　欲しがるな
-Don’t covet things of KWANGYA
+<aespa>광야의 것 탐내지 말아</aespa> <with>(ae)</with>
+<jp>KWANGYAのもの　欲しがるな</jp>
+<en>Don’t covet things of KWANGYA</en>
 
 35
 00:02:13,546 --> 00:02:18,104
-계약이 파기되면 모든 것이 통제 불능이 됩니다
-約束が破れたら全て取り返しがつかなくなる
-If the promises are broken, everything will be out of control
+<aespa>약속이 깨지면 모두 걷잡을 수 없게 돼</aespa>
+<jp>約束が破れたら全て取り返しがつかなくなる</jp>
+<en>If the promises are broken, everything will be out of control</en>
 
 36
 00:02:18,104 --> 00:02:21,048
-언제부터 불안해지기 시작했는지 모르겠어요.
-いつからか不安になっていく合図
-The signal is becoming unstable since a certain point in time
+<aespa>언제부턴가 불안해져 가는 신호</aespa>
+<jp>いつからか不安になっていく合図</jp>
+<en>The signal is becoming unstable since a certain point in time</en>
 
 37
 00:02:21,048 --> 00:02:23,966
-나는 당신을 파괴해야합니다
-君を破壊してしまう
-I'll destroy you in the end
+<aespa>널 파괴하고 말 거야 (We want it)</aespa>
+<jp>君を破壊してしまう</jp>
+<en>I'll destroy you in the end</en>
 
 38
 00:02:23,966 --> 00:02:28,686
-Come on! Show me the way to KOSMO Yeah
+<aespa>Come on! Show me the way to KOSMO Yeah</aespa>
 
 39
 00:02:28,686 --> 00:02:31,176
-Black Mamba가 만든 환각 미션
-Black Mambaが作り出した幻覚クエスト
-A hallucination quest created by the Black Mamba
+<aespa>Black Mamba가 만들어낸 환각 quest</aespa>
+<jp>Black Mambaが作り出した幻覚クエスト</jp>
+<en>A hallucination quest created by the Black Mamba</en>
 
 40
 00:02:31,176 --> 00:02:34,124
-에스파, 에를 떼어놓고 싶어
-aespa, aeを分離しておいてほしい　そう
-aespa, They want to separate out ae, that’s right
+<aespa>aespa, ae를 분리시켜놓길 원해 그래</aespa>
+<jp>aespa, aeを分離しておいてほしい　そう</jp>
+<en>aespa, They want to separate out ae, that’s right</en>
 
 41
 00:02:34,124 --> 00:02:36,509
-집중력 상실, 목소리 상실
-重心を失い　声も失い
-I lose my balance and my voice too
+<aespa>중심을 잃고 목소리도 잃고</aespa>
+<jp>重心を失い　声も失い</jp>
+<en>I lose my balance and my voice too</en>
 
 42
 00:02:36,509 --> 00:02:39,599
-비난을 받아 사람들과 멀어진다는 착각 속에
-非難されて　人たちと遠のく錯覚の中で
-In the illusion of being criticized and alienated
+<aespa>비난받고 사람들과 멀어지는 착각 속에</aespa>
+<jp>非難されて　人たちと遠のく錯覚の中で</jp>
+<en>In the illusion of being criticized and alienated</en>
 
 43
 00:02:39,599 --> 00:02:41,973
-nævis us (ae, ae로 전화해 보세요)
-nævis  私たち (ae, aeを呼んでみて)
-nævis We (Call ae, ae)
+<aespa>nævis 우리</aespa> <with>ae, ae들을 불러봐</with>
+<jp>nævis  私たち (ae, aeを呼んでみて)</jp>
+<en>nævis We (Call ae, ae)</en>
 
 44
 00:02:41,973 --> 00:02:44,672
-aespa의 Next Level "P.O.S"를 활성화해 보세요.
-aespaの Next Level "P.O.S" を開けてみて
-aespa's Next Level Open "P.O.S"
+<aespa>aespa의 Next Level</aespa> <with>"P.O.S"를 열어봐</with>
+<jp>aespaの Next Level "P.O.S" を開けてみて</jp>
+<en>aespa's Next Level Open "P.O.S"</en>
 
 45
 00:02:44,672 --> 00:02:47,131
-현실 세계가 깨어난다
-これは REAL WORLD 目覚めた
-This is the REAL WORLD, I'm awake
+<aespa>이건 real world 깨어났어</aespa>
+<jp>これは REAL WORLD 目覚めた</jp>
+<en>This is the REAL WORLD, I'm awake</en>
 
 46
 00:02:47,131 --> 00:02:48,041
-We against the villain
+<aespa>We against the villain</aespa>
 
 47
 00:02:48,041 --> 00:02:48,793
-What’s the name?
+<aespa>What’s the name?</aespa>
 
 48
 00:02:48,793 --> 00:02:49,806
-Black Mamba
+<with>Black Mamba</with>
+
+<aespa>woo-wee-woo wee</aespa> <MY>aespa!</MY>
 
 49
 00:02:54,635 --> 00:02:57,089
-드디어 내가 문을 열었어
-ついに私はドアを開ける
-I open the door in the end
+<aespa>결국 난 문을</aespa> <with>열어</with>
+<jp>ついに私はドアを開ける</jp>
+<en>I open the door in the end</en>
 
 50
 00:02:57,089 --> 00:02:59,309
-그 빛은 너에게 Fire야
-その光は君にはFire
-That light is like Fire to you
+<aespa>그 빛은 네겐 Fire</aespa>
+<jp>その光は君にはFire</jp>
+<en>That light is like Fire to you</en>
+
+<aespa>woo-wee-woo wee</aespa> <MY>aespa!</MY>
 
 51
 00:03:03,645 --> 00:03:05,949
-너무 궁금해서 미칠 것 같아
-私は気になって狂いそう
-I'm dying to know
+<aespa>난 궁금해 미치</aespa><with>겠어</with>
+<jp>私は気になって狂いそう</jp>
+<en>I'm dying to know</en>
 
 52
 00:03:05,949 --> 00:03:08,032
-다가오는 이야기
-この後繰り広げられるStory
-The next Story that will unfold
+<aespa>이다음에 펼칠 story</aespa>
+<jp>この後繰り広げられるStory</jp>
+<en>The next Story that will unfold</en>
 
 53
 00:03:08,032 --> 00:03:08,532
-Huh!
+<aespa>Huh!</aespa>
 
 54
 00:03:08,751 --> 00:03:11,289
-I’m on the Next Level
+<aespa>I’m on the Next Level</aespa>
 
 55
 00:03:11,289 --> 00:03:13,926
-멀리 있는 문을 열어라
-あの向こうのドアを開ける
-I open the door over there
+<aespa>저 너머의 문을 열어</aespa>
+<jp>あの向こうのドアを開ける</jp>
+<en>I open the door over there</en>
 
 56
 00:03:13,926 --> 00:03:16,232
-다음 레벨 당신
-Next Level　君を
-Next Level, I'll
+<with>>Next Level</with> <aespa>널</aespa>
+<jp>Next Level　君を</jp>
+<en>Next Level, I'll</en>
 
 57
 00:03:16,232 --> 00:03:18,641
-나에 의해 파괴될 것이다
-ついには私が壊す
-Destroy you in the end
+<aespa>결국엔 내가 부셔</aespa>
+<jp>ついには私が壊す</jp>
+<en>Destroy you in the end</en>
 
 58
 00:03:18,921 --> 00:03:22,793
-다음 단계에 도달할 때까지 KOSMO
-Next Level KOSMOに届くまで
-Until I reach the Next Level KOSMO
+<with>Next Level</with> <aespa>KOSMO에 닿을 때까지</aespa>
+<jp>Next Level KOSMOに届くまで</jp>
+<en>Until I reach the Next Level KOSMO</en>
 
 59
 00:03:22,793 --> 00:03:26,584
-다음 레벨 이겨내자.
-Next Level 追い抜け　追い抜け　追い抜け
-Next Level, beat it, beat it, beat it
+<aespa>>Next Level</aespa> <with>제껴라 제껴라 제껴라</with>
+<jp>Next Level 追い抜け　追い抜け　追い抜け</jp>
+<en>Next Level, beat it, beat it, beat it</en>
 
 60
 00:03:26,584 --> 00:03:28,886
-I’m on the Next Level
+<aespa>I’m on the Next Level</aespa>
 
 61
 00:03:28,886 --> 00:03:31,522
-더 강하고 더 자유롭게
-さらに強くなる　自由に
-I become stronger and free
+<aespa>더 강해져 자유롭게</aespa>
+<jp>さらに強くなる　自由に</jp>
+<en>I become stronger and free</en>
 
 62
 00:03:31,522 --> 00:03:33,959
-다음 레벨 나
-Next Level　私は
-Next Level, I'm
+<with>Next Level</with> <aespa>난</aespa>
+<jp>Next Level　私は</jp>
+<en>Next Level, I'm</en>
 
 63
 00:03:33,959 --> 00:03:36,341
-나는 광야가 아니다
-KWANGYAの私じゃない
-No longer who I was at KWANGYA
+<aespa>광야의 내가 아냐</aespa>
+<jp>KWANGYAの私じゃない</jp>
+<en>No longer who I was at KWANGYA</en>
 
 64
 00:03:36,543 --> 00:03:40,390
-다음 레벨 나를 짐승처럼 느껴보세요
-Next Level　野獣のような私を感じる
-Next Level, Feel me I'm like a beast
+<with>Next Level</with> <aespa>야수 같은 나를 느껴</aespa>
+<jp>Next Level　野獣のような私を感じる</jp>
+<en>Next Level, Feel me I'm like a beast</en>
 
 65
 00:03:40,390 --> 00:03:44,624
-다음 레벨 이겨내자.
-Next Level　追い抜け　追い抜け　追い抜け
-Next Level, beat it, beat it, beat it
+<aespa>Next Level</aespa> <with>제껴라 제껴라 제껴라</with>
+<jp>Next Level　追い抜け　追い抜け　追い抜け</jp>
+<en>Next Level, beat it, beat it, beat it</en>
 
 66
 00:03:44,624 --> 00:03:45,787
-Huh!
+<aespa>Huh!</aespa>
 

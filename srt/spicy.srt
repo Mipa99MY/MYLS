@@ -1,540 +1,431 @@
 1
-00:00:00,000 --> 00:00:05,477
-[음악]
+00:00:05,477 --> 00:00:08,477
+<MY>KARINA GISELLE</MY> <aespa>Uh Uh</aespa> <MY>WINTER NINGNING</MY> <aespa>Too Spicy</aespa> <MY>aespa</MY>
 
 2
-00:00:05,477 --> 00:00:07,339
-[음악]
-Uh Uh Too Spicy
+00:00:09,605 --> 00:00:11,754
+<aespa>You want my A to the Z</aespa>
 
 3
-00:00:07,339 --> 00:00:08,477
-Uh Uh Too Spicy
+00:00:11,754 --> 00:00:13,831
+<aespa>But you won't</aespa> <with>어림없지</with>
+<jp>But you won't 無理に決まってる</jp>
+<en>But you won't get it, not a chance</en>
 
 4
-00:00:09,605 --> 00:00:11,754
-You want my A to the Z
+00:00:13,831 --> 00:00:16,158
+<aespa>맞혀봐</aespa> <with>sweet</with> <aespa>또는</aespa> <with>freak</with>
+<jp>当ててみて Sweet または Freak</jp>
+<en>Take your pick, Sweet or Freak?</en>
 
 5
-00:00:11,754 --> 00:00:13,831
-But you won't 無理に決まってる
-But you won't get it, not a chance
+00:00:16,158 --> 00:00:18,810
+<aespa>What’s hiding underneath</aespa> <with>(I see)</with>
 
 6
-00:00:13,831 --> 00:00:15,800
-当ててみて Sweet または Freak
-Take your pick, Sweet or Freak?
+00:00:18,810 --> 00:00:23,106
+<aespa>>망설이듯 간 보는 너 기회는 없어 Oh</aespa>
+<jp>躊躇うように探りを入れる君　チャンスはない　Oh</jp>
+<en>Sittin' on the fence, Oh, ain't got a chance</en>
 
 7
-00:00:15,800 --> 00:00:16,158
-Take your pick, Sweet or Freak?
+00:00:23,106 --> 00:00:24,733
+<aespa>>Nah You won’t get it</aespa>
 
 8
-00:00:16,158 --> 00:00:18,810
-What’s hiding underneath (I see)
+00:00:24,733 --> 00:00:26,443
+<with>No No</with> <aespa>You won’t get it</aespa>
 
 9
-00:00:18,810 --> 00:00:20,119
-躊躇うように探りを入れる君 チャンスはない Oh
-Sittin' on the fence, Oh, ain't got a chance
+00:00:26,443 --> 00:00:27,110
+<with>I say</aespa>
 
 10
-00:00:20,119 --> 00:00:23,106
-Sittin' on the fence, Oh, ain't got a chance
+00:00:27,371 --> 00:00:31,406
+<aespa>깜빡 한순간 끌어당겨 you'll be mine</aespa> <with>(Mine)</with>
+<jp>ぱっと一瞬で引き寄せる You'll be mine (Mine)</jp>
+<en>Pulled in in a blink of an eye, You'll be mine (Mine)</en>
 
 11
-00:00:23,106 --> 00:00:24,733
-Nah You won’t get it
+00:00:31,545 --> 00:00:35,410
+<aespa>살짝 다가와 can cross my borderline</aespa> <with>(L-l-line)</with>
+<jp>そっと近づいてきて Can cross my borderline (L-l-line)</jp>
+<en>Get closer Can cross my borderline (L-l-line)</en>
 
 12
-00:00:24,733 --> 00:00:26,443
-No No, You won’t get it
+00:00:35,410 --> 00:00:37,610
+<aespa>널 따분하게 했던 Every day</aespa> <with>(Day)</with>
+<jp>君を退屈にさせていた Every day</jp>
+<en>Every day got you bored</en>
 
 13
-00:00:26,443 --> 00:00:27,110
-I say
+00:00:37,610 --> 00:00:39,498
+<aespa>흥미로운 덫을 던져줄게<aespa> <with>(Play)</with>
+<jp>面白い罠を投げてあげるわ</jp>
+<en>Gonna throw down some fun traps</en>
 
 14
-00:00:27,371 --> 00:00:31,406
-ぱっと一瞬で引き寄せる You'll be mine (Mine)
-Pulled in in a blink of an eye, You'll be mine (Mine)
+00:00:39,717 --> 00:00:42,042
+<aespa>뛰어들어 봐</aespa> <with>just right now</with>
+<jp>飛び込んでみて just right now</jp>
+<en>Jump on in Just right now</en>
 
 15
-00:00:31,545 --> 00:00:35,410
-そっと近づいてきて Can cross my borderline (Line Line Line)
-Get closer Can cross my borderline (Line Line Line)
+00:00:42,042 --> 00:00:44,704
+<aespa>'Cause I’m too Spicy for your heart</aespa> <MY>aespa</aespa>
 
 16
-00:00:35,410 --> 00:00:37,610
-君を退屈にさせていた Every day
-Every day got you bored
+00:00:44,704 --> 00:00:46,139
+<aespa>Ring the fire alarm</aespa>
 
 17
-00:00:37,610 --> 00:00:39,498
-面白い罠を投げてあげるわ
-Gonna throw down some fun traps
+00:00:46,139 --> 00:00:48,440
+<aespa>심장을 파고들어 넌</aespa>
+<jp>心に入り込む 君は</jp>
+<en>You tiptoe into my heart</en>
 
 18
-00:00:39,717 --> 00:00:40,528
-飛び込んでみて
-Jump on in
+00:00:48,840 --> 00:00:49,955
+<with>I'm too Spicy</with>
 
 19
-00:00:40,732 --> 00:00:42,042
-Just right now
+00:00:49,955 --> 00:00:52,928
+<aespa>번지는 자극 속에 넌</aespa>
+<jp>滲む刺激の中で君は</jp>
+<en>While the fire spreads</en>
 
 20
-00:00:42,042 --> 00:00:44,704
-'Cause I’m too Spicy for your heart
+00:00:52,928 --> 00:00:54,319
+<with>바로 그 순간</with>
+<jp>ちょうどその瞬間</jp>
+<en>In that very moment</en>
 
 21
-00:00:44,704 --> 00:00:46,139
-Ring the fire alarm
+00:00:54,555 --> 00:00:56,970
+<aespa>또 다른 나를 발견해</aespa>
+<jp>また違う私を発見する</jp>
+<en>Finding another part of me</en>
 
 22
-00:00:46,139 --> 00:00:48,440
-心に入り込む 君は
-You tiptoe into my heart
+00:00:56,970 --> 00:00:59,059
+<aespa>I’m too Spicy</aespa> <with>too too</with>
+
+23
+00:00:59,059 --> 00:01:00,510
+<aespa>I’m too Spicy</aespa>
 
 24
-00:00:48,840 --> 00:00:49,955
-I'm too Spicy
+00:01:00,510 --> 00:01:02,423
+<aespa>Don't stop, 겁내지 마</aespa> <MY>Hey</MY>
+<jp>Don't Stop 怖がらないで</jp>
+<en>Don't Stop, don't be scared</en>
 
 25
-00:00:49,955 --> 00:00:50,379
-향신료 밑에 숨어 있는 것
-滲む刺激の中で君は
-While the fire spreads
+00:01:02,854 --> 00:01:04,265
+<with>Bang Bang</with> <aespa>외쳐봐</aespa>
+<jp>Bang Bang 叫んでみて</jp>
+<en>Bang Bang, shout it out</en>
+
+26
+00:01:04,265 --> 00:01:05,760
+<aespa>I’m too</aespa> <with>Spicy</with> <aespa>Yeah I’m too</aespa> <with>Spicy</with>
 
 27
-00:00:51,370 --> 00:00:52,928
-[음악]
-While the fire spreads
+00:01:08,026 --> 00:01:08,902
+<aespa>You know that I</aespa>
 
 28
-00:00:52,928 --> 00:00:54,319
-[음악]
-ちょうどその瞬間
-In that very moment
+00:01:08,902 --> 00:01:10,596
+<aespa>Don't stop, 용기 내 봐</aespa> <MY>Hey</MY>
+<jp>Don't Stop 勇気を出してみて</jp>
+<en>Don't Stop, be brave now</en>
 
 29
-00:00:54,319 --> 00:00:54,530
-[음악]
+00:01:11,189 --> 00:01:12,300
+<with>Next step, Myself</with>
 
 30
-00:00:54,555 --> 00:00:56,970
-また違う私を発見する
-Finding another part of me
+00:01:12,570 --> 00:01:13,883
+<aespa>I’m too Spicy</aespa>
 
 31
-00:00:56,970 --> 00:00:59,059
-I’m too Spicy too too
+00:01:13,883 --> 00:01:15,349
+<aespa>Too Spicy</aespa> <with>too too</with>
 
 32
-00:00:59,059 --> 00:01:00,510
-I’m too Spicy
+00:01:15,893 --> 00:01:16,743
+<with>I’m too Spicy</with>
 
 33
-00:01:00,510 --> 00:01:02,423
-Don't Stop 怖がらないで
-Don't Stop, don't be scared
+00:01:16,743 --> 00:01:17,350
+<aespa>Tell me what you see</aespa> <MY>SEE</MY>
 
 34
-00:01:02,760 --> 00:01:02,854
-나 자신
+00:01:17,786 --> 00:01:18,601
+<aespa>When you look at me</aespa> <MY>ME</MY>
 
 35
-00:01:02,854 --> 00:01:04,265
-나 자신
-Bang Bang 叫んでみて
-Bang Bang, shout it out
+00:01:18,785 --> 00:01:20,790
+<aespa>'Cause I am a 10 out of 10 honestly</aespa>
 
 36
-00:01:04,265 --> 00:01:05,760
-I’m too Spicy Yeah I’m too Spicy
+00:01:20,790 --> 00:01:21,896
+<aespa>기세가 다른</aespa> <with>Move</with>
+<jp>勢いが違う Move</jp>
+<en>A different energy, this Move</en>
+
+37
+00:01:21,896 --> 00:01:23,003
+<aespa>널 압도하는</aespa> <with>Groove</with>
+<jp>君を圧倒する Groove</jp>
+<en>Overpowering Groove</en>
 
 38
-00:01:08,026 --> 00:01:08,902
-You know that I
+00:01:23,167 --> 00:01:25,341
+<aespa>But you keep wasting your time Dude</aespa>
 
 39
-00:01:08,902 --> 00:01:10,596
-Don't Stop 勇気を出してみて
-Don't Stop, be brave now
+00:01:25,341 --> 00:01:27,359
+<with>Don't chase mе</with> <aespa>경고해 난</aespa>
+<jp>Don't chase me 警告する 私は</jp>
+<en>Don't chase me, I'm warning you</en>
 
 40
-00:01:11,189 --> 00:01:12,300
-Next step, Myself
+00:01:27,359 --> 00:01:29,625
+<with>Erase me</with> <aespa>멀리 달아나</aespa>
+<jp>Erase me 遠くに逃げて</jp>
+<en>Erase me, run far away</en>
+
+41
+00:01:29,727 --> 00:01:31,049
+<aespa>Hey 이젠 알겠니</aespa>
+<jp>Hey もう分かる？</jp>
+<en>Hey, you get it now?</en>
 
 42
-00:01:12,570 --> 00:01:13,883
-I’m too Spicy
+00:01:31,300 --> 00:01:33,046
+<aespa>원래부터 bad, I'm so bad honеstly</aespa>
+<jp>元々 Bad I’m so bad honestly</jp>
+<en>I was born Bad I'm so bad honestly</en>
 
 43
-00:01:13,883 --> 00:01:15,349
-Too Spicy too too
+00:01:33,046 --> 00:01:33,079
+<with>So bad</with>
+
+44
+00:01:34,175 --> 00:01:38,140
+<aespa>전부 가질래 지금부턴 call you mine</aespa> <with>(Mine)</with>
+<jp>全部私のものにする これからは Call you mine (Mine)</jp>
+<en>Want it all, gonna Call you mine now (Mine)</en>
 
 45
-00:01:15,893 --> 00:01:16,743
-I’m too Spicy
+00:01:38,322 --> 00:01:42,144
+<aespa>도망칠 거면 don't cross my borderline</aespa> <with>(L-l-line)</with>
+<jp>逃げるなら Don’t cross my borderline (Line Line Line)</jp>
+<en>If you gonna dip, Don’t cross my borderline (Line Line Line)</en>
 
 46
-00:01:16,743 --> 00:01:17,350
-Tell me what you see
+00:01:42,144 --> 00:01:44,129
+<aespa>늘 뻔하기만 했던 Every day</aespa> <with>day</with>
+<jp>いつもありきたりだった Every day</jp>
+<en>Every day the same old, same old</en>
+
+47
+00:01:44,354 --> 00:01:46,128
+<aespa>이제 그만 rule을 벗어날 때</aespa> <with>Play</with>
+<jp>もう Ruleから外れるとき</jp>
+<en>Time now to toss that Rule</en>
+
+48
+00:01:46,475 --> 00:01:47,426
+<aespa>어렵지 않아</aespa> <with>just right now</with>
+<jp>難しくない Just right now</jp>
+<en>Ain't hard to do Just right now</en>
 
 49
-00:01:17,786 --> 00:01:18,601
-When you look at me
+00:01:48,781 --> 00:01:51,448
+<aespa>'Cause I’m too Spicy for your heart</aespa> <MY>aespa</MY>
+
+50
+00:01:51,448 --> 00:01:52,770
+<aespa>Ring the fire alarm</aespa>
 
 51
-00:01:18,785 --> 00:01:20,790
-'Cause I am a 10 out of 10 honestly
+00:01:52,863 --> 00:01:53,820
+<aespa>심장을 파고들어 넌</aespa>
+<jp>心に入り込む 君は</jp>
+<en>You tiptoe into my heart</en>
 
 52
-00:01:20,790 --> 00:01:21,896
-[음악]
-勢いが違う Move
-A different energy, this Move
+00:01:55,476 --> 00:01:55,740
+<with>I'm too Spicy</with>
 
 53
-00:01:21,896 --> 00:01:23,003
-[음악]
-君を圧倒する Groove
-Overpowering Groove
+00:01:57,147 --> 00:01:59,786
+<aespa>번지는 자극 속에 넌</aespa>
+<jp>滲む刺激の中で君は</jp>
+<en>While the fire spreads</en>
+
+54
+00:01:59,786 --> 00:02:00,996
+<with>바로 그 순간</with>
+<jp>ちょうどその瞬間</jp>
+<en>In that very moment</en>
 
 55
-00:01:23,167 --> 00:01:25,341
-But you keep wasting your time Dude
+00:02:01,294 --> 00:02:03,721
+<aespa>또 다른 나를 발견해</aespa>
+<jp>また違う私を発見する</jp>
+<en>Discovering yet another me</en>
 
 56
-00:01:25,341 --> 00:01:27,359
-[음악]
-Don't chase me 警告する 私は
-Don't chase me, I'm warning you
+00:02:03,721 --> 00:02:05,741
+<aespa>I’m too Spicy</aespa> <with>too too</with>
 
 57
-00:01:27,359 --> 00:01:29,625
-[음악]
-Erase me 遠くに逃げて
-Erase me, run far away
+00:02:06,011 --> 00:02:06,793
+<aespa>I’m too Spicy</aespa>
+
+58
+00:02:06,793 --> 00:02:07,816
+<aespa>Ready? Uh</aespa>
 
 59
-00:01:29,727 --> 00:01:31,049
-[음악]
-Hey もう分かる？
-Hey, you get it now?
+00:02:09,136 --> 00:02:11,504
+<aespa>좀 더 강도를 높여<aespa> <with>다음, 다음, 다음</with>
+<jp>もう少し強度を上げて 次、次、次</jp>
+<en>Gimme the next level, Next Next Next</en>
+
+60
+00:02:15,107 --> 00:02:16,261
+<aespa>One of a kind</aespa>
 
 61
-00:01:31,300 --> 00:01:33,046
-[음악]
-元々 Bad I’m so bad honestly
-I was born Bad I'm so bad honestly
+00:02:17,538 --> 00:02:20,140
+<aespa>우린 한계를 앞서</aespa> <with>Wow Wow Wow</with>
+<jp>私たちは限界の先を行く Wow Wow Wow</jp>
+<en>Beyond our limits, Wow Wow Wow</en>
 
 62
-00:01:33,046 --> 00:01:33,079
-So bad
+00:02:21,152 --> 00:02:21,379
+<aespa>That’s Right</aespa>
+
+63
+00:02:22,165 --> 00:02:24,801
+<aespa>'Cause I’m too Spicy for your heart</aespa> <MY>aespa</MY>
 
 64
-00:01:34,175 --> 00:01:38,140
-全部私のものにする これからは Call you mine (Mine)
-Want it all, gonna Call you mine now (Mine)
+00:02:24,801 --> 00:02:25,379
+<aespa>Ring the fire alarm</aespa>
 
 65
-00:01:38,322 --> 00:01:42,144
-逃げるなら Don’t cross my borderline (Line Line Line)
-If you gonna dip, Don’t cross my borderline (Line Line Line)
+00:02:26,313 --> 00:02:28,857
+<aespa>새로운 도전 끝에 넌</aespa>
+<jp>新しい挑戦の末に君は</jp>
+<en>Completed another challenge</en>
 
 66
-00:01:42,144 --> 00:01:44,129
-いつもありきたりだった Every day
-Every day the same old, same old
+00:02:28,857 --> 00:02:29,944
+<with>I'm too Spicy</with>
 
 67
-00:01:44,354 --> 00:01:46,128
-もう Ruleから外れるとき
-Time now to toss that Rule
+00:02:30,567 --> 00:02:33,111
+<aespa>변화할 시간이야 넌</aespa>
+<jp>変化する時間だよ 君は</jp>
+<en>It's your time to change</en>
 
 68
-00:01:46,475 --> 00:01:47,426
-難しくない
-Ain't hard to do
+00:02:33,111 --> 00:02:34,363
+<with>지금 이 순간</with>
+<jp>今この瞬間</jp>
+<en>Right this moment</en>
 
 69
-00:01:47,426 --> 00:01:48,781
-Just right now
+00:02:34,613 --> 00:02:37,039
+<aespa>또 다른 나를 찾아내</aespa>
+<jp>また違う私を見つけ出す</jp>
+<en>Finding another part of me</en>
 
 70
-00:01:48,781 --> 00:01:51,448
-'Cause I’m too Spicy for your heart
+00:02:37,239 --> 00:02:39,242
+<aespa>I’m too Spicy</aespa> <with>too too</with>
 
 71
-00:01:51,448 --> 00:01:52,770
-Ring the fire alarm
+00:02:39,242 --> 00:02:40,452
+<aespa>I’m too Spicy</aespa>
+
+72
+00:02:40,682 --> 00:02:42,642
+<aespa>Don't stop, 겁내지 마</aespa> <MY>Hey</MY>
+<jp>Don't Stop 怖がらないで</jp>
+<en>Don't Stop, don't be scared</en>
 
 73
-00:01:52,863 --> 00:01:53,820
-[음악]
-You tiptoe into my heart
-心に入り込む 君は
+00:02:43,620 --> 00:02:44,371
+<with>Bang Bang</with> <aespa>외쳐봐</aespa>
+<jp>Bang Bang 叫んでみて</jp>
+<en>Bang Bang, shout it out</en>
+
+74
+00:02:44,371 --> 00:02:48,095
+<aespa>I’m too</aespa> <with>Spicy</with> <aespa>Yeah I’m too</aespa> <with>Spicy</with>
 
 75
-00:01:55,476 --> 00:01:55,740
-레벨 2
-I'm too Spicy
+00:02:48,210 --> 00:02:49,086
+<aespa>You know that I</aespa>
+
+76
+00:02:49,086 --> 00:02:50,879
+<aespa>Don't stop 용기 내 봐</aespa> <MY>Hey</MY>
+<jp>Don't Stop 勇気を出してみて</jp>
+<en>Don't Stop, be brave now</en>
 
 77
-00:01:56,587 --> 00:01:56,760
-장치
+00:02:51,347 --> 00:02:52,480
+<with>Next step, Myself</with>
 
 78
-00:01:56,760 --> 00:01:57,147
-[음악]
+00:02:52,734 --> 00:02:54,800
+<aespa>I’m too Spicy I’m too Spicy</aespa>
 
 79
-00:01:57,147 --> 00:01:59,786
-[음악]
-滲む刺激の中で君は
-While the fire spreads
+00:02:54,800 --> 00:02:57,052
+<aespa>I’m too Spicy too too I’m too Spicy</aespa>
 
 80
-00:01:59,786 --> 00:01:59,809
-[음악]
-ちょうどその瞬間
-In that very moment
+00:02:57,143 --> 00:02:57,719
+<aespa>'Cause I</aespa>
 
 81
-00:01:59,809 --> 00:02:00,996
-In that very moment
+00:02:57,719 --> 00:02:58,875
+<aespa>Oh Yeah</aespa>
 
 82
-00:02:01,294 --> 00:02:03,721
-また違う私を発見する
-Discovering yet another me
+00:02:59,721 --> 00:03:00,039
+<aespa>Yeah I’m too Spicy for your heart</aespa>
 
 83
-00:02:03,721 --> 00:02:05,050
-I’m too Spicy too too
+00:03:01,881 --> 00:03:03,988
+<aespa>(Yeah I’m too Spicy for your heart)</aespa>
 
 84
-00:02:05,050 --> 00:02:05,741
-[음악]
-I’m too Spicy too too
+00:03:03,988 --> 00:03:06,330
+<aespa>마침내 번져오는 joy (Enjoy, joy, joy, joy)</aespa>
+<jp>ついに滲んでくる Joy (Enjoy joy joy joy)</jp>
+<en>Finally comes the feeling of Joy (Enjoy joy joy joy)</en>
 
 85
-00:02:05,741 --> 00:02:06,011
-[음악]
+00:03:08,089 --> 00:03:10,427
+<aespa>Yeah I’m too Spicy for your heart</aespa>
 
 86
-00:02:06,011 --> 00:02:06,793
-[음악]
-I’m too Spicy
+00:03:10,680 --> 00:03:12,609
+<aespa>I’m too Spicy</aespa> <with>too too</with>
 
 87
-00:02:06,793 --> 00:02:07,816
-Ready? Uh
-
-89
-00:02:09,136 --> 00:02:11,504
-[음악]
-もう少し強度を上げて 次、次、次
-Gimme the next level, Next Next Next
-
-91
-00:02:14,720 --> 00:02:15,107
-독특한
-
-92
-00:02:15,107 --> 00:02:16,261
-One of a kind
-
-93
-00:02:16,261 --> 00:02:16,730
-독특한
-
-95
-00:02:17,538 --> 00:02:19,830
-[음악]
-私たちは限界の先を行く Wow Wow Wow
-Beyond our limits, Wow Wow Wow
-
-96
-00:02:19,830 --> 00:02:20,140
-Beyond our limits, Wow Wow Wow
-
-97
-00:02:21,152 --> 00:02:21,379
-That’s Right
-
-99
-00:02:21,943 --> 00:02:22,165
-매운 것
-
-100
-00:02:22,165 --> 00:02:24,801
-'Cause I’m too Spicy for your heart
-
-101
-00:02:24,801 --> 00:02:25,379
-Ring the fire alarm
-
-103
-00:02:26,313 --> 00:02:27,430
-新しい挑戦の末に君は
-Completed another challenge
-
-104
-00:02:27,430 --> 00:02:28,857
-[음악]
-Completed another challenge
-
-105
-00:02:28,857 --> 00:02:29,944
-I'm too Spicy
-
-106
-00:02:29,944 --> 00:02:30,567
-[음악]
-
-107
-00:02:30,567 --> 00:02:33,111
-[음악]
-変化する時間だよ 君は
-It's your time to change
-
-108
-00:02:33,111 --> 00:02:33,210
-[음악]
-今この瞬間
-Right this moment
-
-109
-00:02:33,210 --> 00:02:34,363
-Right this moment
-
-110
-00:02:34,613 --> 00:02:37,039
-また違う私を見つけ出す
-Finding another part of me
-
-111
-00:02:37,239 --> 00:02:38,210
-I’m too Spicy too too
-
-112
-00:02:38,210 --> 00:02:39,242
-[음악]
-I’m too Spicy too too
-
-113
-00:02:39,242 --> 00:02:40,452
-[음악]
-I’m too Spicy
-
-114
-00:02:40,452 --> 00:02:40,682
-[음악]
-
-115
-00:02:40,682 --> 00:02:41,589
-[음악]
-Don't Stop 怖がらないで
-Don't Stop, don't be scared
-
-116
-00:02:41,589 --> 00:02:42,642
-Don't Stop, don't be scared
-
-117
-00:02:43,038 --> 00:02:43,620
-Bang Bang, shout it out
-
-118
-00:02:43,620 --> 00:02:44,371
-무슨 일이야
-Bang Bang 叫んでみて
-Bang Bang, shout it out
-
-119
-00:02:44,371 --> 00:02:46,580
-I’m too Spicy Yeah I’m too Spicy
-
-120
-00:02:46,580 --> 00:02:48,095
-I’m too Spicy Yeah I’m too Spicy
-
-121
-00:02:48,210 --> 00:02:49,086
-You know that I
-
-122
-00:02:49,086 --> 00:02:50,879
-Don't Stop 勇気を出してみて
-Don't Stop, be brave now
-
-123
-00:02:51,347 --> 00:02:52,480
-Next step, Myself
-
-125
-00:02:52,631 --> 00:02:52,734
-[음악]
-
-126
-00:02:52,734 --> 00:02:54,800
-[음악]
-I’m too Spicy I’m too Spicy
-
-127
-00:02:54,800 --> 00:02:57,052
-[음악]
-I’m too Spicy too too I’m too Spicy
-
-128
-00:02:57,052 --> 00:02:57,143
-[음악]
-
-129
-00:02:57,143 --> 00:02:57,719
-[음악]
-'Cause I
-
-130
-00:02:57,719 --> 00:02:58,875
-Oh Yeah
-
-131
-00:02:58,875 --> 00:02:59,721
-[음악]
-
-132
-00:02:59,721 --> 00:03:00,039
-[음악]
-Yeah I’m too Spicy for your heart
-
-134
-00:03:01,881 --> 00:03:03,988
-(Yeah I’m too Spicy for your heart)
-
-135
-00:03:03,988 --> 00:03:06,330
-ついに滲んでくる Joy (Enjoy joy joy joy)
-Finally comes the feeling of Joy (Enjoy joy joy joy)
-
-137
-00:03:08,089 --> 00:03:10,427
-[음악]
-Yeah I’m too Spicy for your heart
-
-139
-00:03:10,680 --> 00:03:12,609
-[음악]
-I’m too Spicy too too
-
-140
 00:03:12,609 --> 00:03:13,519
-[음악]
-I’m too Spicy
+<aespa>I’m too Spicy</aespa>
 
-142
+88
 00:03:13,819 --> 00:03:15,112
-For you
+<aespa>For you</aespa>

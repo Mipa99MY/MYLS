@@ -82,3 +82,18 @@ iframe {
     padding: 2px 4px;
     border-radius: 3px;
 }
+
+/* 翻訳テキストのスタイル */
+jp {
+    font-size: 0.9em;
+    color: gray; /* 日本語翻訳の文字色 */
+    padding-top: 4px;
+    display: block;
+}
+
+en {
+    font-size: 0.8em;
+    color: darkgray; /* 英語翻訳の文字色 */
+    padding-top: 8px;
+    display: block;
+}
