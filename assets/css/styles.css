@@ -49,15 +49,18 @@ body {
     color: black;
 }
 
-.MY {
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    -webkit-background-clip: text;
-    color: transparent;
-}
-
 .with {
     color: black;
-    text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.5);
+    text-shadow: 
+        1px 1px 0 #c3dcfa,  /* 最初の影 - Tropical Blue */
+        2px 2px 0 #d59fd0;  /* 2番目の影 - Lilac */
+}
+
+
+.MY {
+    background: linear-gradient(to right, #c3dcfa, #d59fd0);
+    -webkit-background-clip: text;
+    color: transparent;
 }
 
 /* 翻訳エリアのスタイル */
