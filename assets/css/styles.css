@@ -59,7 +59,7 @@ body {
 
 
 .MY {
-    background: linear-gradient(to right, #c3dcfa, #d59fd0);
+    background: linear-gradient(to right, #c3dcfa, #dcaeff, #d59fd0); /* 中間色 #dcaeff を追加 */
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -89,7 +89,7 @@ iframe {
 
 /* 翻訳テキストのスタイル */
 jp {
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: gray; /* 日本語翻訳の文字色 */
     padding-top: 4px;
     display: block;
@@ -98,6 +98,13 @@ jp {
 en {
     font-size: 0.8em;
     color: darkgray; /* 英語翻訳の文字色 */
-    padding-top: 8px;
+    padding-top: 4px;
+    display: block;
+}
+
+kr {
+    font-size: 0.8em;
+    color: darkgray; /* 韓国語翻訳の文字色 */
+    padding-top: 4px;
     display: block;
 }

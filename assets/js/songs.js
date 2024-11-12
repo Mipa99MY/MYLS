@@ -63,7 +63,7 @@ function displayAllLyrics(lyrics) {
     lyrics.forEach(lyric => {
         let formattedLyric = lyric.text
             .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>')
-            .replace(/<MY>(.*?)<\/MY>/g, '<span class="my">$1</span>')
+            .replace(/<MY>(.*?)<\/MY>/g, '<span class="MY">$1</span>')
             .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>');
         lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
     });
