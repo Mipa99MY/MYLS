@@ -108,3 +108,7 @@ kr {
     padding-top: 4px;
     display: block;
 }
+
+.jp, .en, .kr {
+    display: none;
+}

@@ -123,3 +123,43 @@ function getCurrentTime() {
     }
     return 0; // プレイヤーがまだ初期化されていない場合
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    // HTML内で設定した各チェックボックス（日本語・英語・韓国語）の要素を取得
+    const japaneseCheckbox = document.getElementById('showJapanese');
+    const englishCheckbox = document.getElementById('showEnglish');
+    const koreanCheckbox = document.getElementById('showKorean');
+
+    // 対応するクラス（.jp、.en、.kr）を持つ要素を取得
+    const japaneseText = document.querySelectorAll('.jp');
+    const englishText = document.querySelectorAll('.en');
+    const koreanText = document.querySelectorAll('.kr');
+
+    // チェックボックスの選択状態に基づいて翻訳テキストの表示・非表示を制御する関数
+    function toggleTranslation(checkbox, elements) {
+        elements.forEach(element => {
+            element.style.display = checkbox.checked ? 'inline' : 'none';
+        });
+    }
+
+    if (japaneseCheckbox) {
+        japaneseCheckbox.addEventListener('change', () => {
+            toggleTranslation(japaneseCheckbox, japaneseText);
+        });
+        toggleTranslation(japaneseCheckbox, japaneseText);
+    }
+
+    if (englishCheckbox) {
+        englishCheckbox.addEventListener('change', () => {
+            toggleTranslation(englishCheckbox, englishText);
+        });
+        toggleTranslation(englishCheckbox, englishText);
+    }
+
+    if (koreanCheckbox) {
+        koreanCheckbox.addEventListener('change', () => {
+            toggleTranslation(koreanCheckbox, koreanText);
+        });
+        toggleTranslation(koreanCheckbox, koreanText);
+    }
+});

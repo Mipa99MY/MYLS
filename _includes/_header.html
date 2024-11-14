@@ -1,4 +1,21 @@
 <header>
     <div class="logo">MYLS</div>
     <button class="menu-button" onclick="toggleMenu()">&#9776;</button>
+    <div class="translation-controls">
+        {% if page.isKoreanSong %}
+            <label>
+                <input type="checkbox" id="showJapanese" checked> JP
+            </label>
+            <label>
+                <input type="checkbox" id="showEnglish" checked> EN
+            </label>
+        {% else %}
+            <label>
+                <input type="checkbox" id="showKorean" checked> KR
+            </label>
+            <label>
+                <input type="checkbox" id="showEnglish" checked> EN
+            </label>
+        {% endif %}
+    </div>
 </header>
