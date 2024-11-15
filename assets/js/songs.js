@@ -140,7 +140,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // チェックボックスの選択状態に基づいて翻訳テキストの表示・非表示を制御する関数
     function toggleTranslation(checkbox, elements) {
+        console.log(`Toggling translation for: ${checkbox.id} checked: ${checkbox.checked}`);
         elements.forEach(element => {
+            console.log(`Setting display to: ${checkbox.checked ? 'inline' : 'none'}`);
             element.style.display = checkbox.checked ? 'inline' : 'none';
         });
     }
