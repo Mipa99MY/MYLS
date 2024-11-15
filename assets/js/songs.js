@@ -145,24 +145,38 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // 初期状態で、チェックボックスが外れている場合は翻訳を非表示に
+    function initializeCheckboxes() {
+        // 初期状態でチェックを外す（もしHTMLで初期状態がチェックされていない場合）
+        if (japaneseCheckbox) japaneseCheckbox.checked = false;
+        if (englishCheckbox) englishCheckbox.checked = false;
+        if (koreanCheckbox) koreanCheckbox.checked = false;
+
+        // チェックボックスが選択されている場合、そのテキストを表示
+        if (japaneseCheckbox) toggleTranslation(japaneseCheckbox, japaneseText);
+        if (englishCheckbox) toggleTranslation(englishCheckbox, englishText);
+        if (koreanCheckbox) toggleTranslation(koreanCheckbox, koreanText);
+    }
+
+    // チェックボックスに変更があった場合のイベントリスナー設定
     if (japaneseCheckbox) {
         japaneseCheckbox.addEventListener('change', () => {
             toggleTranslation(japaneseCheckbox, japaneseText);
         });
-        toggleTranslation(japaneseCheckbox, japaneseText);
     }
 
     if (englishCheckbox) {
         englishCheckbox.addEventListener('change', () => {
             toggleTranslation(englishCheckbox, englishText);
         });
-        toggleTranslation(englishCheckbox, englishText);
     }
 
     if (koreanCheckbox) {
         koreanCheckbox.addEventListener('change', () => {
             toggleTranslation(koreanCheckbox, koreanText);
         });
-        toggleTranslation(koreanCheckbox, koreanText);
     }
+
+    // 初期化を実行
+    initializeCheckboxes();
 });
