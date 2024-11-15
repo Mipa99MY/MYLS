@@ -80,11 +80,8 @@ iframe {
     margin: 20px 0;
 }
 
-/* 強調表示用 */
-.highlight {
-    background-color: #ffff99;
-    padding: 2px 4px;
-    border-radius: 3px;
+.jp, .en, .kr {
+    display: none;
 }
 
 /* 翻訳テキストのスタイル */
@@ -107,8 +104,4 @@ kr {
     color: darkgray; /* 韓国語翻訳の文字色 */
     padding-top: 4px;
     display: block;
-}
-
-.jp, .en, .kr {
-    display: none;
 }
