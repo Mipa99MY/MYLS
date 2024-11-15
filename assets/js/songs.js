@@ -148,6 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log(`Toggling element: ${element.className}, should display: ${shouldDisplay}`);
             element.style.display = shouldDisplay ? 'block' : 'none';
         });
+    }
 
     // 初期状態で、チェックボックスが外れている場合は翻訳を非表示に
     function initializeCheckboxes() {
@@ -181,6 +182,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 初期化を実行
+    // チェックボックスの初期状態設定
     initializeCheckboxes();
 });
