@@ -64,8 +64,11 @@ function displayAllLyrics(lyrics) {
         let formattedLyric = lyric.text
             .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>')
             .replace(/<MY>(.*?)<\/MY>/g, '<span class="MY">$1</span>')
-            .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>');
-        lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
+            .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>')
+            .replace(/<jp>(.*?)<\/jp>/g, '<span class="jp">$1</span>')
+            .replace(/<en>(.*?)<\/en>/g, '<span class="en">$1</span>')
+            .replace(/<kr>(.*?)<\/kr>/g, '<span class="kr">$1</span>');
+            lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
     });
 }
 
