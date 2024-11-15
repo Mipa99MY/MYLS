@@ -138,15 +138,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const englishText = document.querySelectorAll('.en');
     const koreanText = document.querySelectorAll('.kr');
 
-    // チェックボックスの選択状態に基づいて翻訳テキストの表示・非表示を制御する関数
+    // チェックボックスの選択状態に基づいて翻訳テキストの表示・非表示を切り替える関数
     function toggleTranslation(checkbox, elements) {
-        console.log(`Toggling translation for: ${checkbox.id} checked: ${checkbox.checked}`);
-        const shouldDisplay = checkbox.checked;
-
+        console.log(`Checkbox ${checkbox.id} is now: ${checkbox.checked}`);
         elements.forEach(element => {
-            // debug logで表示を確認
-            console.log(`Toggling element: ${element.className}, should display: ${shouldDisplay}`);
-            element.style.display = shouldDisplay ? 'block' : 'none';
+            console.log(`Element before change:`, element.style.display);
+            element.style.display = checkbox.checked ? 'block' : 'none';
+            console.log(`Element after change:`, element.style.display);
         });
     }
 
