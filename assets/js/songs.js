@@ -161,18 +161,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const englishText = document.querySelectorAll('.en');
     const koreanText = document.querySelectorAll('.kr');
 
-    // 対応するテキストを表示・非表示する関数
-    // チェックボックスの状態（checked）に基づき、該当するテキスト要素の
-    // style.displayをblockまたはnoneに設定
-    function toggleTranslation(checkbox, elements) {
-        if (!checkbox || !elements) return;
-
-        // チェックボックスがチェックされている場合、表示、されていない場合は非表示
-        const displayStyle = checkbox.checked ? 'block' : 'none';
-        elements.forEach(element => {
-            console.log('Toggling display of', element);  // デバッグログ
-            element.style.display = displayStyle;
-        });
+    function toggleTranslation(checkbox, textElements) {
+        if (checkbox.checked) {
+            textElements.forEach(element => element.style.display = 'block');
+        } else {
+            textElements.forEach(element => element.style.display = 'none');
+        }
     }
 
     // 初期化関数：ページ読み込み時に全てのチェックボックスを外す
@@ -194,16 +188,19 @@ document.addEventListener('DOMContentLoaded', () => {
     // チェックボックスにイベントリスナーを追加
     if (japaneseCheckbox) {
         japaneseCheckbox.addEventListener('change', () => {
+            console.log('Japanese checkbox changed');
             toggleTranslation(japaneseCheckbox, japaneseText);
         });
     }
     if (englishCheckbox) {
         englishCheckbox.addEventListener('change', () => {
+            console.log('English checkbox changed');
             toggleTranslation(englishCheckbox, englishText);
         });
     }
     if (koreanCheckbox) {
         koreanCheckbox.addEventListener('change', () => {
+            console.log('Korean checkbox changed');
             toggleTranslation(koreanCheckbox, koreanText);
         });
     }
