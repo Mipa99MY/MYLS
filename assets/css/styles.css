@@ -86,13 +86,15 @@ iframe {
     display: block;         /* 各翻訳テキストを改行して表示 */
 }
 
-/* サイドバーが表示されている場合、本体コンテンツをずらす */
+/* サイドバーが表示されている場合、メインコンテンツを右にずらす */
 .main-content {
-    transition: margin-left 0.3s ease; /* サイドバーが表示される時のスムーズなアニメーション */
-    margin-left: 0; /* 初期状態ではサイドバーなし */
+    margin-left: 250px; /* サイドバーの幅と一致させる */
+    padding: 20px; /* 必要に応じて余白を調整 */
 }
 
-/* サイドバーがアクティブな場合、メインコンテンツを左にずらす */
-.sidebar.active + .main-content {
-    margin-left: 250px; /* サイドバーの幅に合わせて調整 */
+/* レスポンシブデザイン（モバイル版） */
+@media (max-width: 768px) {
+    .main-content {
+        margin-left: 0; /* サイドバーが表示されないモバイルでは左マージンをリセット */
+    }
 }
