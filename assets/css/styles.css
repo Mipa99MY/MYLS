@@ -85,3 +85,14 @@ iframe {
 .jp, .en, .kr {
     display: block;         /* 各翻訳テキストを改行して表示 */
 }
+
+/* サイドバーが表示されている場合、本体コンテンツをずらす */
+.main-content {
+    transition: margin-left 0.3s ease; /* サイドバーが表示される時のスムーズなアニメーション */
+    margin-left: 0; /* 初期状態ではサイドバーなし */
+}
+
+/* サイドバーがアクティブな場合、メインコンテンツを左にずらす */
+.sidebar.active + .main-content {
+    margin-left: 250px; /* サイドバーの幅に合わせて調整 */
+}
