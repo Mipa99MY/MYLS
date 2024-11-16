@@ -5,10 +5,20 @@
     <!-- サイドバー（レスポンシブメニュー） -->
     <div class="sidebar">
         <ul>
-            <li><a href="#top">ページトップ</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
-            
+            <ul> <!-- 各曲のリンクをリスト形式で表示 -->
+                <!-- 各曲のHTMLファイルへのリンクを修正 -->
+                <li><a href="/songs/black_mamba.html">Black Mamba</a></li>
+                <li><a href="/songs/next_level.html">Next Level</a></li>
+                <li><a href="/songs/savage.html">Savage</a></li>
+                <li><a href="/songs/girls.html">Girls</a></li>
+                <li><a href="/songs/spicy.html">Spicy</a></li>
+                <li><a href="/songs/drama.html">Drama</a></li>
+                <li><a href="/songs/supernova.html">Supernova</a></li>
+                <li><a href="/songs/armageddon.html">Armageddon</a></li>
+                <li><a href="/songs/hot_mess.html">Hot Mess</a></li>
+            </ul>
             <!-- 翻訳用チェックボックス -->
             <li class="translation-controls">
                 {% if page.isKoreanSong %}

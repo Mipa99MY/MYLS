@@ -39,54 +39,49 @@ header {
 }
 
 /* サイドメニューのスタイル（PC版用） */
-.side-menu {
+.sidebar {
     position: fixed;
     top: 0;
-    left: 0;
+    left: 0; /* メニューを左側に固定 */
     width: 250px;
     height: 100%;
-    background-color: #333;
+    background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0);
     color: white;
     padding: 20px;
     transition: transform 0.3s ease-in-out;
     transform: translateX(0);  /* PC版では常に表示 */
 }
 
-.side-menu.active {
+.sidebar.active {
     transform: translateX(0);
 }
 
 /* サイドメニューのリストスタイル */
-.side-menu ul {
+.sidebar ul {
     list-style: none;
     padding: 0;
 }
 
-.side-menu ul li {
+.sidebar ul li {
     margin: 15px 0;
 }
 
-.side-menu ul li a {
+.sidebar ul li a {
     color: white;
     text-decoration: none;
     font-size: 18px;
 }
 
-/* レスポンシブデザイン：スマートフォンとタブレット */
+/* レスポンシブデザイン：モバイル版用 */
 @media (max-width: 768px) {
-    /* ハンバーガーメニューボタンの表示 */
-    .menu-button {
-        display: block;  /* レスポンシブ版で表示 */
+    /* メニューが右側に表示されるように設定 */
+    .sidebar {
+        right: -250px; /* 最初は画面外に配置 */
+        left: auto; /* 左側には表示しない */
     }
 
-    /* サイドメニュー（モバイル版） */
-    .side-menu {
-        transform: translateX(-100%); /* 初期状態で非表示 */
+    /* メニューが開いたときに右側に表示される */
+    .sidebar.active {
         right: 0;
-        left: auto;
-    }
-
-    .side-menu.active {
-        transform: translateX(0);  /* メニューを表示 */
     }
 }
