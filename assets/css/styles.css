@@ -75,10 +75,10 @@ iframe {
 /* 翻訳エリアのスタイル */
 .jp, .en, .kr {
     display: none;          /* 初期状態では非表示 */
-    font-size: 0.9em;       /* 翻訳テキストの基本サイズ */
+    font-size: 0.8em;       /* 翻訳テキストの基本サイズ */
     color: gray;            /* 翻訳テキストの色 */
-    padding-top: 10px;      /* 上部の余白 */
     white-space: pre-wrap;  /* 改行を保持して折り返し表示 */
+    margin-top: 4px;
 }
 
 /* 翻訳テキストのスタイル */
