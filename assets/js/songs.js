@@ -148,50 +148,63 @@ function getCurrentTime() {
     return 0;
 }
 
+// DOMの読み込みを待つ
 document.addEventListener('DOMContentLoaded', () => {
-    const lyricsContainer = document.getElementById('lyrics');
-    if (!lyricsContainer) {
-        console.error("Lyrics container not found during DOMContentLoaded");
-        return;
-    }
+    console.log('Initializing checkboxes');
 
+    // 各チェックボックスと対応するテキスト要素を取得
     const japaneseCheckbox = document.getElementById('showJapanese');
     const englishCheckbox = document.getElementById('showEnglish');
     const koreanCheckbox = document.getElementById('showKorean');
+    const japaneseText = document.querySelectorAll('.translation.japanese');
+    const englishText = document.querySelectorAll('.translation.english');
+    const koreanText = document.querySelectorAll('.translation.korean');
 
-    const japaneseText = document.querySelectorAll('.jp');
-    const englishText = document.querySelectorAll('.en');
-    const koreanText = document.querySelectorAll('.kr');
-
+    // 対象テキストを表示・非表示する関数
     function toggleTranslation(checkbox, elements) {
+        if (!checkbox || !elements) return;
+
+        const displayStyle = checkbox.checked ? 'block' : 'none';
         elements.forEach(element => {
-            element.style.display = checkbox.checked ? 'block' : 'none';
+            element.style.display = displayStyle;
         });
+
+        console.log(`Checkbox ${checkbox.id} is now: ${checkbox.checked}`);
     }
 
+    // 初期化関数
     function initializeCheckboxes() {
-        if (japaneseCheckbox) toggleTranslation(japaneseCheckbox, japaneseText);
-        if (englishCheckbox) toggleTranslation(englishCheckbox, englishText);
-        if (koreanCheckbox) toggleTranslation(koreanCheckbox, koreanText);
-    }
-
-    if (japaneseCheckbox) {
-        japaneseCheckbox.addEventListener('change', () => {
+        if (japaneseCheckbox) {
+            japaneseCheckbox.checked = false;
             toggleTranslation(japaneseCheckbox, japaneseText);
-        });
-    }
-
-    if (englishCheckbox) {
-        englishCheckbox.addEventListener('change', () => {
+        }
+        if (englishCheckbox) {
+            englishCheckbox.checked = false;
             toggleTranslation(englishCheckbox, englishText);
-        });
-    }
-
-    if (koreanCheckbox) {
-        koreanCheckbox.addEventListener('change', () => {
+        }
+        if (koreanCheckbox) {
+            koreanCheckbox.checked = false;
             toggleTranslation(koreanCheckbox, koreanText);
-        });
+        }
     }
 
+    // チェックボックスにイベントリスナーを追加
+    if (japaneseCheckbox) {
+        japaneseCheckbox.addEventListener('change', () =>
+            toggleTranslation(japaneseCheckbox, japaneseText)
+        );
+    }
+    if (englishCheckbox) {
+        englishCheckbox.addEventListener('change', () =>
+            toggleTranslation(englishCheckbox, englishText)
+        );
+    }
+    if (koreanCheckbox) {
+        koreanCheckbox.addEventListener('change', () =>
+            toggleTranslation(koreanCheckbox, koreanText)
+        );
+    }
+
+    // ページロード時にチェックボックスを初期化
     initializeCheckboxes();
 });
