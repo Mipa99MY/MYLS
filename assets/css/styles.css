@@ -89,19 +89,19 @@ jp {
     font-size: 0.8em;
     color: darkgray; /* 日本語翻訳の文字色 */
     padding-top: 4px;
-    display: block;
+    display: inline;
 }
 
 en {
     font-size: 0.8em;
     color: darkgray; /* 英語翻訳の文字色 */
     padding-top: 4px;
-    display: block;
+    display: inline;
 }
 
 kr {
     font-size: 0.8em;
     color: darkgray; /* 韓国語翻訳の文字色 */
     padding-top: 4px;
-    display: block;
+    display: inline;
 }
