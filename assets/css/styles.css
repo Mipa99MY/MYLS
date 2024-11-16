@@ -57,19 +57,10 @@ body {
         3px 3px 0 #d59fd0;   /* 最後の影 - 濃い紫 */
 }
 
-
 .MY {
     background: linear-gradient(to right, #c3dcfa, #dcaeff, #d59fd0); /* 中間色 #dcaeff を追加 */
     -webkit-background-clip: text;
     color: transparent;
-}
-
-/* 翻訳エリアのスタイル */
-.translation.jp,
-.translation.en {
-    color: gray;
-    font-size: 0.9em;
-    padding-top: 10px;
 }
 
 /* iframe スタイル */
@@ -80,29 +71,11 @@ iframe {
     margin: 20px 0;
 }
 
+/* 翻訳エリアのスタイル */
 .jp, .en, .kr {
-    display: none;
-    white-space: pre-wrap;
-}
-
-/* 翻訳テキストのスタイル */
-.jp {
-    font-size: 0.8em;
-    color: darkgray; /* 日本語翻訳の文字色 */
-    padding-top: 4px;
-    display: inline;
-}
-
-.en {
-    font-size: 0.8em;
-    color: darkgray; /* 英語翻訳の文字色 */
-    padding-top: 4px;
-    display: inline;
-}
-
-.kr {
-    font-size: 0.8em;
-    color: darkgray; /* 韓国語翻訳の文字色 */
-    padding-top: 4px;
-    display: inline;
+    display: none;          /* 初期状態では非表示 */
+    font-size: 0.9em;       /* 翻訳テキストの基本サイズ */
+    color: gray;            /* 翻訳テキストの色 */
+    padding-top: 10px;      /* 上部の余白 */
+    white-space: pre-wrap;  /* 改行を保持して折り返し表示 */
 }
