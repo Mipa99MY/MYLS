@@ -16,7 +16,6 @@ body {
     background-color: #f4f4f4;
     color: #333;
     line-height: 1.6;
-    padding-top: 60px; /* 固定ヘッダーの高さ分のスペース */
 }
 
 /* コンテナの基本スタイル */
