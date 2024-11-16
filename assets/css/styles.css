@@ -55,10 +55,12 @@ body {
         1px 1px 0 #c3dcfa,   /* 最初の影 - 薄い青 */
         2px 2px 0 #dcaeff,   /* 中間の影 - 淡い紫 */
         3px 3px 0 #d59fd0;   /* 最後の影 - 濃い紫 */
+    background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* .MYの角度に合わせた */
 }
 
+/* .MYスタイル */
 .MY {
-    background: linear-gradient(to right, #c3dcfa, #dcaeff, #d59fd0); /* 中間色 #dcaeff を追加 */
+    background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* 中間色 #dcaeff を追加 */
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -78,4 +80,9 @@ iframe {
     color: gray;            /* 翻訳テキストの色 */
     padding-top: 10px;      /* 上部の余白 */
     white-space: pre-wrap;  /* 改行を保持して折り返し表示 */
+}
+
+/* 翻訳テキストのスタイル */
+.jp, .en, .kr {
+    display: block;         /* 各翻訳テキストを改行して表示 */
 }
