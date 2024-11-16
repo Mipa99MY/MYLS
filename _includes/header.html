@@ -1,21 +1,32 @@
 <header>
     <div class="logo">MYLS</div>
     <button class="menu-button" onclick="toggleMenu()">&#9776;</button>
-    <div class="translation-controls">
-        {% if page.isKoreanSong %}
-            <label>
-                <input type="checkbox" id="showJapanese" checked> JP
-            </label>
-            <label>
-                <input type="checkbox" id="showEnglish" checked> EN
-            </label>
-        {% else %}
-            <label>
-                <input type="checkbox" id="showKorean" checked> KR
-            </label>
-            <label>
-                <input type="checkbox" id="showEnglish" checked> EN
-            </label>
-        {% endif %}
+
+    <!-- サイドバー（レスポンシブメニュー） -->
+    <div class="sidebar">
+        <ul>
+            <li><a href="#top">ページトップ</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            
+            <!-- 翻訳用チェックボックス -->
+            <li class="translation-controls">
+                {% if page.isKoreanSong %}
+                    <label>
+                        <input type="checkbox" id="showJapanese" checked> JP
+                    </label>
+                    <label>
+                        <input type="checkbox" id="showEnglish" checked> EN
+                    </label>
+                {% else %}
+                    <label>
+                        <input type="checkbox" id="showKorean" checked> KR
+                    </label>
+                    <label>
+                        <input type="checkbox" id="showEnglish" checked> EN
+                    </label>
+                {% endif %}
+            </li>
+        </ul>
     </div>
 </header>

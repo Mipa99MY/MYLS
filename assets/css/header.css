@@ -28,19 +28,14 @@ header {
     font-weight: bold;
 }
 
-/* ハンバーガーメニューのスタイル */
-.hamburger-menu {
-    cursor: pointer;
+/* ハンバーガーメニューボタンのスタイル */
+.menu-button {
     display: none;  /* PC版では非表示 */
-    flex-direction: column;
-    justify-content: space-between;
-    height: 24px;
-    width: 30px;
-}
-
-.hamburger-menu .bar {
-    height: 3px;
-    background-color: white;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 30px;  /* ハンバーガーアイコンのサイズ */
 }
 
 /* サイドメニューのスタイル（PC版用） */
@@ -79,9 +74,9 @@ header {
 
 /* レスポンシブデザイン：スマートフォンとタブレット */
 @media (max-width: 768px) {
-    /* ハンバーガーメニュー */
-    .hamburger-menu {
-        display: flex;  /* レスポンシブ版では表示 */
+    /* ハンバーガーメニューボタンの表示 */
+    .menu-button {
+        display: block;  /* レスポンシブ版で表示 */
     }
 
     /* サイドメニュー（モバイル版） */
