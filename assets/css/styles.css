@@ -82,6 +82,7 @@ iframe {
 
 .jp, .en, .kr {
     display: none;
+    white-space: pre-wrap;
 }
 
 /* 翻訳テキストのスタイル */
@@ -90,7 +91,6 @@ iframe {
     color: darkgray; /* 日本語翻訳の文字色 */
     padding-top: 4px;
     display: inline;
-    white-space: pre-wrap; /* 改行を適用 */
 }
 
 .en {
@@ -98,7 +98,6 @@ iframe {
     color: darkgray; /* 英語翻訳の文字色 */
     padding-top: 4px;
     display: inline;
-    white-space: pre-wrap; /* 改行を適用 */
 }
 
 .kr {
@@ -106,5 +105,4 @@ iframe {
     color: darkgray; /* 韓国語翻訳の文字色 */
     padding-top: 4px;
     display: inline;
-    white-space: pre-wrap; /* 改行を適用 */
 }
