@@ -160,9 +160,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const koreanText = document.querySelectorAll('.translation.korean');
 
     // 対応するテキストを表示・非表示する関数
+    // チェックボックスの状態（checked）に基づき、該当するテキスト要素の
+    // style.displayをblockまたはnoneに設定
     function toggleTranslation(checkbox, elements) {
         if (!checkbox || !elements) return;
 
+        // チェックボックスがチェックされている場合、表示、されていない場合は非表示
         const displayStyle = checkbox.checked ? 'block' : 'none';
         elements.forEach(element => {
             element.style.display = displayStyle;
