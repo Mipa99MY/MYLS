@@ -200,10 +200,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // チェックボックスに対応するテキストの表示/非表示を切り替える関数
     function toggleTranslation(checkbox, textElements) {
-        if (checkbox.checked) {
-            textElements.forEach(element => element.style.display = 'block');
-        } else {
-            textElements.forEach(element => element.style.display = 'none');
-        }
+        console.log(`Checkbox checked: ${checkbox.checked}`);
+        textElements.forEach(element => {
+            console.log(element);  // 各テキスト要素を確認
+            element.style.display = checkbox.checked ? 'inline' : 'none';
+        });
     }
-});
