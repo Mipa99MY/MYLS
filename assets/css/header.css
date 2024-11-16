@@ -31,7 +31,7 @@ header {
 /* ハンバーガーメニューのスタイル */
 .hamburger-menu {
     cursor: pointer;
-    display: flex;
+    display: none;  /* PC版では非表示 */
     flex-direction: column;
     justify-content: space-between;
     height: 24px;
@@ -54,7 +54,7 @@ header {
     color: white;
     padding: 20px;
     transition: transform 0.3s ease-in-out;
-    transform: translateX(-100%);
+    transform: translateX(0);  /* PC版では常に表示 */
 }
 
 .side-menu.active {
@@ -79,17 +79,19 @@ header {
 
 /* レスポンシブデザイン：スマートフォンとタブレット */
 @media (max-width: 768px) {
-    /* ヘッダー（モバイル版） */
+    /* ハンバーガーメニュー */
+    .hamburger-menu {
+        display: flex;  /* レスポンシブ版では表示 */
+    }
+
+    /* サイドメニュー（モバイル版） */
     .side-menu {
-        right: -250px;
+        transform: translateX(-100%); /* 初期状態で非表示 */
+        right: 0;
         left: auto;
     }
 
     .side-menu.active {
-        right: 0;
-    }
-
-    .hamburger-menu {
-        display: flex;
+        transform: translateX(0);  /* メニューを表示 */
     }
 }
