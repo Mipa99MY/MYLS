@@ -149,6 +149,8 @@ function getCurrentTime() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    // ページロード時にチェックボックスとテキストの初期状態を設定
+    initializeCheckboxes();
     console.log('Initializing checkboxes');
 
     // チェックボックスと対応するテキスト要素を取得
@@ -204,7 +206,4 @@ document.addEventListener('DOMContentLoaded', () => {
             toggleTranslation(koreanCheckbox, koreanText);
         });
     }
-
-    // ページロード時にチェックボックスとテキストの初期状態を設定
-    initializeCheckboxes();
 });
