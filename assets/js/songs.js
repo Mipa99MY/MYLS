@@ -207,4 +207,4 @@ window.onload = function () {
             toggleTranslation(koreanCheckbox, koreanText);
         }
     }
-});
+};
