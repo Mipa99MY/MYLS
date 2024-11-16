@@ -158,7 +158,7 @@ function toggleTranslation(checkbox, textElements) {
     });
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+window.onload = function () {
     // チェックボックスと対応するテキスト要素を取得
     const japaneseCheckbox = document.getElementById('showJapanese');
     const englishCheckbox = document.getElementById('showEnglish');
