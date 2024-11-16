@@ -55,7 +55,6 @@ body {
         1px 1px 0 #c3dcfa,   /* 最初の影 - 薄い青 */
         2px 2px 0 #dcaeff,   /* 中間の影 - 淡い紫 */
         3px 3px 0 #d59fd0;   /* 最後の影 - 濃い紫 */
-    background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* .MYの角度に合わせた */
 }
 
 /* .MYスタイル */
