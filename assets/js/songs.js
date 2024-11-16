@@ -155,9 +155,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const japaneseCheckbox = document.getElementById('showJapanese');
     const englishCheckbox = document.getElementById('showEnglish');
     const koreanCheckbox = document.getElementById('showKorean');
-    const japaneseText = document.querySelectorAll('.translation.japanese');
-    const englishText = document.querySelectorAll('.translation.english');
-    const koreanText = document.querySelectorAll('.translation.korean');
+
+    // 対応するテキスト要素を取得（srtファイル内のタグをspanでラップしたもの）
+    const japaneseText = document.querySelectorAll('.jp');
+    const englishText = document.querySelectorAll('.en');
+    const koreanText = document.querySelectorAll('.kr');
 
     // 対応するテキストを表示・非表示する関数
     // チェックボックスの状態（checked）に基づき、該当するテキスト要素の
@@ -168,6 +170,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // チェックボックスがチェックされている場合、表示、されていない場合は非表示
         const displayStyle = checkbox.checked ? 'block' : 'none';
         elements.forEach(element => {
+            console.log('Toggling display of', element);  // デバッグログ
             element.style.display = displayStyle;
         });
     }
