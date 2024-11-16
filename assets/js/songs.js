@@ -206,3 +206,4 @@ document.addEventListener('DOMContentLoaded', () => {
             element.style.display = checkbox.checked ? 'inline' : 'none';
         });
     }
+});
