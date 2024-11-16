@@ -164,18 +164,21 @@ document.addEventListener('DOMContentLoaded', () => {
     // チェックボックスに変更があった場合のイベントリスナー設定
     if (japaneseCheckbox) {
         japaneseCheckbox.addEventListener('change', () => {
+            console.log('Checkbox showJapanese is now:', japaneseCheckbox.checked);
             toggleTranslation(japaneseCheckbox, japaneseText);
         });
     }
 
     if (englishCheckbox) {
         englishCheckbox.addEventListener('change', () => {
+            console.log('Checkbox showEnglish is now:', englishCheckbox.checked);
             toggleTranslation(englishCheckbox, englishText);
         });
     }
 
     if (koreanCheckbox) {
         koreanCheckbox.addEventListener('change', () => {
+            console.log('Checkbox showKorean is now:', koreanCheckbox.checked);
             toggleTranslation(koreanCheckbox, koreanText);
         });
     }
