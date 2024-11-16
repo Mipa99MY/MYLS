@@ -148,11 +148,10 @@ function getCurrentTime() {
     return 0;
 }
 
-// DOMの読み込みを待つ
 document.addEventListener('DOMContentLoaded', () => {
     console.log('Initializing checkboxes');
 
-    // 各チェックボックスと対応するテキスト要素を取得
+    // チェックボックスと対応するテキスト要素を取得
     const japaneseCheckbox = document.getElementById('showJapanese');
     const englishCheckbox = document.getElementById('showEnglish');
     const koreanCheckbox = document.getElementById('showKorean');
@@ -160,7 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const englishText = document.querySelectorAll('.translation.english');
     const koreanText = document.querySelectorAll('.translation.korean');
 
-    // 対象テキストを表示・非表示する関数
+    // 対応するテキストを表示・非表示する関数
     function toggleTranslation(checkbox, elements) {
         if (!checkbox || !elements) return;
 
@@ -168,15 +167,13 @@ document.addEventListener('DOMContentLoaded', () => {
         elements.forEach(element => {
             element.style.display = displayStyle;
         });
-
-        console.log(`Checkbox ${checkbox.id} is now: ${checkbox.checked}`);
     }
 
-    // 初期化関数
+    // 初期化関数：ページ読み込み時に全てのチェックボックスを外す
     function initializeCheckboxes() {
         if (japaneseCheckbox) {
-            japaneseCheckbox.checked = false;
-            toggleTranslation(japaneseCheckbox, japaneseText);
+            japaneseCheckbox.checked = false;  // 初期状態でチェックを外す
+            toggleTranslation(japaneseCheckbox, japaneseText);  // 対応するテキストを非表示
         }
         if (englishCheckbox) {
             englishCheckbox.checked = false;
@@ -190,21 +187,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // チェックボックスにイベントリスナーを追加
     if (japaneseCheckbox) {
-        japaneseCheckbox.addEventListener('change', () =>
-            toggleTranslation(japaneseCheckbox, japaneseText)
-        );
+        japaneseCheckbox.addEventListener('change', () => {
+            toggleTranslation(japaneseCheckbox, japaneseText);
+        });
     }
     if (englishCheckbox) {
-        englishCheckbox.addEventListener('change', () =>
-            toggleTranslation(englishCheckbox, englishText)
-        );
+        englishCheckbox.addEventListener('change', () => {
+            toggleTranslation(englishCheckbox, englishText);
+        });
     }
     if (koreanCheckbox) {
-        koreanCheckbox.addEventListener('change', () =>
-            toggleTranslation(koreanCheckbox, koreanText)
-        );
+        koreanCheckbox.addEventListener('change', () => {
+            toggleTranslation(koreanCheckbox, koreanText);
+        });
     }
 
-    // ページロード時にチェックボックスを初期化
+    // ページロード時にチェックボックスとテキストの初期状態を設定
     initializeCheckboxes();
 });
