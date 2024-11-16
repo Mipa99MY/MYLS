@@ -154,7 +154,7 @@ function toggleTranslation(checkbox, textElements) {
     console.log(textElements);  // textElementsが正しく取得できているか確認
     textElements.forEach(element => {
         console.log(element);  // 各テキスト要素を確認
-        element.style.display = checkbox.checked ? 'inline' : 'none';
+        element.style.display = checkbox.checked ? 'block' : 'none';
     });
 }
 
