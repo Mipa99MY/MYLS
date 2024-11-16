@@ -148,6 +148,16 @@ function getCurrentTime() {
     return 0;
 }
 
+// チェックボックスに対応するテキストの表示/非表示を切り替える関数
+function toggleTranslation(checkbox, textElements) {
+    console.log(`Checkbox checked: ${checkbox.checked}`);
+    console.log(textElements);  // textElementsが正しく取得できているか確認
+    textElements.forEach(element => {
+        console.log(element);  // 各テキスト要素を確認
+        element.style.display = checkbox.checked ? 'inline' : 'none';
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     // チェックボックスと対応するテキスト要素を取得
     const japaneseCheckbox = document.getElementById('showJapanese');
@@ -196,14 +206,5 @@ document.addEventListener('DOMContentLoaded', () => {
             koreanCheckbox.checked = false;
             toggleTranslation(koreanCheckbox, koreanText);
         }
-    }
-
-    // チェックボックスに対応するテキストの表示/非表示を切り替える関数
-    function toggleTranslation(checkbox, textElements) {
-        console.log(`Checkbox checked: ${checkbox.checked}`);
-        textElements.forEach(element => {
-            console.log(element);  // 各テキスト要素を確認
-            element.style.display = checkbox.checked ? 'inline' : 'none';
-        });
     }
 });
