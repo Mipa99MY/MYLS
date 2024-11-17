@@ -1,0 +1,18 @@
+---
+layout: "song"
+title: "Whiplash"
+videoId: "jWQx2f-CErU" # YouTube動画のIDを入力
+lyricsFile: "/srt/whiplash.srt" # 歌詞のSRTファイル名を入力
+isKoreanSong: true # 韓国語の曲の場合
+---
+<!-- videoId と lyricsFile を JavaScript に渡す -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const videoId = "{{ page.videoId | jsonify }}";
+        const lyricsFile = "{{ page.lyricsFile | jsonify }}";
+        console.log("videoId:", videoId);  // これで変数の中身を確認
+        console.log("lyricsFile:", lyricsFile);  // 同じく確認
+        loadLyrics(lyricsFile, videoId); // loadLyricsにvideoIdを渡す
+    });
+</script>
+<script src="/assets/js/songs.js"></script>

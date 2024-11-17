@@ -1,0 +1,388 @@
+<MY>wah~~</MY>
+
+<with>YEAH</with>
+
+1
+00:00:07,702 --> 00:00:09,566
+<aespa>One look give ‘em Whiplash</aespa> <MY>Whiplash!</MY>
+
+2
+00:00:09,566 --> 00:00:11,518
+<aespa>Beat drop with a big flash</aespa> <MY>big flash!</MY>
+
+3
+00:00:11,518 --> 00:00:13,487
+<aespa>집중해 좀 더 Think fast</aespa> <MY>Think fast</MY>
+<jp>集中して もっと Think fast</jp>
+<en>C'mon, focus Think fast</en>
+
+5
+00:00:13,487 --> 00:00:15,374
+<aespa>이유 넌 이해 못 해</aespa>
+<jp>理由 君には分からない</jp>
+<en>They're reasons you'll never understand</en>
+
+6
+00:00:15,374 --> 00:00:17,206
+<aespa>왜 이제야 Know I did that</aespa> <MY>did that</aespa>
+<jp>どうして今さら Know I did that</jp>
+<en>Why at last Know I did that</en>
+
+8
+00:00:17,206 --> 00:00:19,158
+<aespa>Day 1 know I been bad</aespa> <MY>been bad</MY>
+
+9
+00:00:19,158 --> 00:00:21,118
+<aespa>Don’t stop 흔들린 채</aespa>
+<jp>Don’t stop 揺さぶられたまま</jp>
+<en>Don’t stop Still shook</en>
+
+11
+00:00:21,118 --> 00:00:23,495
+<aespa>무리해도 Can’t touch that</aespa> <MY>Can’t touch that</MY>
+<jp>無理しても Can’t touch that</jp>
+<en>Goin' too hard, yet Can’t touch that</en>
+
+13
+00:00:23,495 --> 00:00:24,990
+<aespa>Under pressure, body sweating</aespa>
+
+15
+00:00:24,990 --> 00:00:26,962
+<aespa>Can you focus</aespa> <MY>aespa!</MY>
+
+16
+00:00:26,962 --> 00:00:28,914
+<aespa>어디서나 거침없어</aespa>
+<jp>どこでだってためらわずに</jp>
+<en>Wherever I am can't stop me</en>
+
+17
+00:00:28,914 --> 00:00:30,843
+<aespa>I’m the coldest</aespa> <MY>aespa!</MY>
+
+18
+00:00:30,843 --> 00:00:32,052
+<aespa>오직 나만이</aespa>
+<jp>ただ私だけが</jp>
+<en>I'm the only</en>
+
+19
+00:00:32,052 --> 00:00:34,730
+<aespa>이 판을 바꿀 Changer</aespa>
+<jp>この構図を変える Changer</jp>
+<en>Game-Changer bringin' the new era</en>
+
+20
+00:00:34,730 --> 00:00:36,490
+<aespa>Just close your eyes,</aespa>
+
+21
+00:00:36,490 --> 00:00:38,555
+<aespa>breathe in and visualize</aespa>
+
+22
+00:00:38,555 --> 00:00:40,042
+<aespa>One look give ‘em Whiplash</aespa> <MY>Whiplash</MY>
+
+23
+00:00:40,042 --> 00:00:42,020
+<aespa>Beat drop with a big flash</aespa> <MY>big flash</MY>
+
+24
+00:00:42,020 --> 00:00:43,918
+<aespa>집중해 좀 더 Think fast</aespa> <MY>Think fast</MY>
+<jp>集中して もっと Think fast</jp>
+<en>C'mon, focus Think fast</en>
+
+26
+00:00:43,918 --> 00:00:45,717
+<aespa>이유 넌 이해 못 해</aespa>
+<jp>理由 君には分からない</jp>
+<en>They're reasons you'll never understand</en>
+
+27
+00:00:45,717 --> 00:00:47,717
+<aespa>왜 이제야 Know I did that</aespa> <MY>did that</MY>
+<jp>どうして今さら Know I did that</jp>
+<en>Why at last Know I did that</en>
+
+29
+00:00:47,717 --> 00:00:49,589
+<aespa>Day 1 know I been bad</aespa> <MY>been bad</MY>
+
+30
+00:00:49,589 --> 00:00:51,445
+<aespa>Don’t stop 흔들린 채</aespa>
+<jp>Don’t stop 揺さぶられたまま</jp>
+<en>Don’t stop Still shook</en>
+
+32
+00:00:51,445 --> 00:00:51,901
+<aespa>무리해도</aespa>
+<jp>無理しても</jp>
+<en>Goin' too hard, yet</en>
+
+33
+00:00:51,901 --> 00:00:54,819
+<aespa>Can’t touch that Can't touch that</aespa> <MY>Can't touch that</MY>
+
+35
+00:00:54,819 --> 00:01:07,524
+<with>Whip-Whiplash</with>
+
+36
+00:01:07,524 --> 00:01:09,378
+<aespa>One look give ‘em Whiplash</aespa>
+
+37
+00:01:09,378 --> 00:01:10,905
+<with>Fancy</with>
+
+38
+00:01:10,905 --> 00:01:12,273
+<aespa>이건 참 화려해</aespa>
+<jp>これって本当派手だね</jp>
+<en>This so glitzy</en>
+
+39
+00:01:12,273 --> 00:01:14,779
+<aespa>It’s glowing and it’s</aespa> <with>flashy</with>
+
+40
+00:01:14,779 --> 00:01:16,402
+<aespa>알아 적당함이 뭔지</aespa>
+<jp>分かってる 適度とは何か</jp>
+<en>Keep it just right, I know it</en>
+
+41
+00:01:16,402 --> 00:01:18,362
+<aespa>Keep it</aespa> <with>classy</with>
+
+42
+00:01:18,362 --> 00:01:19,227
+<aespa>따라 하지</aespa>
+<jp>マネする</jp>
+<en>Cats gon' copy</en>
+
+43
+00:01:19,227 --> 00:01:22,002
+<aespa>넌 또 하나부터 열까지</aespa>
+<jp>君はまた一から十まで</jp>
+<en>One idea, two, then the whole look</en>
+
+44
+00:01:22,002 --> 00:01:24,155
+<aespa>아닌척하지 Yeah</aespa> <MY>aespa!</MY>
+<jp>白を切る Yeah</jp>
+<en>Then deny it Yeah</en>
+
+45
+00:01:24,155 --> 00:01:25,973
+<aespa>Under pressure, body sweating</aespa>
+
+47
+00:01:25,973 --> 00:01:27,949
+<aespa>Can you focus</aespa> <MY>aespa!</MY>
+
+48
+00:01:27,949 --> 00:01:29,876
+<aespa>I deliver, I can promise</aespa>
+
+49
+00:01:29,876 --> 00:01:31,827
+<aespa>I’m the coldest</aespa> <MY>aespa!</aespa>
+
+51
+00:01:31,827 --> 00:01:35,534
+<aespa>외면해도 소용없지 Don't you blow it</aespa>
+<jp>無視しても無馱だよ</jp>
+<en>Head in the sand won't solve it</en>
+
+53
+00:01:35,534 --> 00:01:37,477
+<aespa>Just close your eyes,</aespa>
+
+54
+00:01:37,477 --> 00:01:40,103
+<aespa>breathe in and visualize</aespa>
+
+55
+00:01:40,103 --> 00:01:44,145
+<aespa>시작되는 순간 끝나버린 판단</aespa>
+<jp>始まる瞬間 終わってしまった判断</jp>
+<en>The moment it begins Verdict is in</en>
+
+57
+00:01:44,145 --> 00:01:45,952
+<aespa>기횐 오직 One time</aespa>
+<jp>チャンスはたった One time</jp>
+<en>Opportunity knocks just One time</en>
+
+58
+00:01:45,952 --> 00:01:47,837
+<aespa>Unforgettable</aespa>
+
+59
+00:01:47,837 --> 00:01:49,799
+<aespa>찾아낸 The right light</aespa>
+<jp>見つけ出した The right light</jp>
+<en>I found The right light</en>
+
+60
+00:01:49,799 --> 00:01:51,656
+<aespa>사라지지 않아</aespa>
+<jp>消えない</jp>
+<en>Won't go gentle into the night</en>
+
+61
+00:01:51,656 --> 00:01:53,608
+<aespa>눈에 새긴 One time</aespa>
+<jp>目に焼き付けた One time</jp>
+<en>Etched in my eyes One time</en>
+
+62
+00:01:53,608 --> 00:01:58,296
+<aespa>Unforgettable</aespa> <MY>gettable gettable</MY>
+
+63
+00:01:58,296 --> 00:02:00,081
+<aespa>One look give ‘em Whiplash</aespa> <MY>whiplash</MY>
+
+64
+00:02:00,081 --> 00:02:02,009
+<aespa>Beat drop with a big flash</aespa> <MY>big flash</MY>
+
+65
+00:02:02,009 --> 00:02:03,898
+<aespa>집중해 좀 더 Think fast</aespa> <MY>Think fast</MY>
+<jp>集中して もっと Think fast</jp>
+<en>C'mon, focus Think fast</en>
+
+67
+00:02:03,898 --> 00:02:05,817
+<aespa>이유 넌 이해 못 해</aespa>
+<jp>理由 君には分からない</jp>
+<en>They're reasons you'll never understand</en>
+
+68
+00:02:05,817 --> 00:02:06,274
+<aespa>왜 이제야</aespa>
+<jp>どうして今さら</jp>
+<en>Why at last</en>
+
+69
+00:02:06,274 --> 00:02:07,737
+<aespa>Know I did that</aespa> <MY>did that</MY>
+
+70
+00:02:07,737 --> 00:02:09,544
+<aespa>Day 1 know I been bad</aespa> <MY>been bad</MY>
+
+71
+00:02:09,544 --> 00:02:11,449
+<aespa>Don’t stop 흔들린 채</aespa>
+<jp>Don’t stop 揺さぶられたまま</jp>
+<en>Don’t stop Still shook</en>
+
+73
+00:02:11,449 --> 00:02:11,988
+<aespa>무리해도</aespa>
+<jp>無理しても</jp>
+<en>Goin' too hard, yet</en>
+
+74
+00:02:11,988 --> 00:02:13,841
+<aespa>Can’t touch that</aespa> <MY>Can't touch that</MY>
+
+76
+00:02:13,841 --> 00:02:15,537
+<aespa>I’m the highlight</aespa>
+
+77
+00:02:15,537 --> 00:02:17,513
+<aespa>비춰 Red light</aespa>
+<jp>照らす Red light</jp>
+<en>Shine the Red light</en>
+
+78
+00:02:17,513 --> 00:02:20,098
+<aespa>Yeah Tonight, it's all about me</aespa>
+
+81
+00:02:21,290 --> 00:02:23,129
+<aespa>You know it’s my site</aespa>
+
+82
+00:02:23,129 --> 00:02:25,217
+<aespa>거친 Next sigh</aespa>
+<jp>荒い Next sigh</jp>
+<en>Next sigh so heavy</en>
+
+83
+00:02:25,217 --> 00:02:30,601
+<aespa>만들어갈 History</aespa>
+<jp>作っていく History</jp>
+<en>We be writin' History</en>
+
+<MY>Ohhhhh</MY>
+
+84
+00:02:30,601 --> 00:02:32,494
+<aespa>One look give ‘em Whiplash</aespa> <MY>Whiplash</MY>
+
+85
+00:02:32,494 --> 00:02:34,397
+<aespa>Beat drop with a big flash</aespa> <MY>big flash</MY>
+
+86
+00:02:34,397 --> 00:02:36,374
+<aespa>따라와 어서 Move fast</aespa> <MY>Move fast</MY>
+<jp>ついてきて 早く Move fast</jp>
+<en>C'mon keep up, Move fast</en>
+
+87
+00:02:36,374 --> 00:02:38,206
+<aespa>이유 넌 이해 못 해</aespa>
+<jp>理由 君には分からない</jp>
+<en>They're reasons you'll never understand</en>
+
+88
+00:02:38,206 --> 00:02:38,686
+<aespa>왜 이제야</aespa>
+<jp>どうして今さら</jp>
+<en>Why at last</en>
+
+89
+00:02:38,686 --> 00:02:40,090
+<aespa>Know I did that</aespa> <MY>did that</MY>
+
+90
+00:02:40,090 --> 00:02:41,907
+<aespa>Day 1 know I been bad</aespa> <MY>been bad</MY>
+
+91
+00:02:41,907 --> 00:02:43,891
+<aespa>Don’t stop 흔들린 채</aespa>
+<jp>Don’t stop 揺さぶられたまま</jp>
+<en>Don’t stop Still shook</en>
+
+93
+00:02:43,891 --> 00:02:44,371
+<aespa>다가와도</aespa>
+<jp>近づいてきても</jp>
+<en>Even it be incomin'</en>
+
+94
+00:02:44,371 --> 00:02:46,986
+<aespa>Can’t touch that</aespa> <MY>Can’t touch that</MY>
+
+96
+00:02:46,986 --> 00:03:00,000
+<with>Whip-Whiplash</with>
+
+97
+00:03:00,000 --> 00:03:02,291
+<with>One look give ‘em Whiplash</with>
+
