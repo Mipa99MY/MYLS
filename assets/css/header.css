@@ -19,14 +19,12 @@
     display: none;  /* PC版では非表示 */
     cursor: pointer;
     background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* グラデーション */
-    background: none;
     border: none;
     color: white;
     font-size: 30px;  /* ハンバーガーアイコンのサイズ */
     padding: 5px 10px; /* ボタンの余白 */
     border-radius: 5px; /* ボタンの角丸 */
     transition: transform 0.2s ease; /* クリック時のアニメーション */
-
 }
 
 /* サイドメニューのスタイル（PC版用） */
