@@ -60,6 +60,14 @@
 
 /* レスポンシブデザイン：モバイル版用 */
 @media (max-width: 768px) {
+    
+    /* メニューボタンを表示 */
+    .menu-button {
+        display: block;  /* モバイル版では表示する */
+        position: fixed; /* 固定位置にする */
+        top: 10px;       /* 上部からのマージン */
+        right: 10px;     /* 右側の位置 */
+    }
     /* メニューが右側に表示されるように設定 */
     .sidebar {
         right: -250px; /* 最初は画面外に配置 */
