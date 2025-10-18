@@ -30,7 +30,6 @@
             </div>
         </div>
     </main>
-    <script src="/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script>
         // YouTube APIの読み込み完了を待つ
         function onYouTubeIframeAPIReady() {
@@ -44,7 +43,22 @@
                 loadLyrics(lyricsFile, videoId); // lyricsFileとvideoIdをloadLyricsに渡す
             });
         }
+        
+        // フォールバック: YouTube APIが読み込まれない場合の処理
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(() => {
+                if (typeof loadLyrics === 'function') {
+                    const videoId = "{{ page.videoId }}";
+                    const lyricsFile = "{{ page.lyricsFile }}";
+                    console.log("Fallback: Loading lyrics without YouTube API");
+                    console.log("Video ID:", videoId);
+                    console.log("Loading lyrics from:", lyricsFile);
+                    loadLyrics(lyricsFile, videoId);
+                }
+            }, 2000);
+        });
     </script>
+    <script src="/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script src="/assets/js/scripts.js"></script>    
 </body>
 </html>
