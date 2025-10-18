@@ -1,6 +1,7 @@
 // videoIdをパラメータとして受け取るように修正
 function loadLyrics(lyricsFile, videoId) {
     console.log("loadLyrics function called with file:", lyricsFile);
+    console.log("loadLyrics function called with videoId:", videoId);
     fetch(lyricsFile)
         .then(response => {
             console.log("Fetch response:", response); // ファイル取得のレスポンスを確認
@@ -60,11 +61,6 @@ function parseSRT(data) {
 }
 
 let player; // プレイヤーオブジェクトをグローバルスコープで定義
-
-// YouTube APIの読み込み完了を待つ
-function onYouTubeIframeAPIReady() {
-    console.log("YouTube API ready");
-}
 
 // 初期表示で全歌詞を画面に表示する関数
 function displayAllLyrics(lyrics) {
