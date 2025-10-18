@@ -28,13 +28,13 @@ body {
 
 /* 曲タイトルのスタイル */
 .logo h1 {
-    font-size: 1.8em; /* デフォルトより小さく */
-    margin-bottom: 10px; /* 下のマージンを小さく */
+    font-size: 1.4em; /* さらに小さく */
+    margin-bottom: 5px; /* 下のマージンをさらに小さく */
 }
 
 /* YouTube動画エリアのスタイル */
 #youtubeVideo {
-    margin: 10px 0; /* 上下のマージンを小さく */
+    margin: 5px 0; /* 上下のマージンをさらに小さく */
 }
 
 /* 歌詞エリア */
@@ -43,7 +43,7 @@ body {
     overflow-y: auto;
     padding: 20px;
     background-color: #fff;
-    margin-top: 10px; /* 上マージンを小さく */
+    margin-top: 5px; /* 上マージンをさらに小さく */
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
