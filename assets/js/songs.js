@@ -1,8 +1,5 @@
-// JekyllからvideoIdを取得
-// 注意: Jekyll変数が正しくページに埋め込まれているか確認すること
-const videoId = "{{ page.videoId }}"; // フロントマターから取得するYouTubeの動画ID
-
-function loadLyrics(lyricsFile) {
+// videoIdをパラメータとして受け取るように修正
+function loadLyrics(lyricsFile, videoId) {
     console.log("loadLyrics function called with file:", lyricsFile);
     fetch(lyricsFile)
         .then(response => {
