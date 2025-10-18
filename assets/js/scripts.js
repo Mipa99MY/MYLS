@@ -6,6 +6,10 @@ function toggleMenu() {
     // メニューの開閉をトグル
     sideMenu.classList.toggle('active');
 
-    // メニューボタンが消えないように、常に表示状態を維持
-    menuButton.style.display = 'block';
+    // メニューボタンのアイコンを切り替え
+    if (sideMenu.classList.contains('active')) {
+        menuButton.innerHTML = '&#10005;'; // ×マーク（閉じるボタン）
+    } else {
+        menuButton.innerHTML = '&#9776;'; // ハンバーガーアイコン
+    }
 }
