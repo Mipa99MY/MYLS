@@ -29,7 +29,7 @@ body {
 /* 曲タイトルのスタイル */
 .logo h1 {
     font-size: 1.4em; /* さらに小さく */
-    margin-bottom: 5px; /* 下のマージンをさらに小さく */
+    margin-bottom: 0; /* 下のマージンを0に */
 }
 
 /* YouTube動画エリアのスタイル */
