@@ -21,10 +21,15 @@
     background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* グラデーション */
     border: none;
     color: white;
-    font-size: 30px;  /* ハンバーガーアイコンのサイズ */
-    padding: 5px 10px; /* ボタンの余白 */
+    font-size: 24px;  /* ハンバーガーアイコンのサイズ */
+    font-weight: bold; /* 太字にする */
+    padding: 8px 12px; /* ボタンの余白を増やす */
     border-radius: 5px; /* ボタンの角丸 */
     transition: transform 0.2s ease; /* クリック時のアニメーション */
+    min-width: 40px; /* 最小幅を設定 */
+    min-height: 40px; /* 最小高さを設定 */
+    text-align: center; /* テキストを中央揃え */
+    line-height: 1; /* 行の高さを調整 */
 }
 
 /* サイドメニューのスタイル（PC版用） */
