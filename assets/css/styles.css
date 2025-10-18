@@ -26,13 +26,24 @@ body {
     overflow: hidden;
 }
 
+/* 曲タイトルのスタイル */
+.logo h1 {
+    font-size: 1.8em; /* デフォルトより小さく */
+    margin-bottom: 10px; /* 下のマージンを小さく */
+}
+
+/* YouTube動画エリアのスタイル */
+#youtubeVideo {
+    margin: 10px 0; /* 上下のマージンを小さく */
+}
+
 /* 歌詞エリア */
 #lyricsContainer {
     max-height: 400px;
     overflow-y: auto;
     padding: 20px;
     background-color: #fff;
-    margin-top: 20px;
+    margin-top: 10px; /* 上マージンを小さく */
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
