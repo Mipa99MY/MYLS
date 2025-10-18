@@ -61,6 +61,11 @@ function parseSRT(data) {
 
 let player; // プレイヤーオブジェクトをグローバルスコープで定義
 
+// YouTube APIの読み込み完了を待つ
+function onYouTubeIframeAPIReady() {
+    console.log("YouTube API ready");
+}
+
 // 初期表示で全歌詞を画面に表示する関数
 function displayAllLyrics(lyrics) {
     const lyricsContainer = document.getElementById('lyrics');
@@ -85,11 +90,26 @@ function displayAllLyrics(lyrics) {
 
 // 動画再生に合わせて歌詞を自動スクロールする関数
 function syncLyricsWithVideo(lyrics, videoId) {
+    console.log("syncLyricsWithVideo called with videoId:", videoId);
+    console.log("YT object:", window.YT);
+    console.log("YT.Player:", YT.Player);
+    
+    // YouTube APIの読み込みを待つ
     if (!window.YT || !YT.Player) {
-        console.error("YouTube API not loaded");
+        console.log("YouTube API not ready, waiting...");
+        setTimeout(() => {
+            syncLyricsWithVideo(lyrics, videoId);
+        }, 1000);
         return;
     }
 
+    // videoIdの検証
+    if (!videoId || videoId === "{{ page.videoId }}" || videoId.trim() === "") {
+        console.error("Invalid videoId:", videoId);
+        return;
+    }
+
+    console.log("Creating YouTube player with videoId:", videoId);
     player = new YT.Player('youtubeVideo', {
         videoId: videoId,
         width: '300',

@@ -30,17 +30,21 @@
             </div>
         </div>
     </main>
-    <script src="/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
-            const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
-            console.log("DOMContentLoaded event fired"); // デバッグ用
-            console.log("Video ID:", videoId); // videoId が正しく取得できているか確認
-            console.log("Loading lyrics from:", lyricsFile); // lyricsFile が正しく取得できているか確認
-            loadLyrics(lyricsFile, videoId); // lyricsFileとvideoIdをloadLyricsに渡す
-        });
+        // YouTube APIの読み込み完了を待つ
+        function onYouTubeIframeAPIReady() {
+            console.log("YouTube API ready");
+            document.addEventListener('DOMContentLoaded', () => {
+                const videoId = "{{ page.videoId }}"; // Jekyllの変数を使ってvideoIdを取得
+                const lyricsFile = "{{ page.lyricsFile }}"; // Jekyllの変数を使ってlyricsFileを取得
+                console.log("DOMContentLoaded event fired"); // デバッグ用
+                console.log("Video ID:", videoId); // videoId が正しく取得できているか確認
+                console.log("Loading lyrics from:", lyricsFile); // lyricsFile が正しく取得できているか確認
+                loadLyrics(lyricsFile, videoId); // lyricsFileとvideoIdをloadLyricsに渡す
+            });
+        }
     </script>
+    <script src="/assets/js/songs.js"></script> <!-- baseurlを追加 -->
     <script src="/assets/js/scripts.js"></script>    
 </body>
 </html>
