@@ -82,6 +82,9 @@ function displayAllLyrics(lyrics) {
             .replace(/<kr>(.*?)<\/kr>/g, '<span class="kr">$1</span>');
         lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
     });
+    
+    // 歌詞が表示された後にチェックボックス機能を初期化
+    initializeTranslationCheckboxes();
 }
 
 // 動画再生に合わせて歌詞を自動スクロールする関数
@@ -171,7 +174,10 @@ function toggleTranslation(checkbox, textElements) {
     });
 }
 
-window.onload = function () {
+// 翻訳チェックボックス機能を初期化する関数
+function initializeTranslationCheckboxes() {
+    console.log("Initializing translation checkboxes");
+    
     // チェックボックスと対応するテキスト要素を取得
     const japaneseCheckbox = document.getElementById('showJapanese');
     const englishCheckbox = document.getElementById('showEnglish');
@@ -181,6 +187,15 @@ window.onload = function () {
     const japaneseText = document.querySelectorAll('.jp');
     const englishText = document.querySelectorAll('.en');
     const koreanText = document.querySelectorAll('.kr');
+
+    console.log("Found elements:", {
+        japaneseCheckbox: !!japaneseCheckbox,
+        englishCheckbox: !!englishCheckbox,
+        koreanCheckbox: !!koreanCheckbox,
+        japaneseText: japaneseText.length,
+        englishText: englishText.length,
+        koreanText: koreanText.length
+    });
 
     // ページロード時にチェックボックスとテキストの初期状態を設定
     initializeCheckboxes();
@@ -220,4 +235,4 @@ window.onload = function () {
             toggleTranslation(koreanCheckbox, koreanText);
         }
     }
-};
+}
