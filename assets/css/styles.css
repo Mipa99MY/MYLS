@@ -60,25 +60,34 @@ body {
     transition: all 0.3s ease;
 }
 
+/* 歌詞アクセント（<MY> の文字塗りと <with> の背面で共通） */
+:root {
+    --lyric-accent-gradient: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0);
+}
+
 /* 歌詞のタグ別スタイル */
 .aespa {
     color: black;
 }
 
+/* 黒字の下に MY と同じグラデを敷く（インラインは行ごとに box が複製される） */
 .with {
     color: black;
-    text-shadow: 
-        1px 1px 0 #c3dcfa,   /* 最初の影 - 薄い青 */
-        2px 2px 0 #dcaeff,   /* 中間の影 - 淡い紫 */
-        3px 3px 0 #d59fd0;   /* 最後の影 - 濃い紫 */
+    font-weight: bold;
+    background: var(--lyric-accent-gradient);
+    padding: 0.06em 0.18em;
+    border-radius: 0.2em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
-/* .MYスタイル */
+/* グラデを文字の塗りにする */
 .MY {
-    background: linear-gradient(to bottom right, #c3dcfa, #dcaeff, #d59fd0); /* 中間色 #dcaeff を追加 */
+    background: var(--lyric-accent-gradient);
     -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
-    font-weight: bold; /* 太字にする */
+    font-weight: bold;
 }
 
 /* iframe スタイル */
