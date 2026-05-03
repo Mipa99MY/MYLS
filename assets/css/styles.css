@@ -82,7 +82,9 @@ body {
 
 .with__bg {
     z-index: 0;
-    font-weight: bold;
+    font-weight: normal;
+    /* bold だと字幅が上の通常字と一致せず右にじわじわずれるので、ストロークで「太め」に見せる */
+    -webkit-text-stroke: 0.55px rgba(200, 160, 230, 0.85);
     /* 完全重ねだと黒字が不透明でグラデが一切見えないので、ごく少しずらしてはみ出させる */
     transform: translate(0.06em, 0.07em);
     background: var(--lyric-accent-gradient);
