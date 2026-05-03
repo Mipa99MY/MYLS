@@ -82,13 +82,19 @@ body {
 }
 
 .with__bg {
+    z-index: 0;
+    /* 完全重ねだと黒字が不透明でグラデが一切見えないので、ごく少しずらしてはみ出させる */
+    transform: translate(0.06em, 0.07em);
     background: var(--lyric-accent-gradient);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 
 .with__fg {
+    position: relative;
+    z-index: 1;
     color: black;
 }
 
