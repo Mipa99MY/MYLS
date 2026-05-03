@@ -82,6 +82,7 @@ body {
 
 .with__bg {
     z-index: 0;
+    font-weight: bold;
     /* 完全重ねだと黒字が不透明でグラデが一切見えないので、ごく少しずらしてはみ出させる */
     transform: translate(0.06em, 0.07em);
     background: var(--lyric-accent-gradient);
@@ -95,6 +96,7 @@ body {
     position: relative;
     z-index: 1;
     color: black;
+    font-weight: normal;
 }
 
 /* グラデを文字の塗りにする */
