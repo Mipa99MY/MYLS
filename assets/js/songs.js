@@ -62,6 +62,14 @@ function parseSRT(data) {
 
 let player; // プレイヤーオブジェクトをグローバルスコープで定義
 
+function escapeHtml(text) {
+    return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+}
+
 // 初期表示で全歌詞を画面に表示する関数
 function displayAllLyrics(lyrics) {
     const lyricsContainer = document.getElementById('lyrics');
@@ -74,12 +82,15 @@ function displayAllLyrics(lyrics) {
 
     lyrics.forEach(lyric => {
         let formattedLyric = lyric.text
-            .replace(/<aespa>(.*?)<\/aespa>/g, '<span class="aespa">$1</span>')
-            .replace(/<MY>(.*?)<\/MY>/g, '<span class="MY">$1</span>')
-            .replace(/<with>(.*?)<\/with>/g, '<span class="with">$1</span>')
-            .replace(/<jp>(.*?)<\/jp>/g, '<span class="jp">$1</span>')
-            .replace(/<en>(.*?)<\/en>/g, '<span class="en">$1</span>')
-            .replace(/<kr>(.*?)<\/kr>/g, '<span class="kr">$1</span>');
+            .replace(/<aespa>(.*?)<\/aespa>/g, (_, t) => `<span class="aespa">${escapeHtml(t)}</span>`)
+            .replace(/<MY>(.*?)<\/MY>/g, (_, t) => `<span class="MY">${escapeHtml(t)}</span>`)
+            .replace(/<with>(.*?)<\/with>/g, (_, t) => {
+                const e = escapeHtml(t);
+                return `<span class="with"><span class="with__bg" aria-hidden="true">${e}</span><span class="with__fg">${e}</span></span>`;
+            })
+            .replace(/<jp>(.*?)<\/jp>/g, (_, t) => `<span class="jp">${escapeHtml(t)}</span>`)
+            .replace(/<en>(.*?)<\/en>/g, (_, t) => `<span class="en">${escapeHtml(t)}</span>`)
+            .replace(/<kr>(.*?)<\/kr>/g, (_, t) => `<span class="kr">${escapeHtml(t)}</span>`);
         lyricsContainer.innerHTML += `<div data-start="${lyric.startTime}" class="lyric-line">${formattedLyric}</div>`;
     });
     
