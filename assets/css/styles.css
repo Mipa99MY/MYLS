@@ -73,7 +73,6 @@ body {
 /* グラデの字形を下層・黒字を上層に重ねる（長方形の背景は使わない） */
 .with {
     display: inline-grid;
-    font-weight: bold;
 }
 
 .with__bg,
